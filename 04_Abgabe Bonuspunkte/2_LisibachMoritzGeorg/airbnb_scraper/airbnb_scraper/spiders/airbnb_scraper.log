@@ -1,0 +1,66 @@
+2025-03-23 22:36:34,553 - INFO - Starting Airbnb scraper
+2025-03-23 22:36:38,809 - INFO - Starting scrape for date range: 2025-06-26_to_2025-06-29
+2025-03-23 22:36:38,811 - INFO - Opening URL: https://www.airbnb.com/s/St.-Gallen---Switzerland/homes?checkin=2025-06-26&checkout=2025-06-29
+2025-03-23 22:36:50,585 - INFO - Processing page 1 for 2025-06-26_to_2025-06-29
+2025-03-23 22:37:00,020 - INFO - Found 24 listings with selector: div[itemprop='itemListElement']
+2025-03-23 22:37:02,027 - INFO - Saved 6 listings to airbnb_data/airbnb_listings_2025-06-26_to_2025-06-29.csv
+2025-03-23 22:37:02,028 - INFO - Total listings so far: 6
+2025-03-23 22:37:02,109 - INFO - No next page button found or button not clickable
+2025-03-23 22:37:02,109 - INFO - No more pages available
+2025-03-23 22:37:02,109 - INFO - Completed scraping for 2025-06-26_to_2025-06-29. Total listings: 6
+2025-03-23 22:37:10,196 - INFO - Starting scrape for date range: 2025-10-09_to_2025-10-19
+2025-03-23 22:37:10,199 - INFO - Opening URL: https://www.airbnb.com/s/St.-Gallen---Switzerland/homes?checkin=2025-10-09&checkout=2025-10-19
+2025-03-23 22:37:19,377 - INFO - Processing page 1 for 2025-10-09_to_2025-10-19
+2025-03-23 22:37:28,375 - INFO - Found 18 listings with selector: div[itemprop='itemListElement']
+2025-03-23 22:37:29,445 - WARNING - No listings found on page 1
+2025-03-23 22:37:29,516 - INFO - Completed scraping for 2025-10-09_to_2025-10-19. Total listings: 0
+2025-03-23 22:37:38,230 - INFO - Summary created at airbnb_data/airbnb_all_listings.csv
+2025-03-23 22:37:38,230 - INFO - Date range 2025-06-26_to_2025-06-29: 6 listings
+2025-03-23 22:37:38,230 - INFO - Date range 2025-10-09_to_2025-10-19: 0 listings
+2025-03-23 22:37:38,461 - INFO - Scraping completed successfully
+2025-03-23 22:41:53,177 - INFO - Starting Airbnb scraper
+2025-03-23 22:41:57,470 - INFO - Starting scrape for date range: 2025-06-26_to_2025-06-29
+2025-03-23 22:41:57,472 - INFO - Opening URL: https://www.airbnb.com/s/St.-Gallen---Switzerland/homes?checkin=2025-06-26&checkout=2025-06-29
+2025-03-23 22:42:08,257 - INFO - Processing page 1 for 2025-06-26_to_2025-06-29
+2025-03-23 22:42:17,389 - INFO - Found 24 listings with selector: div[itemprop='itemListElement']
+2025-03-23 22:42:18,655 - INFO - Total listings so far: 6
+2025-03-23 22:42:18,701 - INFO - No next page button found or button not clickable
+2025-03-23 22:42:18,701 - INFO - No more pages available
+2025-03-23 22:42:18,701 - WARNING - Only found 6 listings. Retry 1 of 3
+2025-03-23 22:42:30,433 - INFO - Opening URL: https://www.airbnb.com/s/St.-Gallen---Switzerland/homes?checkin=2025-06-26&checkout=2025-06-29
+2025-03-23 22:42:40,660 - INFO - Processing page 1 for 2025-06-26_to_2025-06-29
+2025-03-23 22:42:48,839 - INFO - Found 24 listings with selector: div[itemprop='itemListElement']
+2025-03-23 22:42:49,990 - INFO - Total listings so far: 6
+2025-03-23 22:42:50,018 - INFO - No next page button found or button not clickable
+2025-03-23 22:42:50,018 - INFO - No more pages available
+2025-03-23 22:42:50,018 - WARNING - Only found 6 listings. Retry 2 of 3
+2025-03-23 22:43:02,952 - INFO - Opening URL: https://www.airbnb.com/s/St.-Gallen---Switzerland/homes?checkin=2025-06-26&checkout=2025-06-29
+2025-03-23 22:43:12,986 - INFO - Processing page 1 for 2025-06-26_to_2025-06-29
+2025-03-23 22:43:21,003 - INFO - Found 24 listings with selector: div[itemprop='itemListElement']
+2025-03-23 22:43:22,451 - INFO - Total listings so far: 6
+2025-03-23 22:43:22,502 - INFO - No next page button found or button not clickable
+2025-03-23 22:43:22,502 - INFO - No more pages available
+2025-03-23 22:43:22,502 - WARNING - Only found 6 listings. Retry 3 of 3
+2025-03-23 22:43:33,042 - INFO - Saved 6 listings to airbnb_data/airbnb_listings_2025-06-26_to_2025-06-29.csv
+2025-03-23 22:43:33,043 - INFO - Completed scraping for 2025-06-26_to_2025-06-29. Total listings: 6
+2025-03-23 22:43:42,714 - INFO - Starting scrape for date range: 2025-10-09_to_2025-10-19
+2025-03-23 22:43:42,718 - INFO - Opening URL: https://www.airbnb.com/s/St.-Gallen---Switzerland/homes?checkin=2025-10-09&checkout=2025-10-19
+2025-03-23 22:43:51,998 - INFO - Processing page 1 for 2025-10-09_to_2025-10-19
+2025-03-23 22:44:01,331 - INFO - Found 18 listings with selector: div[itemprop='itemListElement']
+2025-03-23 22:44:02,313 - WARNING - No listings found on page 1
+2025-03-23 22:44:02,313 - WARNING - Only found 0 listings. Retry 1 of 3
+2025-03-23 22:44:16,929 - INFO - Opening URL: https://www.airbnb.com/s/St.-Gallen---Switzerland/homes?checkin=2025-10-09&checkout=2025-10-19
+2025-03-23 22:44:26,522 - INFO - Processing page 1 for 2025-10-09_to_2025-10-19
+2025-03-23 22:44:34,515 - INFO - Found 18 listings with selector: div[itemprop='itemListElement']
+2025-03-23 22:44:35,427 - WARNING - No listings found on page 1
+2025-03-23 22:44:35,427 - WARNING - Only found 0 listings. Retry 2 of 3
+2025-03-23 22:44:49,951 - INFO - Opening URL: https://www.airbnb.com/s/St.-Gallen---Switzerland/homes?checkin=2025-10-09&checkout=2025-10-19
+2025-03-23 22:44:58,025 - INFO - Processing page 1 for 2025-10-09_to_2025-10-19
+2025-03-23 22:45:07,193 - INFO - Found 18 listings with selector: div[itemprop='itemListElement']
+2025-03-23 22:45:08,211 - WARNING - No listings found on page 1
+2025-03-23 22:45:08,211 - WARNING - Only found 0 listings. Retry 3 of 3
+2025-03-23 22:45:19,929 - INFO - Completed scraping for 2025-10-09_to_2025-10-19. Total listings: 0
+2025-03-23 22:45:28,027 - INFO - Summary created at airbnb_data/airbnb_all_listings.csv
+2025-03-23 22:45:28,028 - INFO - Date range 2025-06-26_to_2025-06-29: 6 listings
+2025-03-23 22:45:28,028 - INFO - Date range 2025-10-09_to_2025-10-19: 0 listings
+2025-03-23 22:45:28,364 - INFO - Scraping completed successfully
