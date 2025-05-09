@@ -14,7 +14,7 @@ from googleapiclient.errors import HttpError
 import pandas as pd
 
 # Replace with your YouTube API Key
-DEVELOPER_KEY = "AIzaSyBWz3lTHE0wsL2ce_CU6ap5iUoDhTXstlc"
+DEVELOPER_KEY = "abc"
 
 # List of video IDs
 VIDEO_IDS = [
