@@ -1,0 +1,11 @@
+[
+{"url": "https://www.wahlrecht.de/umfragen/allensbach.htm", "institute": "allensbach", "file_path": "wahlrecht_html/allensbach.htm"},
+{"url": "https://www.wahlrecht.de/umfragen/politbarometer.htm", "institute": "politbarometer", "file_path": "wahlrecht_html/politbarometer.htm"},
+{"url": "https://www.wahlrecht.de/umfragen/gms.htm", "institute": "gms", "file_path": "wahlrecht_html/gms.htm"},
+{"url": "https://www.wahlrecht.de/umfragen/dimap.htm", "institute": "dimap", "file_path": "wahlrecht_html/dimap.htm"},
+{"url": "https://www.wahlrecht.de/umfragen/yougov.htm", "institute": "yougov", "file_path": "wahlrecht_html/yougov.htm"},
+{"url": "https://www.wahlrecht.de/umfragen/insa.htm", "institute": "insa", "file_path": "wahlrecht_html/insa.htm"},
+{"url": "https://www.wahlrecht.de/umfragen/", "institute": "index", "file_path": "wahlrecht_html/index.htm"},
+{"url": "https://www.wahlrecht.de/umfragen/emnid.htm", "institute": "emnid", "file_path": "wahlrecht_html/emnid.htm"},
+{"url": "https://www.wahlrecht.de/umfragen/forsa.htm", "institute": "forsa", "file_path": "wahlrecht_html/forsa.htm"}
+]

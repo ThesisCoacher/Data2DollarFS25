@@ -1,0 +1,85 @@
+bundesland,partei,listenplatz,nachname,vorname,beruf,geburtsjahr,wahlkreis_name,wahlkreis_nummer
+Bremen,SPD,001,Hiller,Ulrike Elisabeth,Erzieherin,1965,Bremen I,054
+Bremen,SPD,002,Schmidt,Uwe,"MdB, Hafenfacharbeiter",1966,Bremen II – Bremerhaven,055
+Bremen,SPD,003,Kozlowski,Anke,Referentin,1962,,
+Bremen,SPD,004,Schmidt,Pascal Lars Robin,Student,2001,,
+Bremen,SPD,005,Greenlees,Luisa Fiona,Studentin,2004,,
+Bremen,SPD,006,Lenkeit,Kevin,"MdBB, Politikwissenschaftler",1985,,
+Bremen,GRÜNE,001,Dr. Kappert-Gonther,Kirsten,Ärztin,1966,Bremen I,054
+Bremen,GRÜNE,002,Labetzke,Michael,Polizist,1970,Bremen II – Bremerhaven,055
+Bremen,GRÜNE,003,Assmus,Josephine Talena,wissenschaftl. Mitarbeiterin,1990,,
+Bremen,GRÜNE,004,Herold,Emanuel,Soziologe,1986,,
+Bremen,GRÜNE,005,Schiller,Elena,Konstruktions-Ingenieurin Meeresforschung,1992,,
+Bremen,GRÜNE,006,Poolke,Pascal,Student,2000,,
+Bremen,CDU,001,Röwekamp,Thomas,"Rechtsanwalt, Notar",1966,Bremen I,054
+Bremen,CDU,002,Schmull,Sandra,Juristin,1994,Bremen II – Bremerhaven,055
+Bremen,CDU,003,Sander-von Torklus,Mario,Referatsleiter,1963,,
+Bremen,CDU,004,Gorontzy,Jessica Olatokunbo Saidat,Rechtsanwältin,1982,,
+Bremen,CDU,005,Dr. Heidelmann,Marc-André,Professor Hochschule,1989,,
+Bremen,FDP,001,Dr. Redder,Volker Hans,Unternehmer,1959,Bremen I,054
+Bremen,FDP,002,Behrmann,Tiara Sonja,Finanzwirtin,1996,Bremen II – Bremerhaven,055
+Bremen,FDP,003,Schiller,Bettina Gabriele,Unternehmerin,1954,,
+Bremen,FDP,004,Siems,Paul Henrik,Wehrdienstleistender,2004,,
+Bremen,FDP,005,Wohlers,Jule Hannah,HR Businesspartner,1991,,
+Bremen,Die Linke,001,Achelwilm,Doris Maria,Angestellte,1976,Bremen I,054
+Bremen,Die Linke,002,Hassanpour Fard Khorashad,Dariush,Sprachlehrer,1996,Bremen II – Bremerhaven,055
+Bremen,Die Linke,003,Fischer,Anna,Studentin,1997,,
+Bremen,Die Linke,004,Gloede,Christian Thomas,Behindertenpädagoge,1961,,
+Bremen,Die Linke,005,Budimski,Elena,Schülerin,2005,,
+Bremen,Die Linke,006,Tebje,Ingo,Gewerkschaftssekretär,1972,,
+Bremen,AfD,001,Minich,Sergej,Wirtschaftsingenieur,1987,Bremen I,054
+Bremen,AfD,002,Hauschild,Jürgen,Amtsinspektor i. R.,1951,,
+Bremen,AfD,003,Staschewski,Arno Heinz,Dipl.-Kaufmann,1957,Bremen II – Bremerhaven,055
+Bremen,AfD,004,Hilbers,Stephan,Medientechnologe Siebdruck,1970,,
+Bremen,AfD,005,Wachsmann,Sebastian,Tischler,1993,,
+Bremen,Die PARTEI,001,Herms,Sandor Herms,Student,1994,Bremen I,054
+Bremen,Die PARTEI,002,Rothgänger,Ruth,Gesundheits- und Krankenpfleger im OP-Funktionsdienst,1990,,
+Bremen,Die PARTEI,003,Teckemeier,Aaron,Fachkraft Veranstaltungstechnik,1993,,
+Bremen,Die PARTEI,004,Köke,Lars,Propagandist,1970,,
+Bremen,Die PARTEI,005,Schmidt,Marc,erwerbsunfähiger Rentner,1973,,
+Bremen,Die PARTEI,006,Schulz,Marten,Mediengestalter Bild und Ton,1988,,
+Bremen,Die PARTEI,007,Friedrich,Holm,Spezialexperte,1965,,
+Bremen,Die PARTEI,008,Bergmann,Frank,Politiker,1972,,
+Bremen,Die PARTEI,009,Balke,Ralf-Peter,Systemadministrator,1963,,
+Bremen,Die PARTEI,010,Müller,Thomas Jens,Sicherheitskraft,1968,,
+Bremen,Die PARTEI,011,Schulz,Rachel Kea,Studentin,1997,,
+Bremen,Die PARTEI,012,Baron von der Recke,Thomas Peter Ernst,Experte,1967,,
+Bremen,Die PARTEI,013,Niedernhöfer,André,"Ehrenbeamter, Fraktionsgeschäftsführer, kaufm. Angestellter",1992,,
+Bremen,Die PARTEI,014,Buitkamp,Eric,Bereichsleitung in der Eingliederungshilfe,1987,,
+Bremen,Freie Wähler,001,Büntjen,Katharina Martina Elisabeth,kaufm. Angestellte,1955,Bremen II – Bremerhaven,055
+Bremen,Freie Wähler,002,Dräger,Lothar,Pensionär,1945,,
+Bremen,Freie Wähler,003,Beinhorn,Ursula Barbara,Rentnerin,1949,,
+Bremen,Freie Wähler,004,von dem Knesebeck,Marietta,Rentnerin,1943,,
+Bremen,Volt,001,Grützner-Stallmann,Christin,Lehrerin allgemeinbildende Schulen,1984,,
+Bremen,Volt,002,Graf,Simon Heinrich Vitus,Raumfahrtingenieur,1987,,
+Bremen,Volt,003,Vieweger,Bettina,Immobilienfachwirtin,1992,,
+Bremen,Volt,004,Cornelsen,Matthias,Marketingmanager,1977,Bremen II – Bremerhaven,055
+Bremen,MENSCHLICHE WELT,001,Rolf,Elias Clemens,Redakteur,2001,,
+Bremen,MENSCHLICHE WELT,002,Wesling,Jens,Schulbegleiter,1968,,
+Bremen,MLPD,001,Salomon,Lena Barbara,Erzieherin,1979,Bremen II – Bremerhaven,055
+Bremen,MLPD,002,Lange,Wanja Max,Regisseur,1987,Bremen I,054
+Bremen,MLPD,003,Braun,Harald Gerhard,Drucker,1954,,
+Bremen,MLPD,004,Butza,Philip,Angestellter,1991,,
+Bremen,MLPD,005,Lange,Helmut Walter Wolfgang,Dreher,1952,,
+Bremen,BÜNDNIS DEUTSCHLAND,001,Kusch,Sebastian Gregor,Softwarearchitekt,1985,Bremen I,054
+Bremen,BÜNDNIS DEUTSCHLAND,002,Minne,Andre Folkert,Mitglied des Landtages,1971,,
+Bremen,BÜNDNIS DEUTSCHLAND,003,Albrecht,Christopher,Pressesprecher,2000,Bremen II – Bremerhaven,055
+Bremen,BÜNDNIS DEUTSCHLAND,004,Jurgan,Jens-Rainer,selbst. Einzelkaufmann,1965,,
+Bremen,BSW,001,Schulze,David Christopher,Sozialwissenschaftler,1988,,
+Bremen,BSW,002,Boomgaarden,Ute Olga,Lehrerin,1967,,
+Bremen,BSW,003,Fabian,Roman Jörg,med.-techn. Radiologieassistent (MTRA),1963,,
+Bremen,BSW,004,Arslan,Nesim,Angestellter im öffentlichen Dienst,1990,,
+Bremen,BSW,005,Müller,Mine,Dipl.-Ing. Elektrotechnik,1972,,
+Bremen,BSW,006,Tegtmeier,Ernst Rainer,Kapitän a. D.,1946,,
+Bremen,MERA25,001,Sense,Niklas,Freiberufler,1991,,
+Bremen,MERA25,002,Falk,Annalena,Verkäuferin,1999,,
+Bremen,MERA25,003,Diop,Barbara Maria,Krankenschwester,1962,,
+Bremen,MERA25,004,Genin,Jan,Dipl.-Ingenieur,1977,,
+Bremen,MERA25,005,Maslout-Siegfried,Yasser,Webentwickler,1987,,
+Bremen,MERA25,006,Worpenberg,Jan,Softwareentwickler,1989,,
+Bremen,Verjüngungsforschung,001,Borst,Sandra Nicola,Studentin,2002,,
+Bremen,Verjüngungsforschung,002,Hellborn,Jan Wulf Rasmus,Software Consultant,1996,,
+Bremen,Verjüngungsforschung,003,Beyerlein,Andrea Ilsabe Edith,Rentnerin,1958,,
+Bremen,Verjüngungsforschung,004,Dr. Seifert,Frank,Physiker,1984,,
+Bremen,Verjüngungsforschung,005,Spiekermann,Jan-Olav,"Sicherheitsfachkraft, Meisterschüler",1991,,
+Bremen,Verjüngungsforschung,006,Elsner,Christoph,stellv. Geschäftsführer,1998,,

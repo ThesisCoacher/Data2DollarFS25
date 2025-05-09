@@ -1,0 +1,129 @@
+bundesland,partei,listenplatz,nachname,vorname,beruf,geburtsjahr,wahlkreis_name,wahlkreis_nummer
+Thüringen,AfD,001,Brandner,Stephan Günther,"MdB, Industriekaufmann, Rechtsanwalt",1966,Gera – Greiz – Altenburger Land,193
+Thüringen,AfD,002,Möller,Stefan,Rechtsanwalt,1975,Eisenach – Wartburgkreis – Unstrut-Hainich-Kreis,189
+Thüringen,AfD,003,Braga,Torben,Politikwissenschaftler,1991,,
+Thüringen,AfD,004,Leupold,Andreas,"Regelschullehrer, Mag. theol.",1991,,
+Thüringen,AfD,005,Teske,Robert,Büroleiter,1990,Suhl – Schmalkalden-Meiningen – Hildburghausen – Sonneberg,195
+Thüringen,AfD,006,Drößler,Christopher,Polizeibeamter,1995,Eichsfeld – Nordhausen – Kyffhäuserkreis,188
+Thüringen,AfD,007,Claus,Alexander,"wissenschaftl. Mitarbeiter, Referent",1995,Erfurt – Weimar – Weimarer Land II,192
+Thüringen,AfD,008,Prof. Dr. Kaufmann,Michael Heinz,Ingenieur,1964,Saalfeld-Rudolstadt – Saale-Holzland-Kreis – Saale-Orla-Kreis,194
+Thüringen,AfD,009,Schröder,Stefan Falko,Büroleiter,1983,Jena – Sömmerda – Weimarer Land I,190
+Thüringen,SPD,001,Schneider,Carsten,Bankkaufmann,1976,Erfurt – Weimar – Weimarer Land II,192
+Thüringen,SPD,002,Kaiser,Elisabeth,Verwaltungswissenschaftlerin,1987,Gera – Greiz – Altenburger Land,193
+Thüringen,SPD,003,Dr. Becker,Holger,Physiker,1964,Jena – Sömmerda – Weimarer Land I,190
+Thüringen,SPD,004,Rudolph,Tina,Ärztin,1991,Eisenach – Wartburgkreis – Unstrut-Hainich-Kreis,189
+Thüringen,SPD,005,Meß,Raimund,Gewerkschaftssekretär,1990,Suhl – Schmalkalden-Meiningen – Hildburghausen – Sonneberg,195
+Thüringen,SPD,006,Sayed,Mohamed Fayez Ahmed,Lehrer,1974,Eichsfeld – Nordhausen – Kyffhäuserkreis,188
+Thüringen,SPD,007,Wagner,Florian,Pflegefachmann,2001,Gotha – Ilm-Kreis,191
+Thüringen,SPD,008,Dohna,Bastian Lutz Günter,Rettungssanitäter,1999,Saalfeld-Rudolstadt – Saale-Holzland-Kreis – Saale-Orla-Kreis,194
+Thüringen,SPD,009,Starke,David,Student,2002,,
+Thüringen,SPD,010,Meinhardt-Heib,Alexander,Soldat,1971,,
+Thüringen,SPD,011,Eger,Siegfried Hugo Heinrich,Pfarrer i. R.,1941,,
+Thüringen,CDU,001,Hirte,Christian,Rechtsanwalt und Fachanwalt Steuerrecht,1976,Eisenach – Wartburgkreis – Unstrut-Hainich-Kreis,189
+Thüringen,CDU,002,Herbstreuth,Diana,Soldatin,1981,Saalfeld-Rudolstadt – Saale-Holzland-Kreis – Saale-Orla-Kreis,194
+Thüringen,CDU,003,Gregosz,David,Volkswirt,1983,Eichsfeld – Nordhausen – Kyffhäuserkreis,188
+Thüringen,CDU,004,Hose,Michael,Schulleiter,1984,Erfurt – Weimar – Weimarer Land II,192
+Thüringen,CDU,005,Schipanski,Tankred,Rechtsanwalt,1976,Gotha – Ilm-Kreis,191
+Thüringen,CDU,006,Blose,Hendrik,Bankkaufmann,1978,Jena – Sömmerda – Weimarer Land I,190
+Thüringen,CDU,007,Golembiewski,Cornelius,Arzt,1992,Gera – Greiz – Altenburger Land,193
+Thüringen,CDU,008,Krahner,Lilly,Lehrerin,1995,,
+Thüringen,CDU,009,Götz,Katrin,Versicherungsmaklerin,1970,,
+Thüringen,CDU,010,Noori,Marion Anne,selbständig,1960,,
+Thüringen,CDU,011,Müller,Konstantin,Elektromeister,1996,,
+Thüringen,CDU,012,Kinder,Andreas,Lehrer,1981,,
+Thüringen,CDU,013,Randhawa,Gurdeep Singh,Geschäftsführer,1960,,
+Thüringen,CDU,014,Rau,Lilia,Heimleiterin,1959,,
+Thüringen,CDU,015,Holzhauer,Manuel-Dominik,Kauffrau Büromanagement,1998,,
+Thüringen,CDU,016,Simon,Hans-Arno,leitender Regierungsdirektor,1958,,
+Thüringen,Die Linke,001,Ramelow,Bodo,"MdL, Kaufmann",1956,Erfurt – Weimar – Weimarer Land II,192
+Thüringen,Die Linke,002,Vogtschmidt,Donata Katharina Rebecca,Staatswissenschaftlerin,1998,Eichsfeld – Nordhausen – Kyffhäuserkreis,188
+Thüringen,Die Linke,003,Eißing,Mandy,Mitarbeiterin Bürgerbüro,1976,Saalfeld-Rudolstadt – Saale-Holzland-Kreis – Saale-Orla-Kreis,194
+Thüringen,Die Linke,004,Tempel,Frank,Polizeibeamter,1969,Gera – Greiz – Altenburger Land,193
+Thüringen,Die Linke,005,Tischer,Jessica,Tanzpädagogin,1980,,
+Thüringen,Die Linke,006,Lemm,Michael,Gewerkschaftssekretär,1975,Eisenach – Wartburgkreis – Unstrut-Hainich-Kreis,189
+Thüringen,Die Linke,007,Held,Carolin,Dezernentin,1994,,
+Thüringen,Die Linke,008,Starost,Daniel,"Koch, Bäcker, Konditor",1973,,
+Thüringen,Die Linke,009,Obenauf,Hannes,Sozialversicherungsfachangestellter,2000,,
+Thüringen,Die Linke,010,Bach,Sebastian Freimund,"arbeitssuchend, freier Autor",1982,,
+Thüringen,FDP,001,Wagner,Tim,Mitglied des Deutschen Bundestages,1981,Jena – Sömmerda – Weimarer Land I,190
+Thüringen,FDP,002,Mölders,Martin,Rentner,1958,Gotha – Ilm-Kreis,191
+Thüringen,FDP,003,Thiele,Marco,Gymnasiallehrer,1984,Gera – Greiz – Altenburger Land,193
+Thüringen,FDP,004,Kählert,Felix,Maschinenbauer,1987,,
+Thüringen,FDP,005,Seyfarth,Lukas,Auszubildender zum Lokführer,2002,,
+Thüringen,FDP,006,Philipp-Dittrich,Petra Andrea,selbst. Handwerksmeisterin,1969,,
+Thüringen,FDP,007,Hardrath,Marcel,Wirtschaftswissenschaftler,1981,Eichsfeld – Nordhausen – Kyffhäuserkreis,188
+Thüringen,FDP,008,Bender,Leon Dustin,Student,2002,Eisenach – Wartburgkreis – Unstrut-Hainich-Kreis,189
+Thüringen,FDP,009,Teufel,Petra Angelika,Dipl.-Mathematiker,1988,,
+Thüringen,FDP,010,Richter,Michelle,Referentin,1998,,
+Thüringen,FDP,011,Menz,Morris-Pascal,Politikwissenschaftler,2002,,
+Thüringen,FDP,012,Ulonksa,Martin,"Lehrer, Studienrat",1985,,
+Thüringen,FDP,013,Fritsche,Sven,Fachkraft Arbeitssicherheit,1972,,
+Thüringen,FDP,014,Metzner,Manuel,selbst. Kaufmann,1987,Saalfeld-Rudolstadt – Saale-Holzland-Kreis – Saale-Orla-Kreis,194
+Thüringen,FDP,015,Krautmacher,Jörg Roland,Unternehmer,1966,,
+Thüringen,FDP,016,Splitthof,Markus,Angestellter,1990,,
+Thüringen,GRÜNE,001,Göring-Eckardt,Katrin Dagmar,Mitglied des Deutschen Bundestages,1966,Erfurt – Weimar – Weimarer Land II,192
+Thüringen,GRÜNE,002,Henfling,Madeleine,Politikerin,1983,Gotha – Ilm-Kreis,191
+Thüringen,GRÜNE,003,Dr. Matthey,Astrid,Angestellte,1978,Saalfeld-Rudolstadt – Saale-Holzland-Kreis – Saale-Orla-Kreis,194
+Thüringen,GRÜNE,004,Leibbrandt,Pascal,wissenschaftl. Mitarbeiter,1984,,
+Thüringen,GRÜNE,005,Strecker,Heike Erika,Buchhändlerin,1965,Eisenach – Wartburgkreis – Unstrut-Hainich-Kreis,189
+Thüringen,GRÜNE,006,Dr. Knopf,Heiko,Ingenieur,1989,Jena – Sömmerda – Weimarer Land I,190
+Thüringen,GRÜNE,007,Klemm-Lorenz,Kai Ernst Ralf,Student,2000,Eichsfeld – Nordhausen – Kyffhäuserkreis,188
+Thüringen,GRÜNE,008,Kröber,Manfred Robert,Lehrer,1979,Suhl – Schmalkalden-Meiningen – Hildburghausen – Sonneberg,195
+Thüringen,Freie Wähler,001,Hummel,Andreas,Unternehmer,1983,Suhl – Schmalkalden-Meiningen – Hildburghausen – Sonneberg,195
+Thüringen,Freie Wähler,002,Pahlke,Silvio,Polizeibeamter,1975,,
+Thüringen,Freie Wähler,003,Engelhardt,Corina,Verwaltungsfachangestellte Bauverwaltung,1966,Jena – Sömmerda – Weimarer Land I,190
+Thüringen,Freie Wähler,004,Dr. Gunstheimer,Gerd,"Berufsschullehrer, Studienrat",1966,,
+Thüringen,Freie Wähler,005,Böhme,Andreas,Verkehrsingenieur,1960,Eisenach – Wartburgkreis – Unstrut-Hainich-Kreis,189
+Thüringen,Freie Wähler,006,Warschkow,Dirk,selbständig,1968,,
+Thüringen,Freie Wähler,007,Ratzer,Gabriele Ruth,Rentnerin,1960,,
+Thüringen,Freie Wähler,008,Barthel,Dirk,Polizeibeamter,1973,,
+Thüringen,Freie Wähler,009,Schuster,Jörg,Journalist,1963,,
+Thüringen,Freie Wähler,010,Gobel,Franz Ralph,Steuerassistent,1999,Saalfeld-Rudolstadt – Saale-Holzland-Kreis – Saale-Orla-Kreis,194
+Thüringen,Freie Wähler,011,Pappe,Detlef Götz,Rentner,1956,,
+Thüringen,Freie Wähler,012,Sauer,Ute Else,Unternehmerin,1959,,
+Thüringen,Freie Wähler,013,Schilling,Heiko Mario,Bürgermeister,1970,,
+Thüringen,Freie Wähler,014,Gobel,Marco Ralph,Stadtarbeiter,1969,,
+Thüringen,Freie Wähler,015,Recknagel,Sascha,Speditionskaufmann,1974,,
+Thüringen,Freie Wähler,016,Nicolai,Mathias,Offsetdrucker,1977,Gotha – Ilm-Kreis,191
+Thüringen,Volt,001,Brockmann,Gerit,Landwirtin,1973,,
+Thüringen,Volt,002,Mazouz,Jonas,Softwareentwickler,1994,,
+Thüringen,Volt,003,Wolf,Juliane,Musikproduzentin,1987,,
+Thüringen,Volt,004,Schiller,Frederic,Student,2002,,
+Thüringen,Volt,005,Mirow,Juliane Anna,Studentin,2001,,
+Thüringen,Volt,006,Bonsangue,Werner Alfons,Auszubildender,2003,,
+Thüringen,Volt,007,Mittenzwei,Juliane Angelika,Holzbetriebswirtin (FS),1987,,
+Thüringen,MLPD,001,Timm,Tassilo,Gleisbauer,1986,Erfurt – Weimar – Weimarer Land II,192
+Thüringen,MLPD,002,Engel,Stefan Klaus,freier Publizist,1954,Bottrop – Recklinghausen III,124
+Thüringen,MLPD,003,May,Ilka,Geschäftsführerin,1973,Eichsfeld – Nordhausen – Kyffhäuserkreis,188
+Thüringen,MLPD,004,Braungart,Anatole Tobias,CNC-Dreher,1962,Jena – Sömmerda – Weimarer Land I,190
+Thüringen,MLPD,005,Bauerle,Doris,Rentnerin,1960,,
+Thüringen,MLPD,006,Ilius,Klaus-Dieter,Energieanlagenelektroniker,1948,,
+Thüringen,MLPD,007,Lerps,Anka,Lehrerin,1964,,
+Thüringen,MLPD,008,Schmidt,Zane Dexter,Schüler,2007,,
+Thüringen,MLPD,009,Eifler,Andreas Stefan,Maschinenbauer,1955,Suhl – Schmalkalden-Meiningen – Hildburghausen – Sonneberg,195
+Thüringen,MLPD,010,Ilius,Petra,Lehrerin,1950,,
+Thüringen,MLPD,011,Schimmel,Maximilian,Verkaufsberater,1989,,
+Thüringen,MLPD,012,Hofmann,Friedrich Christoph,Werkzeugmacher,1954,Eisenach – Wartburgkreis – Unstrut-Hainich-Kreis,189
+Thüringen,MLPD,013,May,Thomas Michael,"Elektroniker, Hausleiter",1970,,
+Thüringen,MLPD,014,Muselmann,Detlef Manfred,Gleisbauer,1961,,
+Thüringen,MLPD,015,Bauerle,Joachim Walter,Fließbandarbeiter,1956,,
+Thüringen,BÜNDNIS DEUTSCHLAND,001,Brönner,Steffi,Lehrerin,1978,,
+Thüringen,BÜNDNIS DEUTSCHLAND,002,Reichardt,Andreas,Produktionsleiter,1968,,
+Thüringen,BÜNDNIS DEUTSCHLAND,003,Günther,Holm Reinhold,Oberbürgermeister a. D.,1956,,
+Thüringen,BÜNDNIS DEUTSCHLAND,004,Bornkessel,Ralf,öffentlich bestellter Vermessungsingenieur,1958,,
+Thüringen,BÜNDNIS DEUTSCHLAND,005,Martin,Doreen,exam. Krankenschwester,1977,,
+Thüringen,BÜNDNIS DEUTSCHLAND,006,Dr. Henke,Ronny,"Facharzt Allgemeinmedizin, Notfallmedizin",1978,,
+Thüringen,BÜNDNIS DEUTSCHLAND,007,Meißner,David,selbständig,1977,,
+Thüringen,BÜNDNIS DEUTSCHLAND,008,Franke,Oliver,kaufm. Sachbearbeiter,1965,,
+Thüringen,BÜNDNIS DEUTSCHLAND,009,Müller,Michael,selbst. Automobilkaufmann,1984,,
+Thüringen,BÜNDNIS DEUTSCHLAND,010,Vollmer,Lara,pharma.-techn. Assistentin,2000,,
+Thüringen,BÜNDNIS DEUTSCHLAND,011,Vollmer,Nico,kaufm. Angestellter,1998,,
+Thüringen,BÜNDNIS DEUTSCHLAND,012,Schiffer,Claudia,Einkäuferin,1973,,
+Thüringen,BSW,001,Henning,Robert,Gastronom,1987,Eichsfeld – Nordhausen – Kyffhäuserkreis,188
+Thüringen,BSW,002,Wirsing,Anke,"MdL, Fachwirtin Büro- und Projektorganisation",1980,Eisenach – Wartburgkreis – Unstrut-Hainich-Kreis,189
+Thüringen,BSW,003,Saß,Luca Chinonso,Schüler,2006,Jena – Sömmerda – Weimarer Land I,190
+Thüringen,BSW,004,Schmid,Thomas Franz,Angestellter,1966,,
+Thüringen,BSW,005,Hertlein,Patrizia Elisabeth Ursula,Juristin,1989,,
+Thüringen,BSW,006,Polter,Günter André,Geschäftsführer,1978,Gera – Greiz – Altenburger Land,193
+Thüringen,BSW,007,Seifert,Johannes,pädagogischer Mitarbeiter,1982,,
+Thüringen,BSW,008,Becker,Manfred,"Jurist, Verwaltungsangestellter",1968,,

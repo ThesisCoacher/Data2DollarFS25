@@ -1,0 +1,171 @@
+bundesland,partei,listenplatz,nachname,vorname,beruf,geburtsjahr,wahlkreis_name,wahlkreis_nummer
+Berlin,SPD,001,Stüwe,Ruppert Fritz Johannes,Dipl.-Volkswirt,1978,Berlin-Steglitz-Zehlendorf,078
+Berlin,SPD,002,Klose,Annika Gisela,Mitglied des Deutschen Bundestages,1992,Berlin-Mitte,074
+Berlin,SPD,003,Demir,Hakan,Mitglied des Deutschen Bundestages,1984,Berlin-Neukölln,081
+Berlin,SPD,004,Trăsnea,Ana-Maria,Staatssekretärin a. D.,1994,Berlin-Treptow-Köpenick,083
+Berlin,SPD,005,Kleebank,Helmut Heinrich,Mitglied des Deutschen Bundestages,1964,Berlin-Spandau – Charlottenburg Nord,077
+Berlin,SPD,006,Taşan-Funke,Sinem,"Beamtin, Juristin",1992,Berlin-Tempelhof-Schöneberg,080
+Berlin,SPD,007,Holter,Julian Gregor,wissenschaftl. Mitarbeiter,1983,Berlin-Reinickendorf,076
+Berlin,SPD,008,Wend,Alexandra,"Juristin, Beamtin",1986,Berlin-Pankow,075
+Berlin,SPD,009,Zimmerling,Jan,Beamter,1996,Berlin-Lichtenberg,085
+Berlin,SPD,010,Sinnokrot,Carmen,Volljuristin,1978,Berlin-Friedrichshain-Kreuzberg – Prenzlauer Berg Ost,082
+Berlin,SPD,011,Schneider,Ben Thomas,Kommunikationsberater,1998,Berlin-Marzahn-Hellersdorf,084
+Berlin,SPD,012,Dethlefsen,Anna,Verwaltungsfachwirtin,1988,,
+Berlin,SPD,013,Nowak,Jörg Franz,selbständig,1971,,
+Berlin,SPD,014,Wiemken,Urte,Juristin,1973,,
+Berlin,GRÜNE,001,Paus,Elisabeth Maria,Mitglied des Deutschen Bundestages,1968,Berlin-Charlottenburg-Wilmersdorf,079
+Berlin,GRÜNE,002,Audretsch,Andreas,Mitglied des Deutschen Bundestages,1984,Berlin-Neukölln,081
+Berlin,GRÜNE,003,Stahr,Nina Elisabeth,Lehrerin,1982,Berlin-Steglitz-Zehlendorf,078
+Berlin,GRÜNE,004,Steinmüller,Hanna Skrollan,Sozialwissenschaftlerin,1993,Berlin-Mitte,074
+Berlin,GRÜNE,005,Tepper,Maren,Referentin,1981,Berlin-Marzahn-Hellersdorf,084
+Berlin,GRÜNE,006,Esser,Annkatrin,"Studentin, Campaigner",1997,Berlin-Treptow-Köpenick,083
+Berlin,GRÜNE,007,Ahmadi,Gollaleh,Mitglied des Abgeordnetenhauses Berlin,1982,Berlin-Spandau – Charlottenburg Nord,077
+Berlin,GRÜNE,008,Dr. Heuberger,Moritz Sebastian,"Beamter, digitale Verwaltung",1991,Berlin-Tempelhof-Schöneberg,080
+Berlin,GRÜNE,009,Giesemann,Elisabeth,Volontärin Unternehmenskommunikation,1988,Berlin-Lichtenberg,085
+Berlin,GRÜNE,010,Schmidberger,Katrin,Mitglied des Abgeordnetenhauses Berlin,1982,Berlin-Friedrichshain-Kreuzberg – Prenzlauer Berg Ost,082
+Berlin,GRÜNE,011,Schneider,Julia,Mitglied des Abgeordnetenhauses Berlin,1990,Berlin-Pankow,075
+Berlin,GRÜNE,012,Schedlich,Klara Josephine,Mitglied des Abgeordnetenhauses Berlin,2000,Berlin-Reinickendorf,076
+Berlin,GRÜNE,013,Hacer,Aydemir,Studentin,1995,,
+Berlin,GRÜNE,014,Hickel,Konrad,Informatikkaufmann,1982,,
+Berlin,CDU,001,Dr. Luczak,Jan-Marco,Rechtsanwalt,1975,Berlin-Tempelhof-Schöneberg,080
+Berlin,CDU,002,Dr. Klein,Ottilie Paola,"MdB, Abteilungsdirektorin",1984,Berlin-Neukölln,081
+Berlin,CDU,003,Grasse,Adrian,Industrie- und Diplomkaufmann,1975,Berlin-Steglitz-Zehlendorf,078
+Berlin,CDU,004,Schulz,Marvin,Angestellter im öffentlichen Dienst,1994,Berlin-Reinickendorf,076
+Berlin,CDU,005,Dezember,Franziska,Angestellte,1992,Berlin-Pankow,075
+Berlin,CDU,006,Krieger,Lukas Albrecht,"Rechtsanwalt, Syndikus",1987,Berlin-Charlottenburg-Wilmersdorf,079
+Berlin,CDU,007,Kratzsch,Kevin,"Schausteller, Unternehmer",1982,Berlin-Friedrichshain-Kreuzberg – Prenzlauer Berg Ost,082
+Berlin,CDU,008,Schodrowski,Bernhard Jürgen,"Dipl.-Verwaltungswirt, Kommunikationsberater",1967,Berlin-Spandau – Charlottenburg Nord,077
+Berlin,CDU,009,Weibeler,Aileen,Studentin,1999,,
+Berlin,CDU,010,Trump,Katharina,Volljuristin,1988,,
+Berlin,CDU,011,Heilmann,Thomas,Mitglied des Deutschen Bundestages,1964,,
+Berlin,Die Linke,001,Dr. Gysi,Gregor Florian,Rechtsanwalt,1948,Berlin-Treptow-Köpenick,083
+Berlin,Die Linke,002,Schwerdtner,Ines,Publizistin,1989,Berlin-Lichtenberg,085
+Berlin,Die Linke,003,Gennburg,Katalin,Mitglied des Abgeordnetenhauses Berlin,1984,Berlin-Marzahn-Hellersdorf,084
+Berlin,Die Linke,004,Meiser,Pascal,Politikwissenschaftler,1975,Berlin-Friedrichshain-Kreuzberg – Prenzlauer Berg Ost,082
+Berlin,Die Linke,005,Merendino,Ottavia Stella,Gesundheits- und Krankenpflegerin,1994,Berlin-Mitte,074
+Berlin,Die Linke,006,Koçak,Ferat,Volkswirt,1979,Berlin-Neukölln,081
+Berlin,Die Linke,007,Caballero Alvarez,Pilar,Politikwissenschaftlerin,1993,,
+Berlin,Die Linke,008,Schenker,Niklas,Mitglied des Abgeordnetenhauses Berlin,1993,Berlin-Charlottenburg-Wilmersdorf,079
+Berlin,Die Linke,009,Engelmann,Claudia,Sozialarbeiterin,1980,,
+Berlin,Die Linke,010,Riedel,Hans-Ulrich,Geschäftsführer,1955,Berlin-Spandau – Charlottenburg Nord,077
+Berlin,AfD,001,von Storch,Beatrix Amelie Ehrengard Eilika,Mitglied des Deutschen Bundestages,1971,Berlin-Lichtenberg,085
+Berlin,AfD,002,Curio,Gottfried Justus Immanuel,Mitglied des Deutschen Bundestages,1960,Berlin-Marzahn-Hellersdorf,084
+Berlin,AfD,003,Gläser,Ronald Karl,Journalist,1973,Berlin-Pankow,075
+Berlin,AfD,004,Maack,Sebastian,Angestellter,1969,Berlin-Reinickendorf,076
+Berlin,AfD,005,Gleichmann,Michael Walter,Politikwissenschaftler,1989,Berlin-Treptow-Köpenick,083
+Berlin,AfD,006,Dr. Conradi,Ralf-Günther,Verbandsdirektor i. R.,1956,,
+Berlin,AfD,007,Dr. Adam,Michael,Rechtsanwalt,1962,,
+Berlin,AfD,008,Kerker,Stefan Franz,Versicherungskaufmann,1977,,
+Berlin,FDP,001,Meyer,Christoph Werner,Rechtsanwalt,1975,Berlin-Charlottenburg-Wilmersdorf,079
+Berlin,FDP,002,Kluckert,Daniela Katrin,Mitglied des Deutschen Bundestages,1980,Berlin-Pankow,075
+Berlin,FDP,003,Krumrey,Hanns-Henning Kurt Reimer,selbst. Kommunikationsberater,1962,Berlin-Steglitz-Zehlendorf,078
+Berlin,FDP,004,Nusser,Sofie-Paulin,Volkswirtin,1996,Berlin-Treptow-Köpenick,083
+Berlin,FDP,005,Bering,Axel Hans-Gerhard,Unternehmer,1962,Berlin-Tempelhof-Schöneberg,080
+Berlin,FDP,006,Strubenhoff,Marius,Angestellter,1990,Berlin-Reinickendorf,076
+Berlin,FDP,007,Dr. Schaumayer,Andreas,Referatsleiter,1975,Berlin-Mitte,074
+Berlin,FDP,008,Klamann,Konrad Robert Konstantin,Student,2004,Berlin-Marzahn-Hellersdorf,084
+Berlin,FDP,009,Henschel,Sören Christian,Student,2001,Berlin-Lichtenberg,085
+Berlin,FDP,010,Klingsporn,Max,selbständig,1983,Berlin-Neukölln,081
+Berlin,FDP,011,Hoffmeister,Sven,Beamter,1987,Berlin-Friedrichshain-Kreuzberg – Prenzlauer Berg Ost,082
+Berlin,Tierschutzpartei,001,Witte,Jennifer,Recruiterin,1988,,
+Berlin,Tierschutzpartei,002,Poschinski,Nico,Geowissenschaftler,1993,Berlin-Tempelhof-Schöneberg,080
+Berlin,Tierschutzpartei,003,Farin,Klaus Heribert,Schriftsteller,1958,Berlin-Neukölln,081
+Berlin,Tierschutzpartei,004,Schrodt,Jennifer,"Germanistin, Medienpädagogin",1988,,
+Berlin,Tierschutzpartei,005,Pleier,Carolin,Feinmechanikerin,1963,,
+Berlin,Tierschutzpartei,006,Anhalt,Markus,Veranstaltungskaufmann,1986,,
+Berlin,Tierschutzpartei,007,Schmeding,Florian,Informatiker,1994,Berlin-Lichtenberg,085
+Berlin,Tierschutzpartei,008,Weihusen,Elke,Germanistin,1972,Berlin-Mitte,074
+Berlin,Tierschutzpartei,009,Michel,Katja,Lehrerin,1982,,
+Berlin,Tierschutzpartei,010,Jänke,Alexander,"Tontechniker, Musiker",1970,,
+Berlin,Tierschutzpartei,011,Rettinghaus,Armin Leonard,Student,2006,,
+Berlin,Tierschutzpartei,012,Elias,Manuela Waltraud,"Bürofachfrau, Tierpsychologin",1969,,
+Berlin,Die PARTEI,001,Pohlmann,Martin Gregor,Wirt,1973,Berlin-Mitte,074
+Berlin,Die PARTEI,002,Ehrenfeld,Michelle,Augenoptikerin,1985,,
+Berlin,Die PARTEI,003,Kruschwitz,Kerstin,Flaneurin,1970,,
+Berlin,Die PARTEI,004,Martens,Rosanna,Studentin,1996,,
+Berlin,Die PARTEI,005,Schrauber,Angela Ingrid,"Betriebswirtin (HWK), Veranstaltungskoordinatorin",1966,,
+Berlin,Die Gerechtigkeitspartei – Team Todenhöfer,001,Dr. Todenhöfer,Jürgen,Publizist,1940,Berlin-Neukölln,081
+Berlin,Die Gerechtigkeitspartei – Team Todenhöfer,002,Doğan,Melisa,Facility-Managerin,1999,,
+Berlin,Die Gerechtigkeitspartei – Team Todenhöfer,003,Pinther,Andre,Steuerberater,1964,,
+Berlin,Die Gerechtigkeitspartei – Team Todenhöfer,004,Tarfa,Sarah,Managerin,1988,,
+Berlin,Die Gerechtigkeitspartei – Team Todenhöfer,005,Matzke-Tarfa,André,pädagogischer Mitarbeiter,1983,,
+Berlin,Die Gerechtigkeitspartei – Team Todenhöfer,006,Akkus,Deniz,Life Coach,1986,,
+Berlin,Freie Wähler,001,Meinhardt,Patrick,Hauptgeschäftsführer Taxi- und Mietwagenverband,1966,,
+Berlin,Freie Wähler,002,Rhode,Mario Arwet Rudolf,Kaufmann,1958,,
+Berlin,Freie Wähler,003,Kohn,Marcel,Polizist,1981,Berlin-Neukölln,081
+Berlin,Freie Wähler,004,Schmidt,Peter Achilles,Kfz-Sachverständiger,1965,Berlin-Marzahn-Hellersdorf,084
+Berlin,Freie Wähler,005,Varga,Heidemarie Elfriede,Rentnerin,1950,,
+Berlin,Freie Wähler,006,Weiß,Stephan Michael,Kosmetiker,1969,Berlin-Steglitz-Zehlendorf,078
+Berlin,Freie Wähler,007,Gill,Tobias,Gastronom,1981,Berlin-Lichtenberg,085
+Berlin,Freie Wähler,008,Freitag,Alexander,"Physiklaborant, Student",1988,Berlin-Mitte,074
+Berlin,Freie Wähler,009,Pirke-Lück,Birgit Sabine,kaufm. Angestellte,1965,,
+Berlin,Volt,001,Freiherr von Boeselager,Damian Hieronymus Johannes,Mitglied des Europäischen Parlaments,1988,,
+Berlin,Volt,002,Efiloğlu,Yasemin,KI-Spezialistin,1994,,
+Berlin,Volt,003,Kaaz,Rafael,"Angestellter, Head of Operations",1992,,
+Berlin,Volt,004,Seeberg,Cara Fabienne,Politikberaterin,1995,,
+Berlin,Volt,005,Dr. Adebahr,Cornelius Karl Ludwig,selbst. politischer Analyst und Berater,1975,,
+Berlin,Volt,006,Helmchen,Friederike Claudia,Angestellte Arbeitnehmerin,1976,,
+Berlin,Volt,007,Hoffmeister,Kalojan,Doktorand,1999,,
+Berlin,Volt,008,Mojtahed Najafi,Seyedeh Alast,Projektmanager,1985,,
+Berlin,Volt,009,Schäfer,Lukas Winfried,Unternehmensberater,1991,,
+Berlin,Volt,010,Raabe,Pauline Marie,Projektmanagerin,1995,,
+Berlin,Volt,011,Veen-Birkenbach,Kevin,Berater und Coach,1993,,
+Berlin,Volt,012,Beyer,Tina,techn. Produktmanagerin,1992,,
+Berlin,MLPD,001,Wolfer,Christa,Lehrerin,1956,Berlin-Marzahn-Hellersdorf,084
+Berlin,MLPD,002,Araki,Chaker Anis,Busfahrer,1972,Berlin-Neukölln,081
+Berlin,MLPD,003,Wolfer,Gernot,Metallfacharbeiter,1958,Berlin-Spandau – Charlottenburg Nord,077
+Berlin,MLPD,004,Höcker,Annegret,Lehrerin,1954,Berlin-Mitte,074
+Berlin,MLPD,005,Malik,Abdul,Installateur,1969,,
+Berlin,MLPD,006,Trendelburg,Rolf-Andreas,med. Dokumentationsassistent,1952,,
+Berlin,MLPD,007,Greiner,Ute,Dipl.-Ingenieurin,1957,,
+Berlin,MLPD,008,Schallenberg,Nadja,Vitalköchin,1969,,
+Berlin,MLPD,009,Bosse,Patric,Bauschlosser,1965,,
+Berlin,BüSo,001,Zepp-LaRouche,Helga,Journalistin,1948,Berlin-Treptow-Köpenick,083
+Berlin,BüSo,002,Ossenkopp,Stephan Kemal,Journalist,1969,Berlin-Pankow,075
+Berlin,BüSo,003,Dr. Lillge,Wolfgang,Arzt,1950,,
+Berlin,BüSo,004,Thron,Jonathan Christian,Angestellter,1986,Berlin-Lichtenberg,085
+Berlin,BüSo,005,Fimmen,Klaus,kaufm. Angestellter,1956,Berlin-Tempelhof-Schöneberg,080
+Berlin,BüSo,006,Lillge,Ulrike Martina,Bibliothekarin,1950,,
+Berlin,BüSo,007,Koch,Fabian,Angestellter,1995,,
+Berlin,SGP,001,Vandreier,Christoph,Psychologe,1981,Berlin-Mitte,074
+Berlin,SGP,002,Rippert,Ulrich,Journalist,1951,,
+Berlin,BÜNDNIS DEUTSCHLAND,001,Schanz,Carsten,Polizeibeamter a. D.,1967,Berlin-Neukölln,081
+Berlin,BÜNDNIS DEUTSCHLAND,002,Witte,Randy Rainer,selbständig,1976,Berlin-Treptow-Köpenick,083
+Berlin,BÜNDNIS DEUTSCHLAND,003,Seifert,Paul Daniel,Datenanalyst,1993,Berlin-Charlottenburg-Wilmersdorf,079
+Berlin,BÜNDNIS DEUTSCHLAND,004,Braun,Johannes Wolfgang Maria,Vertriebsmanager,1963,Berlin-Mitte,074
+Berlin,BÜNDNIS DEUTSCHLAND,005,Hombach,Andreas,Datenanalyst,1962,,
+Berlin,BÜNDNIS DEUTSCHLAND,006,Missler,Sabine Renate,Unternehmensberaterin,1960,Berlin-Marzahn-Hellersdorf,084
+Berlin,BÜNDNIS DEUTSCHLAND,007,Scheer,Laura Charissa,Studentin,2000,Berlin-Friedrichshain-Kreuzberg – Prenzlauer Berg Ost,082
+Berlin,BÜNDNIS DEUTSCHLAND,008,Schäfer,Anna,Rechtsanwaltsfachangestellte,1991,Berlin-Steglitz-Zehlendorf,078
+Berlin,BÜNDNIS DEUTSCHLAND,009,Lieberam,Christian Tomas,selbständig,1982,Berlin-Tempelhof-Schöneberg,080
+Berlin,BÜNDNIS DEUTSCHLAND,010,Braband,Martin,Dipl.-Ing. Bauwesen (TU),1949,Berlin-Reinickendorf,076
+Berlin,BÜNDNIS DEUTSCHLAND,011,Gruner,Gerhard Michael,Rentner,1951,Berlin-Pankow,075
+Berlin,BÜNDNIS DEUTSCHLAND,012,Wilske,Holger,Krankenpfleger,1970,Berlin-Lichtenberg,085
+Berlin,BSW,001,Ruhnert,Oliver,leitender Angestellter,1971,Berlin-Marzahn-Hellersdorf,084
+Berlin,BSW,002,Dağdelen,Sevim,Journalistin,1975,Berlin-Mitte,074
+Berlin,BSW,003,Wolf,Norman,Dipl.-Verwaltungswirt,1979,Berlin-Lichtenberg,085
+Berlin,BSW,004,Thyrêt,Josephine,"Krankenschwester, Betriebsratsvorsitzende",1974,Berlin-Treptow-Köpenick,083
+Berlin,BSW,005,Diehl,Wiebke,"Büroleiterin Bundestag, freie Journalistin",1980,,
+Berlin,BSW,006,Hassan,Manaf,"freier Journalist, Werkstudent, angehender Volljurist",1989,,
+Berlin,BSW,007,Duya-Aydinli,Sibel,Dipl.-Kauffrau,1969,,
+Berlin,BSW,008,Finke,Jürgen,Studienrat,1992,,
+Berlin,BSW,009,Gouverneur,Philippe,Lehrer,1990,,
+Berlin,BSW,010,Alp,Olaf,Journalist,1965,,
+Berlin,BSW,011,Akdag,Sara,Sachbearbeiterin,1978,,
+Berlin,MERA25,001,Rehrmann,Stephanie Carolina,Habilitandin,1981,,
+Berlin,MERA25,002,Fehr,Johannes,Wirtschaftsingenieur,1987,,
+Berlin,MERA25,003,Morel,Marie-Alice,Rechtswissenschaftlerin (LL. M.),1996,,
+Berlin,MERA25,004,Schweizer,Melanie Johanna,Regierungsrätin,1988,Berlin-Mitte,074
+Berlin,MERA25,005,Behr,Lisa,Studentin,1999,,
+Berlin,MERA25,006,Toussaint,Jaroslav,Grafikdesigner und Ausstellungsgestalter,1980,,
+Berlin,MERA25,007,Engelhardt,Carolin,ökologische Einzelhändlerin,1995,,
+Berlin,MERA25,008,Seibert,Joris Malte,Student,2004,,
+Berlin,MERA25,009,Martín Martínez,Eva María,Übersetzungsmanagement,1975,,
+Berlin,MERA25,010,Ernst,Madlen,Pre Sales und Integrations Manager,1989,,
+Berlin,MERA25,011,Noormann,Jonathan,Animatronic Operator,1996,,
+Berlin,MERA25,012,Bayoumi Aly,Sayid,IT-Systemadministrator,1981,,
+Berlin,MERA25,013,Asmus,Sophie,Employer Branding Managerin,1975,,
+Berlin,MERA25,014,Jenß,Lucas Andreas,Softwareentwickler,1989,,
+Berlin,PdF,001,Jasik,Mateusz,selbständig,1978,,
+Berlin,PdF,002,Heinrich,Daniel,Vertriebsleiter,1984,,
+Berlin,PdF,003,Seeling,Marco Jörg,Freischaffend,1984,,

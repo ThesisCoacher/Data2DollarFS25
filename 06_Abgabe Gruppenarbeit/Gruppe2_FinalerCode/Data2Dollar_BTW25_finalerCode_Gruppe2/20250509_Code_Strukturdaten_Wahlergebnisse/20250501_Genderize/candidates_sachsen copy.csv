@@ -1,0 +1,199 @@
+bundesland,partei,listenplatz,nachname,vorname,beruf,geburtsjahr,wahlkreis_name,wahlkreis_nummer
+Sachsen,AfD,001,Chrupalla,Tino,"MdB, Maler- und Lackierermeister",1975,Görlitz,156
+Sachsen,AfD,002,Hilse,Karsten,"MdB, Polizeibeamter",1964,Bautzen I,155
+Sachsen,AfD,003,Bachmann,Carolin,"MdB, Investmentfondskauffrau",1988,Mittelsachsen,160
+Sachsen,AfD,004,Ladzinski,Thomas Max,Dipl.-Ing. Maschinenbau,1989,Dresden I,158
+Sachsen,AfD,005,Kriegel,Christian,Ingenieurökonom,1956,Leipzig I,151
+Sachsen,AfD,006,Dr. Gauland,Eberhardt Alexander,"MdB, Volljurist",1941,Chemnitz,161
+Sachsen,AfD,007,Janich,Steffen,"MdB, Polizeibeamter a. D.",1971,Sächsische Schweiz-Osterzgebirge,157
+Sachsen,AfD,008,Hütter,Carsten,"MdL, selbst. Handwerksmeister",1964,,
+Sachsen,AfD,009,Moosdorf,Matthias,"MdB, Musiker",1965,Zwickau,164
+Sachsen,AfD,010,Bochmann,René,"MdB, Bürokaufmann",1969,Nordsachsen,150
+Sachsen,AfD,011,Neumann,Christoph,Dipl.-Ing.-Pädagoge,1964,Leipzig II,152
+Sachsen,AfD,012,Winter,Heike,"Bibliothekarin, Unternehmerin",1962,,
+Sachsen,AfD,013,Gottschalk,Frank Dirk,Betriebswirt,1985,,
+Sachsen,AfD,014,Weiser,Mathias,kaufm. Leiter,1986,Vogtlandkreis,165
+Sachsen,AfD,015,Dr. Waidmann,Stephan,Dipl.-Physiker,1967,,
+Sachsen,AfD,016,Hein,René,Unternehmer,1965,,
+Sachsen,SPD,001,Michel,Susanne Kathrin,Mitglied des Deutschen Bundestages,1963,Bautzen I,155
+Sachsen,SPD,002,Mann,Holger,Mitglied des Deutschen Bundestages,1979,Leipzig I,151
+Sachsen,SPD,003,Nasr,Rasha,Mitglied des Deutschen Bundestages,1992,Dresden I,158
+Sachsen,SPD,004,Müller,Detlef,Lokomotivführer,1964,Chemnitz,161
+Sachsen,SPD,005,Sthamer,Nadja,Mitglied des Deutschen Bundestages,1990,Leipzig II,152
+Sachsen,SPD,006,Kasper,Carlos,Mitglied des Deutschen Bundestages,1994,Chemnitzer Umland – Erzgebirgskreis II,162
+Sachsen,SPD,007,Mascheck,Franziska,Mitglied des Deutschen Bundestages,1979,Leipzig-Land,153
+Sachsen,SPD,008,Funke,Fabian,Mitglied des Deutschen Bundestages,1997,Sächsische Schweiz-Osterzgebirge,157
+Sachsen,SPD,009,Juraschka,Jens,Geschäftsführer,1974,Zwickau,164
+Sachsen,SPD,010,Prause-Kosubek,Harald Holger,Angestellter,1971,Görlitz,156
+Sachsen,SPD,011,Wittig,Heiko,Angestellter,1964,Nordsachsen,150
+Sachsen,SPD,012,Dr. Heider,Silvio,Chemiker,1987,Erzgebirgskreis I,163
+Sachsen,SPD,013,Weist,Leonhard Bernd,Freiwilligendienstleistender,2005,Meißen,154
+Sachsen,SPD,014,Linke,Maik,Maurer- und Betonbauermeister,1996,Vogtlandkreis,165
+Sachsen,CDU,001,Körber,Carsten,"MdB, Betriebswirt",1979,Zwickau,164
+Sachsen,CDU,002,Dr. Schenderlein,Christiane,Mitglied des Deutschen Bundestages,1981,Nordsachsen,150
+Sachsen,CDU,003,Dr. Reichel,Markus Alexander,Dipl.-Mathematiker,1968,Dresden I,158
+Sachsen,CDU,004,Lehmann,Jens,"MdB, Erzieher",1967,Leipzig I,151
+Sachsen,CDU,005,Seitz,Nora,Fleischermeisterin,1984,Chemnitz,161
+Sachsen,CDU,006,Rohwer,Lars,"MdB, Bankkaufmann",1972,Dresden II – Bautzen II,159
+Sachsen,CDU,007,Oest,Florian,"Betriebswirt, Jurist",1987,Görlitz,156
+Sachsen,CDU,008,Pojar,Katrin Sophie,wissenschaftl. Mitarbeiterin,1985,Chemnitzer Umland – Erzgebirgskreis II,162
+Sachsen,CDU,009,Darmstadt,Peter,Angestellter,1959,Sächsische Schweiz-Osterzgebirge,157
+Sachsen,CDU,010,Wagner,Katharina,Prokurist,1971,,
+Sachsen,CDU,011,Roschek,Steffen,Unternehmer,1972,Bautzen I,155
+Sachsen,CDU,012,Krauß,Alexander Gerd,Politikwissenschaftler,1975,Erzgebirgskreis I,163
+Sachsen,CDU,013,Elsner,Birgit,Verwaltungsfachangestellte,1984,,
+Sachsen,CDU,014,Link,Dietmar,Geschäftsführer,1965,Leipzig II,152
+Sachsen,CDU,015,Freifrau Spies von Büllesheim,Alexa,Betriebswirtin,1978,,
+Sachsen,CDU,016,Reime,Titus,Geschäftsführer,1977,Meißen,154
+Sachsen,CDU,017,Heuter,Jörg Gerd Werner,Kfz-Meister,1965,Leipzig-Land,153
+Sachsen,CDU,018,Franzl,Stefanie,Juristin,1993,,
+Sachsen,CDU,019,Haupt,Johann,Landwirt,1984,Mittelsachsen,160
+Sachsen,CDU,020,Roth,Lenny,Auszubildender,2002,,
+Sachsen,CDU,021,Diebler,Heike,Geschäftsführerin,1967,,
+Sachsen,CDU,022,Otto,Gerald,Industriemeister Metall,1964,,
+Sachsen,CDU,023,Meyer-Götz,Simone,Unternehmerin,1981,,
+Sachsen,CDU,024,Schorch,Lennart,Bankbetriebswirt,1976,,
+Sachsen,CDU,025,Buder,Anne,Oberschullehrerin,1993,,
+Sachsen,CDU,026,Petersen,Klaus,Dipl.-Agraringenieur,1962,,
+Sachsen,FDP,001,Herbst,Torsten,"MdB, Dipl.-Kaufmann (FH)",1973,Dresden I,158
+Sachsen,FDP,002,Hartewig,Philipp,"MdB, Rechtsanwalt",1994,Mittelsachsen,160
+Sachsen,FDP,003,Harzer,Ulrike,Mitglied des Deutschen Bundestages,1968,Erzgebirgskreis I,163
+Sachsen,FDP,004,Tippelt,Nico,Mitglied des Deutschen Bundestages,1967,Zwickau,164
+Sachsen,FDP,005,Dr. Maaß,Anita,Bürgermeisterin,1976,Meißen,154
+Sachsen,FDP,006,Frenzel,Laurenz,Auszubildender,2005,Nordsachsen,150
+Sachsen,FDP,007,Schniebel,Dietrich Matthias,"Dipl.-Ingenieur, selbst. Fachhändler",1973,Bautzen I,155
+Sachsen,FDP,008,Einsle,Toralf,leitender Angestellter,1980,Görlitz,156
+Sachsen,FDP,009,Hohlfeld,Nora,Rechtsanwaltsfachangestellte,2001,Sächsische Schweiz-Osterzgebirge,157
+Sachsen,FDP,010,Wirth,Ralf-Peter,Arzt,1958,,
+Sachsen,FDP,011,Grube,Norma,Schulleiterin,1983,Chemnitz,161
+Sachsen,FDP,012,Horst,Benita,kaufm. Leiterin,1978,Dresden II – Bautzen II,159
+Sachsen,FDP,013,Jess,Peter,Zimmerermeister,1980,Leipzig II,152
+Sachsen,FDP,014,Bauer,Billy,Sicherheitsingenieur,1984,Chemnitzer Umland – Erzgebirgskreis II,162
+Sachsen,FDP,015,Schnurre,Torsten,Sozialversicherungsfachangestellter,1983,Vogtlandkreis,165
+Sachsen,Die Linke,001,Pellmann,Sören,Grundschullehrer,1977,Leipzig II,152
+Sachsen,Die Linke,002,Lay,Caren Nicole,Mitglied des Deutschen Bundestages,1972,Bautzen I,155
+Sachsen,Die Linke,003,Bünger,Clara Anne,Volljuristin,1986,Dresden II – Bautzen II,159
+Sachsen,Die Linke,004,Salihović,Zada,Fachkauffrau Büromanagement,2000,,
+Sachsen,Die Linke,005,Weichhold,Nicole,Tischlerin,1989,Mittelsachsen,160
+Sachsen,Die Linke,006,Henning,Marten Richard,Lehrer,1996,Chemnitz,161
+Sachsen,Die Linke,007,Treu,Nina,Politikwissenschaftlerin,1984,Leipzig I,151
+Sachsen,Die Linke,008,Kretzschmar,Jens,Erzieher Jugend- und Heimerziehung,1973,Leipzig-Land,153
+Sachsen,Die Linke,009,Wolf,Jennifer,Heilerziehungspflegerin,1990,Erzgebirgskreis I,163
+Sachsen,Die Linke,010,Zwintzscher,Simon,Student,2005,Vogtlandkreis,165
+Sachsen,Die Linke,011,Römer,Funda,Angestellte,1970,Dresden I,158
+Sachsen,Die Linke,012,Saupe,Paul,Student,1996,,
+Sachsen,Die Linke,013,Becker,Anna,Studentin,2000,,
+Sachsen,Die Linke,014,Starcke,Jannik,Student,2004,,
+Sachsen,Die Linke,015,Hamann,Jessica,Sozialarbeiterin,1991,Meißen,154
+Sachsen,GRÜNE,001,Dr. Piechotta,Paula,Ärztin,1986,Leipzig II,152
+Sachsen,GRÜNE,002,Saleh,Kassem Taher,"MdB, Dipl.-Bauingenieur",1993,Dresden I,158
+Sachsen,GRÜNE,003,Spellerberg,Merle,"MdB, Studentin",1996,Dresden II – Bautzen II,159
+Sachsen,GRÜNE,004,Herrmann,Bernhard,Dipl.-Ing. Wasserbau,1966,Chemnitzer Umland – Erzgebirgskreis II,162
+Sachsen,GRÜNE,005,Hänel,Monique,"Bürokauffrau, leitende Angestellte",1985,Görlitz,156
+Sachsen,GRÜNE,006,Horlbeck,Olaf,"Tischlermeister, Gestalter im Handwerk",1965,Vogtlandkreis,165
+Sachsen,GRÜNE,007,Storz,Coretta,wissenschaftl. Mitarbeiterin,1986,,
+Sachsen,GRÜNE,008,Béjaoui,Ahmed,Sozialarbeiter,1992,,
+Sachsen,GRÜNE,009,Zierold,Ronja,Studentin,2005,,
+Sachsen,GRÜNE,010,Schmidt,Frank,"Dipl.-Verwaltungswirt (FH), Forstwirt",1982,Bautzen I,155
+Sachsen,Freie Wähler,001,Weidinger,Thomas,Rechtsanwalt,1962,Leipzig I,151
+Sachsen,Freie Wähler,002,Vogt,Madelaine,Dipl.-Sängerin,1977,,
+Sachsen,Freie Wähler,003,Hösl,Stephan,Elektrotechniker,1966,,
+Sachsen,Freie Wähler,004,Reinhardt,Anja,Rechtsfachwirtin,1973,,
+Sachsen,Freie Wähler,005,Sontowski,Mark,techn. Betriebswirt IHK,1982,Mittelsachsen,160
+Sachsen,Freie Wähler,006,Giebe,Jens,Servicetechniker,1969,Sächsische Schweiz-Osterzgebirge,157
+Sachsen,Freie Wähler,007,Binner,Matthias,Qualitätsingenieur,1986,Leipzig II,152
+Sachsen,Freie Wähler,008,Dr. Sünder,Bernhard,Unternehmer,1954,,
+Sachsen,Freie Wähler,009,Hutschalik,Günter,Volljurist,1955,,
+Sachsen,Freie Wähler,010,Busch,Alexander,Informatiker,1980,,
+Sachsen,Freie Wähler,011,Weinlich,Peggy,selbständig,1982,,
+Sachsen,Freie Wähler,012,Massi,Dirk Horst,selbständig,1959,,
+Sachsen,Freie Wähler,013,Henker,Kevin,Verwaltungsfachwirt,1994,,
+Sachsen,Freie Wähler,014,Weinlich,Matthias,selbständig,1975,,
+Sachsen,Freie Wähler,015,Schäfer,Katja,Dipl.-Betriebswirtin (BA),1979,,
+Sachsen,Freie Wähler,016,Schiefner,Ray,Metallbaumeister,1983,,
+Sachsen,Freie Wähler,017,Tschirner,Lars,Bädermeister,1972,,
+Sachsen,Tierschutzpartei,001,Dr. Zimmer,Peter,Tierarzt,1968,,
+Sachsen,Tierschutzpartei,002,Mörseburg,Stephanie,Logopädin,1986,,
+Sachsen,Tierschutzpartei,003,Mörseburg,Meik,Dipl.-Wirtschaftsinformatiker,1982,,
+Sachsen,Tierschutzpartei,004,Müller,Sandro,Bürokaufmann,1976,,
+Sachsen,Tierschutzpartei,005,Dawidowski,Kai,Softwareentwickler,1989,,
+Sachsen,Tierschutzpartei,006,Romanowski,Gioia Anjuschka Valerie,Auszubildende,1994,,
+Sachsen,Die PARTEI,001,Brock,Charlotte,Artistin,1994,,
+Sachsen,Die PARTEI,002,Höfkes,Heike,Fachinformatikerin,1989,,
+Sachsen,Die PARTEI,003,Bremer,Jule Beate,Steuerfachangestellte,2002,,
+Sachsen,Die PARTEI,004,Buntrock,Melanie,Reinigungskraft,1982,Dresden II – Bautzen II,159
+Sachsen,Die PARTEI,005,Müller,Christine,Clown,1994,,
+Sachsen,Die PARTEI,006,Ebert,Freya,Lehrerin Oberschule,1995,,
+Sachsen,Die PARTEI,007,Küchler,Sabine,Altenpflegefachkraft,1987,,
+Sachsen,Die PARTEI,008,Subat,Katharina Christina,freie Redakteurin,1988,Leipzig I,151
+Sachsen,Die PARTEI,009,Traubinger,Verena Agathe,Wissenschaftlerin,1992,,
+Sachsen,Die PARTEI,010,Cedel,Sebastian,Spinner,1984,,
+Sachsen,Die PARTEI,011,Hencker,Philipp,Bühnentechniker,1990,,
+Sachsen,Die PARTEI,012,Nguyen,Tommy,Fahrradmonteur,1994,Chemnitz,161
+Sachsen,Die PARTEI,013,Demandt,Philippe,tiermedizinischer Fachangestellter,1991,,
+Sachsen,Die PARTEI,014,Bergmann,Stefan,Geselle,1983,,
+Sachsen,Die PARTEI,015,Gaube,Erik,Berufstrainer Sport,1991,,
+Sachsen,Die PARTEI,016,Gutjahr,Karsten,Mathematiker,1980,,
+Sachsen,Die PARTEI,017,Engel,Désirée,Logopädin,1985,Zwickau,164
+Sachsen,Die PARTEI,018,Groß,Joseph Matthias,Schüler,2005,,
+Sachsen,Die PARTEI,019,Fritzsche,Laura,Physiotherapeutin,1986,,
+Sachsen,Die PARTEI,020,Fischer,Simon Luca,Elektrotechniker Energie- und Gebäudetechnik,2004,,
+Sachsen,Die PARTEI,021,Waltinger,Andreas,Ingenieur,1974,,
+Sachsen,Die PARTEI,022,Lippold,Marco,Fahrer,1973,,
+Sachsen,Die PARTEI,023,Thiele,Immo,Verkehrsfachwirt,1966,,
+Sachsen,PIRATEN,001,Giermann,Anne,"Redakteurin, Geschichtswissenschaftlerin",1991,,
+Sachsen,PIRATEN,002,Kluge,Johanna,Schülerin,2005,,
+Sachsen,PIRATEN,003,Bernhardt,Linda,Freiwilligendienstleistende,2006,,
+Sachsen,PIRATEN,004,Stolzenberger,Tigo,Student,2003,,
+Sachsen,PIRATEN,005,Jürgensen,Momme,Softwareentwickler,2002,,
+Sachsen,PIRATEN,006,Lehmitz,Tim,Student,2004,,
+Sachsen,PIRATEN,007,Henselin,Marcel,Softwareentwickler,1975,,
+Sachsen,PIRATEN,008,Dr. Schulte-Wissermann,Martin,Physiker,1971,,
+Sachsen,PIRATEN,009,Herpertz,Anne,Politikwissenschaftlerin,1998,,
+Sachsen,PIRATEN,010,Kossick,Jan,"Kulturmanager, Künstler, Informatiker",1984,,
+Sachsen,Volt,001,Alex,Sina,Gymnasiallehrerin,1988,Dresden II – Bautzen II,159
+Sachsen,Volt,002,Arndt,Sebastian,Informatiker,1995,,
+Sachsen,Volt,003,Widemann,Mechthild,Übersetzerin,1986,,
+Sachsen,Volt,004,Schulz,Thomas,selbständig,1971,,
+Sachsen,Volt,005,Stascheit,Manuela,Projektmanagerin,1988,,
+Sachsen,Volt,006,Koch,Terence,Schüler,2006,Dresden I,158
+Sachsen,Volt,007,Dr. Köhler,Anke,Physikerin,1968,,
+Sachsen,Volt,008,Pötter,Fritz,Ingenieur,1993,,
+Sachsen,Volt,009,Renger,Kenny,Ingenieur,1990,,
+Sachsen,Volt,010,Eberlein,Mathias,mathematisch-techn. Softwareentwickler,1981,,
+Sachsen,Volt,011,Schellenberger,Kevin,Student,2005,,
+Sachsen,Volt,012,Wojtyschak,Daniel,Angestellter,1985,,
+Sachsen,PdH,001,Schmidt,Fabian,IT-Berater,1989,,
+Sachsen,PdH,002,Clausnitzer,Eric Nils,Softwareentwickler,1991,Chemnitz,161
+Sachsen,PdH,003,Liebenow,Maurice,Arbeiter,2000,,
+Sachsen,PdH,004,Hennig,Niklas,Student,1999,,
+Sachsen,PdH,005,Dr. Wolfsteller,Andreas,Physiker,1981,,
+Sachsen,MLPD,001,Weidemann,Jörg,Krankenpfleger,1968,Leipzig I,151
+Sachsen,MLPD,002,Kolkmann-Lutz,Dagmar Marie,Rentnerin,1953,Zwickau,164
+Sachsen,MLPD,003,Ebert,Andrea,Rentnerin,1957,Dresden II – Bautzen II,159
+Sachsen,MLPD,004,Gäbel,Philipp,Lehrer,1987,,
+Sachsen,MLPD,005,Kimmerle,Gudrun,Heilerziehungshelferin,1956,,
+Sachsen,MLPD,006,Slave,Günter Paul,Schlosser,1955,,
+Sachsen,BÜNDNIS DEUTSCHLAND,001,Große,Steffen,leitender Angestellter,1967,Dresden II – Bautzen II,159
+Sachsen,BÜNDNIS DEUTSCHLAND,002,Zschoke,Nils Dirk,Bürgermeister,1966,Meißen,154
+Sachsen,BÜNDNIS DEUTSCHLAND,003,Anton,Frank,selbst. Personal- und Unternehmensberater,1961,Dresden I,158
+Sachsen,BÜNDNIS DEUTSCHLAND,004,Heinrich,Susan,Fremdsprachensekretärin,1981,Zwickau,164
+Sachsen,BÜNDNIS DEUTSCHLAND,005,Goebel,Thomas,Malermeister,1971,Chemnitz,161
+Sachsen,BÜNDNIS DEUTSCHLAND,006,Elicker,Achim,Bauunternehmer,1954,,
+Sachsen,BÜNDNIS DEUTSCHLAND,007,Scharsich,Mike,Dipl.-Ingenieur,1972,Nordsachsen,150
+Sachsen,BÜNDNIS DEUTSCHLAND,008,Reepen,Klaus,Polizeibeamter,1972,Görlitz,156
+Sachsen,BÜNDNIS DEUTSCHLAND,009,Lehmann,Maik Harald,Elektromaschinenbaumeister,1968,Bautzen I,155
+Sachsen,BSW,001,Dr. Machill,Marcel,Universitätsprofessor,1968,,
+Sachsen,BSW,002,Siebert,Frank,Industriemechaniker,1973,,
+Sachsen,BSW,003,Thamm,Thomas,"Unternehmer, Betriebswirt",1970,,
+Sachsen,BSW,004,Kunze,Anja,Volljuristin,1977,,
+Sachsen,BSW,005,Kachel,Thomas,Lehrer,1970,,
+Sachsen,BSW,006,Dr. Uhlig,Andreas,Mathematiker,1954,,
+Sachsen,BSW,007,Bernhardt,Sebastian,Steuerfachangestellter,1986,,
+Sachsen,BSW,008,Schmitt,Stefan,Volkswirt,1986,,
+Sachsen,BSW,009,von Mildisch,Erwin,Angestellter,2005,,
+Sachsen,BSW,010,Jung,Matthias,Dipl.-Wirtschaftsingenieur Bauwesen,1979,,
+Sachsen,BSW,011,Buhler,Maria-Isabel,Dipl.-Biologin,1976,,
+Sachsen,BSW,012,Jachmann,Martin,Kfz-Mechaniker,1977,,
+Sachsen,BSW,013,Fischer,Sven,Sozialversicherungsfachangestellter,1975,,
+Sachsen,BSW,014,Jecht,Sascha,Architekt,1987,Leipzig I,151

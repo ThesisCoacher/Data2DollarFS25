@@ -1,0 +1,308 @@
+bundesland,partei,listenplatz,nachname,vorname,beruf,geburtsjahr,wahlkreis_name,wahlkreis_nummer
+Hessen,SPD,001,Bartol,Sören,Dipl.-Politologe,1974,Marburg,170
+Hessen,SPD,002,Schmidt,Dagmar,Historikerin,1973,Lahn-Dill,171
+Hessen,SPD,003,Zorn,Armand,Unternehmensberater,1988,Frankfurt am Main I,181
+Hessen,SPD,004,Faeser,Nancy,Juristin,1970,Main-Taunus,180
+Hessen,SPD,005,Döring,Felix Maximilian,Mitglied des Deutschen Bundestages,1991,Gießen,172
+Hessen,SPD,006,Dilcher,Esther,"Rechtsanwältin, Notarin",1965,Waldeck,166
+Hessen,SPD,007,Rabanus,Martin Hermann,Mitglied des Deutschen Bundestages,1971,Rheingau-Taunus – Limburg,177
+Hessen,SPD,008,Pawlik,Natalie,Mitglied des Deutschen Bundestages,1992,Wetterau I,176
+Hessen,SPD,009,Dr. Rottwilm,Philipp,Bürgermeister,1984,Schwalm-Eder,169
+Hessen,SPD,010,Wegling,Melanie,Mitglied des Deutschen Bundestages,1990,Groß-Gerau,183
+Hessen,SPD,011,Dr. Zimmermann,Jens,Dipl.-Kaufmann,1981,Odenwald,186
+Hessen,SPD,012,Ruf,Nadine,Mitglied des Deutschen Bundestages,1978,Wiesbaden,178
+Hessen,SPD,013,Oehl,Jan Lennard,Volkswirt,1993,Hanau,179
+Hessen,SPD,014,Fischer,Christine Ulrike,kaufm. Angestellte,1969,Fulda,173
+Hessen,SPD,015,Bettermann,Daniel,Angestellter,1980,Kassel,167
+Hessen,SPD,016,Wolf,Laura Helena,Maschinenbauingenieurin,1997,Offenbach,184
+Hessen,SPD,017,Larem,Andreas,Mitglied des Deutschen Bundestages,1964,Darmstadt,185
+Hessen,SPD,018,Voigt,Lena Friederike,Berufsschullehrerin,1993,Frankfurt am Main II,182
+Hessen,SPD,019,Wingerter,Sven,Mobilitätsmanager,1980,Bergstraße,187
+Hessen,SPD,020,Maiano,Julia,techn. Zeichnerin,1982,,
+Hessen,SPD,021,Iliev,Daniel,Bürgermeister,1984,Werra-Meißner – Hersfeld-Rotenburg,168
+Hessen,SPD,022,Özgüven,Handan,Rechtsanwältin,1973,,
+Hessen,SPD,023,Wade,David,Rechtsanwalt,1993,Hochtaunus,175
+Hessen,SPD,024,Breustedt,Michelle Susan,Angestellte,1993,,
+Hessen,SPD,025,Neuner,Michael,Betriebs- und Volkswirt,1994,Main-Kinzig – Wetterau II – Schotten,174
+Hessen,SPD,026,Altmayer,Laura,Sachbearbeiterin,1986,,
+Hessen,SPD,027,Leudesdorff,Lino Rene,Geschäftsführer,1987,,
+Hessen,SPD,028,Ayubi,Hella,Studentin,2001,,
+Hessen,SPD,029,Yassin,Ilyas Aydrus,Student,2001,,
+Hessen,SPD,030,Roese,Amelie Sophie,Studentin,2003,,
+Hessen,SPD,031,Böcher,Jan Moritz,wissenschaftl. Mitarbeiter,1996,,
+Hessen,SPD,032,Rausch,Julia,Studentin,2004,,
+Hessen,SPD,033,Obst,Florian,Büroangestellter,1980,,
+Hessen,SPD,034,Dirican,Sahime,Studentin,1986,,
+Hessen,SPD,035,Schollmeier,Noah David,Student,1999,,
+Hessen,SPD,036,Huf,Ulrike,Fachwirtin Sozial- und Gesundheitswesen,1985,,
+Hessen,SPD,037,Abdirahman Farah,Liban,Angestellter,1993,,
+Hessen,SPD,038,Massow,Sina,Bürgermeisterin,1988,,
+Hessen,SPD,039,Ostrowski,Christopher,Angestellter,1993,,
+Hessen,SPD,040,Raab,Katrin,Fachangestellte Bürokommunikation,1983,,
+Hessen,SPD,041,Frimmel,Frederik,Student,1997,,
+Hessen,SPD,042,Keim,Christel,Assistentin der Krankenhausleitung,1968,,
+Hessen,SPD,043,Hobbs,Tiny Dietmar,Betriebsrat,1958,,
+Hessen,SPD,044,Maraun,Lara,Studentin,2000,,
+Hessen,SPD,045,Klippel,Bernd,Kommissionierer,1963,,
+Hessen,SPD,046,Göbel,Petra,Rentnerin,1959,,
+Hessen,SPD,047,Gebauer,Patrick,Sparkassenbetriebswirt,1991,,
+Hessen,SPD,048,Oertel,Monika,Rentnerin,1960,,
+Hessen,SPD,049,Heybeck,Benedict,wissenschaftl. Mitarbeiter,1998,,
+Hessen,SPD,050,Dr. Falk,Dieter,Dipl.-Kaufmann,1956,,
+Hessen,SPD,051,Firat,Tuna,Rechtsanwalt,1981,,
+Hessen,SPD,052,Stroh,Julian,Verwaltungsfachangestellter,1997,,
+Hessen,SPD,053,Sibert,Frank Bernd,Bankkaufmann,1967,,
+Hessen,SPD,054,Sax,Wolfgang Friedrich,Rentner,1952,,
+Hessen,SPD,055,Keim,Niklas,Verwaltungsfachwirt,1996,,
+Hessen,SPD,056,Tanke,Patrick,Zeitsoldat,1987,,
+Hessen,SPD,057,Wellinger,Sven,Verwaltungsangestellter,1993,,
+Hessen,SPD,058,Müller,Stephan Martin,Angestellter,1965,,
+Hessen,CDU,001,Lips,Patricia Ingrid,Handelsfachwirtin,1963,Odenwald,186
+Hessen,CDU,002,Brand,Michael Karl,Mitglied des Deutschen Bundestages,1973,Fulda,173
+Hessen,CDU,003,Dr. Meister,Michael Günther,Dipl.-Mathematiker,1961,Bergstraße,187
+Hessen,CDU,004,Bischof,Anna-Maria Regina,Generalsekretärin,1989,Schwalm-Eder,169
+Hessen,CDU,005,Born,Leopold Nikita Vincent,Angestellter,1993,Frankfurt am Main II,182
+Hessen,CDU,006,Dr. Heck,Stefan,Mitglied des Deutschen Bundestages,1982,Marburg,170
+Hessen,CDU,007,Dr. Mannes,Astrid Ursula Luise,Mitglied des Deutschen Bundestages,1967,Darmstadt,185
+Hessen,CDU,008,Willsch,Klaus-Peter,Dipl.-Volkswirt,1961,Rheingau-Taunus – Limburg,177
+Hessen,CDU,009,Koob,Markus Benjamin,Mitglied des Deutschen Bundestages,1977,Hochtaunus,175
+Hessen,CDU,010,Linsenhoff,Ann Kathrin,selbständig,1960,,
+Hessen,CDU,011,Altenkamp,Norbert Maria,Dipl.-Volkswirt,1972,Main-Taunus,180
+Hessen,CDU,012,Simon,Björn Manuel,Politikwissenschaftler,1981,Offenbach,184
+Hessen,CDU,013,Dr. Silbe,Katja,Professorin Baubetrieb,1971,,
+Hessen,CDU,014,Pohlmann,Jan-Wilhelm,Mitglied des Landtages,1986,Waldeck,166
+Hessen,CDU,015,Wiegelmann,Johannes Thomas Maria,Rechtsanwalt,1993,Main-Kinzig – Wetterau II – Schotten,174
+Hessen,CDU,016,Melzer,Janna,Verwaltungsbeamtin,1992,,
+Hessen,CDU,017,Bouffier,Frederik,Rechtsanwalt,1990,Gießen,172
+Hessen,CDU,018,Volkmann,Johannes,Volkswirt,1996,Lahn-Dill,171
+Hessen,CDU,019,Bunting,Anna Magdalena Ulrike,Doktorandin,1998,,
+Hessen,CDU,020,Reddig,Pascal,Rechtsanwalt,1995,Hanau,179
+Hessen,CDU,021,Schwander,Yannick,Pressesprecher,1988,Frankfurt am Main I,181
+Hessen,CDU,022,Wagner,Katharina Elisabeth,Rechtsanwältin,1994,,
+Hessen,CDU,023,Gebhard,Wilhelm,Bürgermeister,1976,Werra-Meißner – Hersfeld-Rotenburg,168
+Hessen,CDU,024,Dr. Pauls,Thomas,Wirtschaftswissenschaftler,1986,Wetterau I,176
+Hessen,CDU,025,Hildebrand,Maren,Lehrerin,1981,,
+Hessen,CDU,026,Dr. Korbach,Stefan,Dipl.-Kaufmann,1958,Wiesbaden,178
+Hessen,CDU,027,Dr. Behschad,Maik Fariborz,Zahnarzt,1969,Kassel,167
+Hessen,CDU,028,Wiesmann,Bettina Margarethe,Mitglied des Deutschen Bundestages,1966,,
+Hessen,CDU,029,Kretschmann,Marcus,Bürgermeister,1971,Groß-Gerau,183
+Hessen,CDU,030,Hemmerich,Kai-Uwe,Betriebsratsvorsitzender,1969,,
+Hessen,CDU,031,Dr. Martens,Olga,Herausgeberin,1969,,
+Hessen,CDU,032,Schmauß,Kevin,Rechtsreferendar,1992,,
+Hessen,CDU,033,Fritsch,Susanne Karoline,Steuerfachangestellte,1976,,
+Hessen,CDU,034,Hofmeister,Andreas Kurt,Mitglied des Landtages,1980,,
+Hessen,CDU,035,Edelmann-Rauthe,Jana,Sozialversicherungsangestellte,1977,,
+Hessen,CDU,036,Jähn,Anne Franziska,Beamtin,1986,,
+Hessen,CDU,037,Dr. Korell,Steffen Alexander,Bürgermeister,1984,,
+Hessen,CDU,038,Cromm,Inge,Dipl.-Betriebswirtin,1953,,
+Hessen,CDU,039,Lipp,Sabine,Angestellte,1966,,
+Hessen,CDU,040,Giese,Martin Carlo,Geschäftsführer,1982,,
+Hessen,CDU,041,Brandscheid,Lukas Alexander,Lehrer,1999,,
+Hessen,CDU,042,Fabricius,Veronica,Unternehmerin,1971,,
+Hessen,CDU,043,Eichenberg,Juliane,Verwaltungsbeamtin,1998,,
+Hessen,CDU,044,Kruhmann,Torben,Finanzportfolioverwalter,1992,,
+Hessen,CDU,045,Drossard-Gintner,Ingeborg Maria Elise,Rentnerin,1947,,
+Hessen,CDU,046,Dr. Neeb,Melanie,Regierungsoberrätin,1976,,
+Hessen,CDU,047,Mock,Andreas,Jurist,1972,,
+Hessen,CDU,048,Nazarenus-Vetter,Albina,Geschäftsführerin,1974,,
+Hessen,CDU,049,Weber,Michael,Lehrer,1978,,
+Hessen,CDU,050,Neumann,Ellen,Studentin,2000,,
+Hessen,CDU,051,Schölch,Anna-Maria,Mitglied des Landtages,1973,,
+Hessen,CDU,052,Dr. Lannert,Christian,Lehrer,1984,,
+Hessen,CDU,053,Maier-Frutig,Lucie,Bürgermeisterin,1982,,
+Hessen,CDU,054,Walmanns,Katrin,Regierungsdirektorin,1983,,
+Hessen,CDU,055,Schäfer,Hans-Jürgen,Bürgermeister a. D.,1951,,
+Hessen,CDU,056,Galvagno,Lisa,Gymnasiallehrerin,1992,,
+Hessen,CDU,057,Westhoff,Luisa Maria,Studentin,1990,,
+Hessen,CDU,058,Kehr,Jonas,Angestellter,2001,,
+Hessen,CDU,059,Beuschel,Felicitas Madeleine,Regierungsdirektorin,1989,,
+Hessen,CDU,060,Reimers,Apolline Marie Sophie,Studentin,1999,,
+Hessen,CDU,061,Iolin,Simon,Unternehmer,1973,,
+Hessen,CDU,062,Habel-Steinhardt,Anna-Lena,Dipl.-Finanzwirtin,1983,,
+Hessen,CDU,063,Craes,Rebecca Katharina,Gymnasiallehrerin,1986,,
+Hessen,CDU,064,Stephan,Peter,Dipl.-Kaufmann,1951,,
+Hessen,GRÜNE,001,Dr. Lührmann,Anna,Mitglied des Deutschen Bundestages,1983,Main-Taunus,180
+Hessen,GRÜNE,002,Nouripour,Omid,selbständig,1975,Frankfurt am Main II,182
+Hessen,GRÜNE,003,Düring,Deborah Saskia,Sozialwissenschaftlerin,1994,Frankfurt am Main I,181
+Hessen,GRÜNE,004,Al-Wazir,Tarek,Mitglied des Landtages,1971,Offenbach,184
+Hessen,GRÜNE,005,Tesfaiesus,Awet,Rechtsanwältin,1974,Werra-Meißner – Hersfeld-Rotenburg,168
+Hessen,GRÜNE,006,Mijatović,Boris,Angestellter,1974,Kassel,167
+Hessen,GRÜNE,007,Asar,Ayse,Rechtsanwältin,1975,Rheingau-Taunus – Limburg,177
+Hessen,GRÜNE,008,May,Andreas Lukas,Doktorand,1998,Marburg,170
+Hessen,GRÜNE,009,Iftikhar,Mahwish,Politikwissenschaftlerin,1999,Hanau,179
+Hessen,GRÜNE,010,Zörb,Michel,Projektleiter,1997,Gießen,172
+Hessen,GRÜNE,011,Deutschendorf,Ilka,Dipl.-Landschaftsökologin,1979,Waldeck,166
+Hessen,GRÜNE,012,Kohler,Maximilian,Student,1996,Schwalm-Eder,169
+Hessen,GRÜNE,013,Puls,Marie-Louise,Ergotherapeutin,1986,Fulda,173
+Hessen,GRÜNE,014,Schinkel,Philip Holger,Sozialpädagoge,1998,Main-Kinzig – Wetterau II – Schotten,174
+Hessen,GRÜNE,015,Garcia,Panagio Aikaterini,Sachgebietsleitung Wirtschaft und Digitales,1981,Wiesbaden,178
+Hessen,GRÜNE,016,Edel,Joshua Esra,Angestellter,1990,Wetterau I,176
+Hessen,GRÜNE,017,Dr. Jensch,Doris,wissenschaftl. Beschäftigte,1968,,
+Hessen,GRÜNE,018,Wilfert,Boris Markus,Angestellter,1976,Odenwald,186
+Hessen,GRÜNE,019,Butte,Stephanie Pilar,selbständig,1987,,
+Hessen,GRÜNE,020,Köhler-Hande,Isabel,Justizbeamtin,1983,Groß-Gerau,183
+Hessen,GRÜNE,021,Häuser-Eltgen,Sabine Beatrice Margarete,Juristin,1960,,
+Hessen,GRÜNE,022,Dr. Gudehus,Thomas Cord,Ingenieur,1969,,
+Hessen,GRÜNE,023,Sackis,Fanny Maria,Referentin,1993,,
+Hessen,GRÜNE,024,Dr. Marien,Jan,Physiker,1967,Lahn-Dill,171
+Hessen,GRÜNE,025,Pies,Stefanie,leitende Angestellte,1977,,
+Hessen,GRÜNE,026,Beck,Gregor Michael,Angestellter im öffentlichen Dienst,1986,,
+Hessen,GRÜNE,027,Meixner,Katharina,wissenschaftl. Mitarbeiterin,1994,,
+Hessen,GRÜNE,028,Spanke,Jacob Johannes,wissenschaftl. Referent,1989,,
+Hessen,GRÜNE,029,Rauschenberg,Judith,Kommunikationswirtin,1987,,
+Hessen,GRÜNE,030,Nitschke,Lars,Student,1997,,
+Hessen,FDP,001,Stark-Watzinger,Bettina,Dipl.-Volkswirtin,1968,Main-Taunus,180
+Hessen,FDP,002,Dr. Lieb,Thorsten Willibald,Rechtsanwalt,1973,Frankfurt am Main II,182
+Hessen,FDP,003,Müller,Alexander,Dipl.-Informatiker,1969,Rheingau-Taunus – Limburg,177
+Hessen,FDP,004,Varvaroussis,Ernestos Andreas,Dipl.-Ingenieur,1963,Offenbach,184
+Hessen,FDP,005,Rube,Jochen Helmut,Lehrer,1984,Waldeck,166
+Hessen,FDP,006,Gebek,Viola,Marketingmanagerin,1999,Darmstadt,185
+Hessen,FDP,007,Heidt,Peter,Rechtsanwalt,1965,Wetterau I,176
+Hessen,FDP,008,Pucher,Dennis,Unternehmer,1979,Gießen,172
+Hessen,FDP,009,Kratzer,Philipp Ivo,Richter,1992,Fulda,173
+Hessen,FDP,010,Seelmeyer,Carsten,"Unternehmer, Touristik",1969,Lahn-Dill,171
+Hessen,FDP,011,Protzmann,Daniel Alexander,Dipl.-Informatiker,1980,Hanau,179
+Hessen,FDP,012,Schwalbach,Lucas,Jurist,1991,Wiesbaden,178
+Hessen,FDP,013,Rethagen,Andreas,Versicherungsvertreter,1973,Schwalm-Eder,169
+Hessen,FDP,014,Keller,Alexander Maximilian,Student,2000,Marburg,170
+Hessen,FDP,015,Bartholomäus,Alexander,Dipl.-Bauingenieur,1976,Werra-Meißner – Hersfeld-Rotenburg,168
+Hessen,FDP,016,Maiwald,Frank Michael,Volkswirt,1981,Frankfurt am Main I,181
+Hessen,FDP,017,Terborg,Jan Peter,IT-Projektleiter,1994,Kassel,167
+Hessen,FDP,018,Dr. Schmidt,Markus Alexander,Beamter,1978,Main-Kinzig – Wetterau II – Schotten,174
+Hessen,FDP,019,Mansmann,Till Berthold,Dipl.-Physiker,1968,Bergstraße,187
+Hessen,FDP,020,Zeuner,Mathias Gerald,Managing Director,1966,Odenwald,186
+Hessen,FDP,021,Dehler,Stephan,Geschäftsführer,1984,Groß-Gerau,183
+Hessen,FDP,022,Adler,Katja,Mitglied des Deutschen Bundestages,1974,Hochtaunus,175
+Hessen,AfD,001,Nolte,Jan Ralf,Mitglied des Deutschen Bundestages,1988,Waldeck,166
+Hessen,AfD,002,Schulz,Uwe,Mitglied des Deutschen Bundestages,1961,,
+Hessen,AfD,003,Jünger,Robin,Unternehmer,1996,Gießen,172
+Hessen,AfD,004,Schmidt,Julian,Wirtschaftsingenieur,1989,Marburg,170
+Hessen,AfD,005,Lamely,Pierre,akkr. parlam. Assistent im EU-Parlament,1981,Fulda,173
+Hessen,AfD,006,Douglas,Christian,kaufm. Angestellter,1978,Main-Taunus,180
+Hessen,AfD,007,Fetsch,Thomas Norbert,Rechtsanwalt,1969,Bergstraße,187
+Hessen,AfD,008,Feser,Jan Hendrik,Dipl.-Sozialjurist,1985,Rheingau-Taunus – Limburg,177
+Hessen,AfD,009,Hess,Nicole Claudia,Industriekauffrau,1973,,
+Hessen,AfD,010,Herrmann,Klaus Dieter,Polizeibeamter,1960,Wetterau I,176
+Hessen,AfD,011,Doktorowski,Holger,Kfz-Mechanikermeister,1964,,
+Hessen,AfD,012,Mohn,Jürgen Günter,Dipl.-Verwaltungswirt,1959,Main-Kinzig – Wetterau II – Schotten,174
+Hessen,AfD,013,Dr. Hauk,Clemens Johannes,Zahnarzt,1965,Hochtaunus,175
+Hessen,AfD,014,Swars,Anja,Fachkrankenschwester Intensivmedizin und Anästhesie,1964,Darmstadt,185
+Hessen,AfD,015,Horn-Posmyk,Ingeborg,Rentnerin,1957,Groß-Gerau,183
+Hessen,AfD,016,Kuger,Michael Rudolf,Angestellter,1960,,
+Hessen,AfD,017,Gloos,Kurt,Dipl.-Physiker,1957,,
+Hessen,AfD,018,Gohla,Adrian Joachim,Angestellter,1967,,
+Hessen,AfD,019,Hartmann,Berthold Karl,Rentner,1952,,
+Hessen,AfD,020,Flesch,Klaus-Peter,Dipl.-Kaufmann,1949,,
+Hessen,Die Linke,001,Wißler,Janine Natalie,Mitglied des Deutschen Bundestages,1981,Frankfurt am Main I,181
+Hessen,Die Linke,002,Cezanne,Jörg,Mitglied des Deutschen Bundestages,1958,Groß-Gerau,183
+Hessen,Die Linke,003,Bock,Violetta,Geschäftsführerin,1987,Kassel,167
+Hessen,Die Linke,004,Becker,Desiree,Gewerkschaftssekretärin,1994,Gießen,172
+Hessen,Die Linke,005,Raji,Naisan,Psychologin,1994,,
+Hessen,Die Linke,006,Köllner,Finn Tizian,Student,2003,Rheingau-Taunus – Limburg,177
+Hessen,Die Linke,007,Depta-Wollenhaupt,Magdalena Maria,wissenschaftl. Mitarbeiterin,1986,Offenbach,184
+Hessen,Die Linke,008,Völker,Thomas,wissenschaftl. Referent,1986,Main-Taunus,180
+Hessen,Die Linke,009,Winter,Daniel,Polizeibeamter,1986,Wiesbaden,178
+Hessen,Die Linke,010,Hable,Silvia Katja,Sozialarbeiterin,1983,Werra-Meißner – Hersfeld-Rotenburg,168
+Hessen,Die Linke,011,Schott,Mariana Helga,Sozialpädagogin,1958,,
+Hessen,Die Linke,012,Schüler,Kilian,Assistenz der Geschäftsführung,1999,,
+Hessen,Freie Wähler,001,Hartmann,Wilhelm,Unternehmer,1973,Fulda,173
+Hessen,Freie Wähler,002,Schulz,Laura,Soziologin,1994,Odenwald,186
+Hessen,Freie Wähler,003,Gönül,Cenk,Unternehmer,1970,Wetterau I,176
+Hessen,Freie Wähler,004,Feuerbach,Björn,"Fliesen-, Platten- und Mosaikleger",1982,Gießen,172
+Hessen,Freie Wähler,005,Leinz,Rolf,Dipl.-Verwaltungswirt (FH),1963,Groß-Gerau,183
+Hessen,Freie Wähler,006,Streit,Stella,Juristin,1997,Darmstadt,185
+Hessen,Freie Wähler,007,Lappe,Markus Rainer,Elektroniker,1973,Schwalm-Eder,169
+Hessen,Freie Wähler,008,Ulrich,Liam Alexander,Student,2000,Main-Kinzig – Wetterau II – Schotten,174
+Hessen,Freie Wähler,009,Zilch,Anja,Versicherungsfachfrau,1967,Werra-Meißner – Hersfeld-Rotenburg,168
+Hessen,Freie Wähler,010,Becker,Heiko,Unternehmer,1969,Hanau,179
+Hessen,Freie Wähler,011,Kreft,Eike Stefan,Bankkaufmann,1974,Wiesbaden,178
+Hessen,Freie Wähler,012,Becker,Guido,Unternehmensberater,1962,Hochtaunus,175
+Hessen,Freie Wähler,013,Faßhauer,Lorenz Berthold Helmut,Bankkaufmann,1959,,
+Hessen,Freie Wähler,014,Lecke,Axel,Maschinenführer,1970,,
+Hessen,Freie Wähler,015,Maiweg,Michael,selbständig,1972,Waldeck,166
+Hessen,Freie Wähler,016,Bergmann,Frank,Volkswirt,1975,Main-Taunus,180
+Hessen,Freie Wähler,017,Münch,Alfred Willi,Rentner,1953,Bergstraße,187
+Hessen,Freie Wähler,018,Zečić,Damijan,Schüler,2005,,
+Hessen,Freie Wähler,019,Leichthammer,Jörg Martin,Einsatzsachbearbeiter,1967,Rheingau-Taunus – Limburg,177
+Hessen,Freie Wähler,020,Fuchs,Bernd,Bankkaufmann,1953,,
+Hessen,Freie Wähler,021,Özdemir,Gökhan,Unternehmer,1995,Marburg,170
+Hessen,Freie Wähler,022,Schefter,Stefan,Verwaltungsleiter,1970,,
+Hessen,Freie Wähler,023,Mengel,Lukas Christian,Fachinformatiker,1997,Offenbach,184
+Hessen,Tierschutzpartei,001,Böhm-Fritz,Saskia,Handelsfachwirtin,1984,,
+Hessen,Tierschutzpartei,002,Standop,Tim,Berufsschullehrer,1985,,
+Hessen,Tierschutzpartei,003,Schönauer,Miriam,Tanzlehrerin,1976,,
+Hessen,Tierschutzpartei,004,Fritz,Alexander,Geschäftsführer,1980,,
+Hessen,Tierschutzpartei,005,Lepère,Arnd,Versicherungskaufmann,1961,,
+Hessen,Tierschutzpartei,006,Kuczera,Frank,leitender Angestellter,1973,,
+Hessen,Tierschutzpartei,007,Niemeier,Barbara,Floristin,1974,,
+Hessen,Tierschutzpartei,008,Job,Veronika,Rentnerin,1955,,
+Hessen,Tierschutzpartei,009,Misch,Tobias,Student,1997,,
+Hessen,Tierschutzpartei,010,Niemeier,Marco,Dipl.-Ing. Maschinenbau,1969,,
+Hessen,Tierschutzpartei,011,Standop,Melanie,Krippenleiterin,1983,,
+Hessen,Tierschutzpartei,012,Imgrund,Marie,Bilanzbuchhalterin,1993,,
+Hessen,Die PARTEI,001,Harapat,Dominic,Arbeiter,1983,,
+Hessen,Die PARTEI,002,Jacobi,Shannon-Alisha,Verwaltungsfachangestellte,1999,,
+Hessen,Die PARTEI,003,Künemund,Sebastian Gerd,Landschaftsgärtnermeister,1977,Fulda,173
+Hessen,Die PARTEI,004,Diller,Alexander,Fachkraft Ausbildungsförderung,1973,,
+Hessen,Die PARTEI,005,Bachenheimer,Moritz,Supportmitarbeiter IT,1997,,
+Hessen,Die PARTEI,006,Kuhlmann,Helge Georg Theodor,Angestellter,1992,,
+Hessen,Die PARTEI,007,Holzhauer,Silke,Erzieherin,1976,,
+Hessen,Die PARTEI,008,Haas,Dominik,Standesbeamter,1999,,
+Hessen,Die PARTEI,009,Baade,Sascha Mario,Schreiner,1974,,
+Hessen,Die PARTEI,010,Wilz,Sidney Cedric,Student,1993,,
+Hessen,Die PARTEI,011,Förster,Oliver,Bürofachkraft,1973,,
+Hessen,Die PARTEI,012,Birkle,Stephanie,Marketingmanagerin,1980,,
+Hessen,Die PARTEI,013,Riebold,Ute,Dipl.-Sozialarbeiterin,1959,,
+Hessen,Die PARTEI,014,Weiß,Stefan,Instandhaltungsleiter,1989,,
+Hessen,Die PARTEI,015,Keller,Christian Marc Anton,selbständig,1985,,
+Hessen,Die PARTEI,016,Noe,Karlheinz,Sanitäter,1961,,
+Hessen,Die PARTEI,017,Münzenberger,Steffen,Gesundheits- und Krankenpfleger,1983,,
+Hessen,Volt,001,Koohestanian,Maral,Dezernentin,1991,,
+Hessen,Volt,002,Klötzner,Holger,Dezernent,1988,,
+Hessen,Volt,003,Haramus,Mariana Boganívna,Angestellte,1981,Frankfurt am Main I,181
+Hessen,Volt,004,Mundethu,Anup,Verwaltungsbeamter,1980,,
+Hessen,Volt,005,Goram,Stefanie Martina,Naturwissenschaftlerin,1989,,
+Hessen,Volt,006,Freiherr von Rotberg,Gerd Wolfram Ludwig,Organisationsberater,1961,,
+Hessen,Volt,007,Herrling,Ana Lena,Ingenieurin Wassertechnik,1990,Darmstadt,185
+Hessen,Volt,008,Hauenschild,Johannes Martin,Stadtverordneter,1997,Frankfurt am Main II,182
+Hessen,Volt,009,Adam,Nina,Angestellte,1990,,
+Hessen,Volt,010,Huber,Martin Frederick,Fraktionsvorsitzender,1997,,
+Hessen,Volt,011,Byrne,Fiona,Bestatterin,1989,Main-Taunus,180
+Hessen,Volt,012,Weber,Daniel,Praxismanager,1988,Wiesbaden,178
+Hessen,Volt,013,Walter,Berit,Nachhaltigkeitsmanagerin,1983,,
+Hessen,Volt,014,Knust,Sebastian Mauricio,Kommunikationsmanager,1985,,
+Hessen,Volt,015,Mengel,Tiara-Maria,Referentin,1998,,
+Hessen,PdH,001,Klings,Felicitas,Pflegefachkraft,1983,,
+Hessen,PdH,002,Wolf,Cynthia-Ann,Psychologiestudentin,1997,,
+Hessen,PdH,003,Kreienhoop,Bastian,Fachkraft Lüftungstechnik,1984,,
+Hessen,PdH,004,Dr. Sieck,Jochen Bastian,Abteilungsleiter,1979,,
+Hessen,PdH,005,Jährling,Liam Luca,Medizinstudent,1997,,
+Hessen,PdH,006,Dr. Hunger,Katharina,Ingenieurin,1982,,
+Hessen,PdH,007,Hund,Olaf-Christian,Softwareentwickler,1965,,
+Hessen,PdH,008,Hannig,Mark,Bankkaufmann,1973,,
+Hessen,PdH,009,Fürst,Robin Sebastian,Schüler,2006,,
+Hessen,MLPD,001,Weispfenning,Peter Georg,Rechtsanwalt,1967,Herne – Bochum II,140
+Hessen,MLPD,002,Schupp,Anna,Mediengestalterin,1983,Darmstadt,185
+Hessen,MLPD,003,Roth,Hans,Heilerziehungspfleger,1955,Kassel,167
+Hessen,MLPD,004,Çakmaklı-Kraft,Nuran,techn. Zeichnerin,1965,Frankfurt am Main I,181
+Hessen,MLPD,005,Schoepping,Meik,Seenotretter,1978,Frankfurt am Main II,182
+Hessen,MLPD,006,Meyer,Barbara,Erzieherin,1978,,
+Hessen,MLPD,007,Hickler,Johanna,Stadtplanerin i. R.,1953,,
+Hessen,MLPD,008,Fröhlich,Anne,Logopädin,1975,Groß-Gerau,183
+Hessen,MLPD,009,Rohm,Detlef,Dipl.-Biologe i. R.,1952,,
+Hessen,BÜNDNIS DEUTSCHLAND,001,Groh,Marco,Bankkaufmann,1972,Main-Kinzig – Wetterau II – Schotten,174
+Hessen,BÜNDNIS DEUTSCHLAND,002,Steba,Andreas Georg,Architekt,1979,Main-Taunus,180
+Hessen,BÜNDNIS DEUTSCHLAND,003,Dr. Deese,Kevin Christian,Unternehmer,1990,,
+Hessen,BÜNDNIS DEUTSCHLAND,004,Papst-Dippel,Claudia,Heilpraktikerin,1963,,
+Hessen,BÜNDNIS DEUTSCHLAND,005,Hassenzahl,Florian,Notfallsanitäter,1978,,
+Hessen,BÜNDNIS DEUTSCHLAND,006,Selbach,Christian,selbständig,1970,Frankfurt am Main II,182
+Hessen,BÜNDNIS DEUTSCHLAND,007,Heilmann,Michael,Förster i. R.,1959,Fulda,173
+Hessen,BÜNDNIS DEUTSCHLAND,008,Lesny,Sandra,Verlagsangestellte,1979,,
+Hessen,BSW,001,Al-Dailami,Ali Abass Yahya,Restaurantfachmann,1981,,
+Hessen,BSW,002,Haghsheno,Shervin,Universitätsprofessor,1975,,
+Hessen,BSW,003,Scheuch-Paschkewitz,Heidemarie Elfriede,Dipl.-Sozialpädagogin,1959,,
+Hessen,BSW,004,Schumacher,Jannis Robin,kaufm. Leiter,1988,,
+Hessen,BSW,005,Pfeiffer,Sonja Georgia,Beamtin,1967,,
+Hessen,BSW,006,Lauria,Pasquale,Geschäftsführer,1976,,
+Hessen,BSW,007,Nägel,Anna,pädagogische Betreuerin,1989,,
+Hessen,BSW,008,Hallmann,Jeannette,Flughafenangestellte,1967,,

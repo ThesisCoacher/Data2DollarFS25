@@ -1,0 +1,108 @@
+bundesland,partei,listenplatz,nachname,vorname,beruf,geburtsjahr,wahlkreis_name,wahlkreis_nummer
+Brandenburg,SPD,001,Scholz,Olaf,Rechtsanwalt,1958,Potsdam – Potsdam-Mittelmark II – Teltow-Fläming II,061
+Brandenburg,SPD,002,Wallstein,Maja Scarlett,Mitglied des Deutschen Bundestages,1986,Cottbus – Spree-Neiße,064
+Brandenburg,SPD,003,Zierke,Stefan,"MdB, Tourismusfachwirt",1970,Uckermark – Barnim I,057
+Brandenburg,SPD,004,Eichwede,Sonja Katharina,Richterin,1987,Brandenburg an der Havel – Potsdam-Mittelmark I – Havelland III – Teltow-Fläming I,060
+Brandenburg,SPD,005,Walter,Hannes Artur Gerhard,"MdB, Betriebswirt",1984,Elbe-Elster – Oberspreewald-Lausitz,065
+Brandenburg,SPD,006,Fäscher,Ariane,Mitglied des Deutschen Bundestages,1968,Oberhavel – Havelland II,058
+Brandenburg,SPD,007,Papendieck,Mathias,Informatiker,1982,Frankfurt (Oder) – Oder-Spree,063
+Brandenburg,SPD,008,Papenbrock,Wiebke,Mitglied des Deutschen Bundestages,1979,Prignitz – Ostprignitz-Ruppin – Havelland I,056
+Brandenburg,SPD,009,Ullrich,André,Polizeibeamter in der Bundespolizei,1974,,
+Brandenburg,SPD,010,Koß,Simona Marion,Studienrätin,1961,Märkisch-Oderland – Barnim II,059
+Brandenburg,SPD,011,Schulz,Reyk,Dipl.-Wirtschaftsingenieur (FH),1976,,
+Brandenburg,SPD,012,Soheam,Anja Margarete,Referentin,1980,Dahme-Spreewald – Teltow-Fläming III,062
+Brandenburg,SPD,013,Dr. Strank,Oliver,Rechtsanwalt,1979,,
+Brandenburg,SPD,014,Karstädt,Bianca,kaufm. Geschäftsführerin,1974,,
+Brandenburg,SPD,015,Belke,Jonas,Studienrat,1992,,
+Brandenburg,SPD,016,Nauck,Sandra,Rechtsanwältin,1974,,
+Brandenburg,SPD,017,Gallasch,Eric,Polizeibeamter,1985,,
+Brandenburg,SPD,018,Syring,Angelika Gertraude Erika,Geschäftsführerin,1957,,
+Brandenburg,SPD,019,Kuhne,Finn,Tischler,1997,,
+Brandenburg,SPD,020,Jura,Annett,Abteilungsleiterin,1973,,
+Brandenburg,AfD,001,Springer,René,Mitglied des Deutschen Bundestages,1979,Märkisch-Oderland – Barnim II,059
+Brandenburg,AfD,002,Gnauck,Hannes,Mitglied des Deutschen Bundestages,1991,Uckermark – Barnim I,057
+Brandenburg,AfD,003,Kleinwächter,Norbert,Mitglied des Deutschen Bundestages,1986,,
+Brandenburg,AfD,004,Dr. Frömming,Götz Gerald Ulrich,Mitglied des Deutschen Bundestages,1968,Prignitz – Ostprignitz-Ruppin – Havelland I,056
+Brandenburg,AfD,005,Schieske,Lars,Beamter im feuerwehrtechn. Dienst,1977,Cottbus – Spree-Neiße,064
+Brandenburg,AfD,006,Raue,Arne Onni,Bürgermeister,1970,Brandenburg an der Havel – Potsdam-Mittelmark I – Havelland III – Teltow-Fläming I,060
+Brandenburg,AfD,007,Dr. Zeschmann,Philip Thomas Ernst,Dipl.-Volkswirt,1967,,
+Brandenburg,AfD,008,Galla,Rainer Herbert,Volljurist,1961,Frankfurt (Oder) – Oder-Spree,063
+Brandenburg,CDU,001,Feiler,Uwe Wolfgang Werner,Dipl.-Finanzwirt,1965,Oberhavel – Havelland II,058
+Brandenburg,CDU,002,Abraham,Knut Friedrich Alexander,Mitglied des Deutschen Bundestages,1966,Elbe-Elster – Oberspreewald-Lausitz,065
+Brandenburg,CDU,003,Dr. Ludwig,Saskia,Dipl.-Kauffrau,1968,Brandenburg an der Havel – Potsdam-Mittelmark I – Havelland III – Teltow-Fläming I,060
+Brandenburg,CDU,004,Steineke,Sebastian,Rechtsanwalt,1973,Prignitz – Ostprignitz-Ruppin – Havelland I,056
+Brandenburg,CDU,005,Mauersberger,Ulrike,Polizistin,1977,Uckermark – Barnim I,057
+Brandenburg,CDU,006,Schrade,Désirée,Rechtsanwältin,1986,Frankfurt (Oder) – Oder-Spree,063
+Brandenburg,CDU,007,Gutschmidt,Tabea,wissenschaftl. Mitarbeiterin,1979,Potsdam – Potsdam-Mittelmark II – Teltow-Fläming II,061
+Brandenburg,CDU,008,Schimke,Jana,Politikwissenschaftlerin,1979,Dahme-Spreewald – Teltow-Fläming III,062
+Brandenburg,CDU,009,Rabes,Michael Horst Günter,Dipl.-Informatiker der Medizin,1980,Cottbus – Spree-Neiße,064
+Brandenburg,CDU,010,Kaplick,Rene,selbständig,1973,Märkisch-Oderland – Barnim II,059
+Brandenburg,CDU,011,Markus,Larissa,Dipl.-Ingenieurin,1974,,
+Brandenburg,CDU,012,Mundt,Werner Erich,Rentner,1952,,
+Brandenburg,CDU,013,Helbing,Steffen,Bürokaufmann,1970,,
+Brandenburg,CDU,014,Nowak,Christopher,Verwaltungsmitarbeiter,1994,,
+Brandenburg,FDP,001,Teuteberg,Linda,"MdB, Rechtsanwältin",1981,Potsdam – Potsdam-Mittelmark II – Teltow-Fläming II,061
+Brandenburg,FDP,002,Karstedt,Matti,Referent Presse- und Öffentlichkeitsarbeit,1996,Brandenburg an der Havel – Potsdam-Mittelmark I – Havelland III – Teltow-Fläming I,060
+Brandenburg,FDP,003,Tiedemann,Ralf,Lehrer,1965,Oberhavel – Havelland II,058
+Brandenburg,FDP,004,Kellner,Robert,Steuerfachangestellter,1999,Cottbus – Spree-Neiße,064
+Brandenburg,FDP,005,Kretschmer,Marie Luise Ulrike,Dipl.-Chemikerin,1960,Prignitz – Ostprignitz-Ruppin – Havelland I,056
+Brandenburg,FDP,006,Hänig,Johannes Sven,Lehrer,1999,Elbe-Elster – Oberspreewald-Lausitz,065
+Brandenburg,FDP,007,Schure,Wolfgang Willy Karl,"Elektroingenieur, Rentner",1951,Märkisch-Oderland – Barnim II,059
+Brandenburg,FDP,008,Menzel,Mike,"Geschäftsführer, Metallbaumeister",1972,Uckermark – Barnim I,057
+Brandenburg,GRÜNE/B 90,001,Baerbock,Annalena Charlotte Alma,"MdB, Völkerrechtlerin",1980,Potsdam – Potsdam-Mittelmark II – Teltow-Fläming II,061
+Brandenburg,GRÜNE/B 90,002,Kellner,Michael,Mitglied des Deutschen Bundestages,1977,Uckermark – Barnim I,057
+Brandenburg,GRÜNE/B 90,003,Dr. Lübcke,Andrea,Physikerin,1978,Dahme-Spreewald – Teltow-Fläming III,062
+Brandenburg,GRÜNE/B 90,004,Triems,Viviane Cornelia,Studentin,1997,,
+Brandenburg,GRÜNE/B 90,005,Weiß,Linda,Projektmanagerin,1983,Oberhavel – Havelland II,058
+Brandenburg,GRÜNE/B 90,006,Winter,Landelin,Praktikant,2002,,
+Brandenburg,Die Linke,001,Görke,Christian,"MdB, Dipl.-Lehrer Geschichte und Sport",1962,Cottbus – Spree-Neiße,064
+Brandenburg,Die Linke,002,Vandre,Isabelle,Politikwissenschaftlerin,1989,Potsdam – Potsdam-Mittelmark II – Teltow-Fläming II,061
+Brandenburg,Die Linke,003,Willnat,Christin,"Übersetzerin, Integrationshelferin",1986,Brandenburg an der Havel – Potsdam-Mittelmark I – Havelland III – Teltow-Fläming I,060
+Brandenburg,Die Linke,004,Kosin,Robert,Altenpfleger,1985,Dahme-Spreewald – Teltow-Fläming III,062
+Brandenburg,Die Linke,005,Rattmann,Annabell,Studentin Bauingenieurwesen,2005,Oberhavel – Havelland II,058
+Brandenburg,Die Linke,006,Irrgang,Daniel,Verwaltungsfachangestellter,1988,Prignitz – Ostprignitz-Ruppin – Havelland I,056
+Brandenburg,Freie Wähler,001,Arnold,Jörg Manfred,Informatiker,1965,Märkisch-Oderland – Barnim II,059
+Brandenburg,Freie Wähler,002,Dr. Gebauer,Stefanie,Astrophysikerin,1980,Oberhavel – Havelland II,058
+Brandenburg,Freie Wähler,003,Stefke,Matthias Christian,Kaufmann Groß- und Außenhandel,1963,Dahme-Spreewald – Teltow-Fläming III,062
+Brandenburg,Freie Wähler,004,Dr. Reichert,Michael,Luft- und Raumfahrtingenieur,1962,Potsdam – Potsdam-Mittelmark II – Teltow-Fläming II,061
+Brandenburg,Freie Wähler,005,Raddatz,Sandra,selbständig,1976,Elbe-Elster – Oberspreewald-Lausitz,065
+Brandenburg,Freie Wähler,006,Reineke,Axel,Lehrer,1968,,
+Brandenburg,Freie Wähler,007,Korte,Dave-Alexander Sascha,Kaufmann,1971,Brandenburg an der Havel – Potsdam-Mittelmark I – Havelland III – Teltow-Fläming I,060
+Brandenburg,Freie Wähler,008,Stürmer,Michael Roland,Kfz-Mechaniker,1984,Uckermark – Barnim I,057
+Brandenburg,Freie Wähler,009,Kupsch,Carsten,Niederlassungsleiter,1960,Cottbus – Spree-Neiße,064
+Brandenburg,Freie Wähler,010,Conring,Sylvia,landwirtschaftl. Betriebsleiterin,1981,Frankfurt (Oder) – Oder-Spree,063
+Brandenburg,Freie Wähler,011,Kamrath,Georg,Teamleiter,1985,Prignitz – Ostprignitz-Ruppin – Havelland I,056
+Brandenburg,Die PARTEI,001,Mettler,Corinna,"Suchtberaterin, freiberufliche Musikerin",1980,Oberhavel – Havelland II,058
+Brandenburg,Die PARTEI,002,Exner,Jennifer,Angestellte,1977,,
+Brandenburg,Die PARTEI,003,Burchardt,Axel Leonhart,Systemadministrator,1971,,
+Brandenburg,Die PARTEI,004,Hanschke,Robert Friedemann Lothar,Lehrer,1985,Cottbus – Spree-Neiße,064
+Brandenburg,Die PARTEI,005,Rabeus,Ilona Wally Erna,Kellnerin,1965,,
+Brandenburg,Die PARTEI,006,Geppert,Florian,Wasserbauingenieur,1981,,
+Brandenburg,Die PARTEI,007,Wietschel,Alexander Dietmar,Angestellter,1969,,
+Brandenburg,Die PARTEI,008,Mack,Torsten,Studienrat i. R.,1967,,
+Brandenburg,Die PARTEI,009,Gdowzok,Guido Johann Franz,Dozent,1971,,
+Brandenburg,Die PARTEI,010,Wolk,Andreas,Angestellter,1967,Uckermark – Barnim I,057
+Brandenburg,Volt,001,Koch,Franziska,Soziologin,1986,,
+Brandenburg,Volt,002,Moldenhawer,Ted,Angestellter,1987,,
+Brandenburg,Volt,003,Jockel,Cédric Stefan Holger,Astrophysiker,1998,,
+Brandenburg,Volt,004,Rützel,Patrick Benjamin,"Dozent Erwachsenenbildung, Coach",1983,,
+Brandenburg,Volt,005,Achtenberg,Patrick,Beamter,1995,Brandenburg an der Havel – Potsdam-Mittelmark I – Havelland III – Teltow-Fläming I,060
+Brandenburg,Volt,006,Petzold,Anja,Biochemikerin,1987,,
+Brandenburg,Volt,007,Borsdorf,Jens,Systemadministrator EDV,1982,,
+Brandenburg,Volt,008,Zander-Scheel,Monique,Freiberuflerin Pharmazie,1970,,
+Brandenburg,Volt,009,Dickau,Florian,Betriebs- und Küchenleiter,1981,Märkisch-Oderland – Barnim II,059
+Brandenburg,MLPD,001,Fiebing,Christiane Maria,"Lehrerin, Rentnerin",1954,,
+Brandenburg,MLPD,002,Opitz,Leander,Student,2003,,
+Brandenburg,MLPD,003,Lingg,Andrea Barbara,Industriekauffrau,1960,,
+Brandenburg,MLPD,004,Grütte,Antje,Dipl.-Ökonomin,1962,,
+Brandenburg,BÜNDNIS DEUTSCHLAND,001,Mieruch,Mario,Dipl.-Ing. Mechatronik (B. A.),1975,,
+Brandenburg,BÜNDNIS DEUTSCHLAND,002,Grund,Marcus,Disponent,1974,,
+Brandenburg,BÜNDNIS DEUTSCHLAND,003,Schulz,Marco,Dipl.-Betriebswirt,1968,Potsdam – Potsdam-Mittelmark II – Teltow-Fläming II,061
+Brandenburg,BÜNDNIS DEUTSCHLAND,004,Elend,René,Feuerwehrbeamter,1987,Märkisch-Oderland – Barnim II,059
+Brandenburg,BÜNDNIS DEUTSCHLAND,005,Kayser,Karin,Arzthelferin,1983,,
+Brandenburg,BSW,001,Benda,Friederike Maria,Juristin,1987,,
+Brandenburg,BSW,002,Roth,Stefan,Regionalplaner,1987,,
+Brandenburg,BSW,003,Grabowski,Elke Margarete,"Ehrenamtliche Bürgermeisterin, Rechtsanwältin",1962,,
+Brandenburg,BSW,004,Schulz,Oliver,Polizeibeamter,1970,,
+Brandenburg,BSW,005,Löwe,Karin Elke,Landschaftsarchitektin,1957,,
+Brandenburg,BSW,006,Sickert,Till,Lehrer,1995,,

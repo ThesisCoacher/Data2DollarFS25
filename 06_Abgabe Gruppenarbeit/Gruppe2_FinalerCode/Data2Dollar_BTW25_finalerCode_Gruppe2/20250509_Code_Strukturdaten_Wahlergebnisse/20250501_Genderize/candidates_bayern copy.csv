@@ -1,0 +1,602 @@
+bundesland,partei,listenplatz,nachname,vorname,beruf,geburtsjahr,wahlkreis_name,wahlkreis_nummer
+Bayern,CSU,001,Dobrindt,Alexander,"MdB, Dipl.-Soziologe",1970,Weilheim,225
+Bayern,CSU,002,Lindholz,Andrea,"MdB, Rechtsanwältin",1970,Aschaffenburg,246
+Bayern,CSU,003,Felßner,Günther,Landwirt,1966,,
+Bayern,CSU,004,Ludwig,Daniela,"MdB, Dipl.-Juristin",1975,Rosenheim,221
+Bayern,CSU,005,Rainer,Alois Georg Josef,"MdB, Metzgermeister",1965,Straubing,230
+Bayern,CSU,006,Bär,Dorothee Gisela Renate Maria,Mitglied des Deutschen Bundestages,1978,Bad Kissingen,247
+Bayern,CSU,007,Hahn,Florian Peter,Mitglied des Deutschen Bundestages,1974,München-Land,220
+Bayern,CSU,008,Zeulner,Emmi,Mitglied des Deutschen Bundestages,1987,Kulmbach,239
+Bayern,CSU,009,Dr. Pilsinger,Stephan Nikolaus,"MdB, Hausarzt",1987,München-West/Mitte,219
+Bayern,CSU,010,Englhardt-Kopf,Martina,"MdB, Studiendirektorin a. D.",1981,Schwandorf,233
+Bayern,CSU,011,Brehm,Sebastian Alfred,"MdB, Steuerberater",1971,Nürnberg-Nord,243
+Bayern,CSU,012,Dr. Weisgerber,Anja,"MdB, Rechtsanwältin",1976,Schweinfurt,249
+Bayern,CSU,013,Frieser,Michael Edwin,"MdB, Rechtsanwalt",1964,Nürnberg-Süd,244
+Bayern,CSU,014,Wittmann,Mechthilde,Mitglied des Deutschen Bundestages,1967,Oberallgäu,256
+Bayern,CSU,015,Dr. Ullrich,Volker Michael,"MdB, Jurist, Dipl.-Kaufmann",1975,Augsburg-Stadt,251
+Bayern,CSU,016,Staffler,Katrin,Mitglied des Deutschen Bundestages,1981,Fürstenfeldbruck,214
+Bayern,CSU,017,Baumgartner,Günter,Sparkassenbetriebswirt,1975,Rottal-Inn,229
+Bayern,CSU,018,Küng,Claudia,Dipl.-Volkswirtin,1964,München-Süd,218
+Bayern,CSU,019,Dr. Theiss,Hans Diogenes,Arzt,1977,München-Nord,216
+Bayern,CSU,020,Dr. Launert,Silke,Mitglied des Deutschen Bundestages,1976,Bayreuth,236
+Bayern,CSU,021,Dr. Körner,Konrad,Rechtsanwalt,1992,Erlangen,241
+Bayern,CSU,022,Hierl,Susanne,"MdB, Rechtsanwältin",1973,Amberg,231
+Bayern,CSU,023,Rohrmoser,Josef,Personalleiter,1997,,
+Bayern,CSU,024,Dr. Kössinger,Julia Christina Katharina,Oberregierungsrätin,1993,,
+Bayern,CSU,025,Rupprecht,Albert Robert,"MdB, Dipl.-Volkswirt",1968,Weiden,234
+Bayern,CSU,026,Dr. Düber,Hülya,Sozialreferentin,1978,Würzburg,250
+Bayern,CSU,027,Dr. Fabritius,Bernd-Bernhard,Rechtsanwalt,1965,,
+Bayern,CSU,028,Zintl,Irmgard Sofie,Hauswirtschaftsmeisterin,1963,,
+Bayern,CSU,029,Meier,Reiner,Dipl.-Verwaltungswirt (FH),1953,,
+Bayern,CSU,030,Sontag-Lohmayer,Sophie Maria Dorothea,Politikwissenschaftlerin (M. Sc.),1992,,
+Bayern,CSU,031,Hain,Heiko,Verwaltungsfachwirt,1982,Hof,238
+Bayern,CSU,032,Prof. Dr. Wespel,Franziska,Beamtin,1981,,
+Bayern,CSU,033,Moser,Christian Anton,Jurist,1989,Freising,213
+Bayern,CSU,034,Auerhahn,Anna-Maria,Juristin,1996,,
+Bayern,CSU,035,Koller,Johann Georg,Land- und Gastwirt,1971,Passau,228
+Bayern,CSU,036,Freifrau von Waldenfels,Martina Annemarie Marianne Hanna,Landschaftsarchitektin,1975,,
+Bayern,CSU,037,Hochrein,Claus,Landwirt,1974,,
+Bayern,CSU,038,Edmeier,Sabrina,Rechtsanwältin,1995,,
+Bayern,CSU,039,Schuster,Aron,Dipl.-Betriebswirt (FH),1984,,
+Bayern,CSU,040,Renner,Nikola Yvonne Astrid,Justiziarin,1969,,
+Bayern,CSU,041,Mörtl,Joseph Manfred,Doktorand,1999,,
+Bayern,CSU,042,Dr. Ziegler,Katharina Maria,juristische Staatsbeamtin,1985,,
+Bayern,CSU,043,Walk,Valentin Rupert,Regierungsbeamter,1996,,
+Bayern,CSU,044,Polster,Lara,Wirtschaftspsychologin,1988,,
+Bayern,CSU,045,Neumeyer,Niklas Martin Pabo,Pressesprecher,1992,,
+Bayern,CSU,046,Fischer,Kathrin,Politik- und Kulturwissenschaftlerin,1985,,
+Bayern,CSU,047,Süß,Michael,Bankkaufmann,2003,,
+Bayern,CSU,048,Hoffmann-Baumstark,Bianca,Erzieherin,1980,,
+Bayern,CSU,049,Rudrof,Constantin,wissenschaftl. Mitarbeiter,1997,,
+Bayern,CSU,050,Kaiser,Sophia,Lehrkraft im Vorbereitungsdienst,1997,,
+Bayern,CSU,051,van Laak,Yannick Maurice,Polizeihauptkommissar,1996,,
+Bayern,CSU,052,Kohlmüller,Monika,Rechtsanwältin,1992,,
+Bayern,CSU,053,Uhl,Daniel Rupert,Industriefachwirt,1998,,
+Bayern,CSU,054,Rieß,Tanja,Industriekauffrau,1991,,
+Bayern,CSU,055,Dr. Giersdorf,Fabian,Oberregierungsrat,1990,,
+Bayern,CSU,056,Wenning,Simone,selbst. Modedesignerin,1977,,
+Bayern,CSU,057,Thomas,Stephan,Lehrer,1980,,
+Bayern,CSU,058,Lang,Julia,Gymnasiallehrerin,1982,,
+Bayern,CSU,059,Huber,Valentin Alfred Rudolf,Student,1997,,
+Bayern,CSU,060,Herding,Susanne,Industrietechnologin,1970,,
+Bayern,CSU,061,Reusch,Robin,Baurat,1991,,
+Bayern,CSU,062,Schrembs,Regina,Verwaltungsangestellte,1971,,
+Bayern,CSU,063,Rose,Christian,Jurist,1983,,
+Bayern,CSU,064,Barth,Birgit,Betriebswirtin,1972,,
+Bayern,CSU,065,Barth,Frederik,Student,2002,,
+Bayern,CSU,066,Haneberg,Sarah,wissenschaftl. Mitarbeiterin,1993,,
+Bayern,CSU,067,Pursch,Julien,Dipl.-Finanzwirt (FH),1999,,
+Bayern,CSU,068,Jakob,Gabriele Jessica,Rechtsanwältin,1972,,
+Bayern,CSU,069,Lehrmann,Christian Hugo,Polizeibeamter,1980,,
+Bayern,CSU,070,Haspel,Heike Karin,Personalsachbearbeiterin,1969,,
+Bayern,CSU,071,Asenbauer,Johannes Michael,Automobilverkäufer,1992,,
+Bayern,CSU,072,Rickl,Elisabeth,Studiendirektorin,1967,,
+Bayern,CSU,073,Mudgal,Siddharth,Direktor Restrukturierung,1981,,
+Bayern,CSU,074,Seiferlein,Corinna Sarah Christina,Sozialmanager (B. A.),1990,,
+Bayern,CSU,075,Schmidbauer,Fabian Artur Ernst,Gymnasiallehrer,1992,,
+Bayern,CSU,076,Burkhardt,Anja,Architektin,1968,,
+Bayern,CSU,077,Brunkhorst,Ben,Student,2004,,
+Bayern,CSU,078,Gräfin von Brühl-Störlein,Juliana Josephin,Studentin,2003,,
+Bayern,CSU,079,Müller,Jonas Markus,Student,2002,,
+Bayern,CSU,080,Bergmann,Silvia,Betriebswirtin i. R.,1959,,
+Bayern,CSU,081,Helgert,Michael Georg,Elektromeister,1964,,
+Bayern,CSU,082,Kaida,Florian Roland,wissenschaftl. Mitarbeiter,1999,,
+Bayern,CSU,083,Stiegeler,David,Referent Bürgeranliegen und Kundenbeziehungsmanagement,1997,,
+Bayern,CSU,084,Alfery,Johannes,Rechtsreferendar,1998,,
+Bayern,CSU,085,Götz,Maximilian,Steuerberater,1987,,
+Bayern,CSU,086,Prof. Dr. Dr. Ehlers,Alexander Paul Friedrich,Rechtsanwalt,1955,,
+Bayern,CSU,087,Hänsel,Gottfried,Bankfilialdirektor i. R.,1951,,
+Bayern,CSU,088,Kämmerer,Jan,Dipl.-Verwaltungswirt (FH),1999,,
+Bayern,CSU,089,Stöckert,Philipp Karl Dimit'r,Jurist,1997,,
+Bayern,CSU,090,Stocker-Böck,Jakob,IT-Projektleiter,1999,,
+Bayern,CSU,091,Fleig,Florian Alexander,Rechtsanwalt,1981,,
+Bayern,CSU,092,Picker,Rolf,Rechtsanwalt,1953,,
+Bayern,SPD,001,Träger,Carsten Dietmar,Mitglied des Deutschen Bundestages,1973,Fürth,242
+Bayern,SPD,002,Dr. Kofler,Bärbel,Mitglied des Deutschen Bundestages,1967,Traunstein,224
+Bayern,SPD,003,Schätzl,Johannes,"MdB, Informatiker",1993,Passau,228
+Bayern,SPD,004,Kramme,Anette,"MdB, parl. Staatssekretärin",1967,Bayreuth,236
+Bayern,SPD,005,Roloff,Sebastian Jörg,"MdB, Rechtsanwalt",1983,München-Süd,218
+Bayern,SPD,006,Dittmar,Sabine,"MdB, parl. Staatssekretärin",1964,Bad Kissingen,247
+Bayern,SPD,007,Schmid,Christoph Florian,Mitglied des Deutschen Bundestages,1976,Donau-Ries,253
+Bayern,SPD,008,Dr. Wagner,Carolin,"MdB, Referatsleiterin",1982,Regensburg,232
+Bayern,SPD,009,Rützel,Bernd Ferdinand,"MdB, techn. Oberamtsrat a. D.",1968,Main-Spessart,248
+Bayern,SPD,010,Heinrich,Gabriela,Dipl.-Medienberaterin,1963,Nürnberg-Nord,243
+Bayern,SPD,011,Schrodi,Michael,Gymnasiallehrer,1977,Fürstenfeldbruck,214
+Bayern,SPD,012,Wegge,Carmen,"MdB, Regierungsrätin a. D.",1989,Starnberg – Landsberg am Lech,223
+Bayern,SPD,013,Schwarz,Andreas,"MdB, Dipl.-Betriebswirt (FH)",1965,Bamberg,235
+Bayern,SPD,014,Heubach,Heike,Mitglied des Deutschen Bundestages,1979,Augsburg-Land,252
+Bayern,SPD,015,Mandrella,David Tobias,Referendar,2001,Amberg,231
+Bayern,SPD,016,König,Anja,Angestellte,1970,Landshut,227
+Bayern,SPD,017,Mehltretter,Andreas Maximilian,Volkswirt,1991,Freising,213
+Bayern,SPD,018,Knorr-Köning,Seija Anne,Pflegekraft,1994,München-West/Mitte,219
+Bayern,SPD,019,Nürnberger,Jörg Mathias,Mitglied des Deutschen Bundestages,1967,Hof,238
+Bayern,SPD,020,Bahr,Ulrike,Mitglied des Deutschen Bundestages,1964,Augsburg-Stadt,251
+Bayern,SPD,021,Hümpfer,Markus Klaus,"MdB, Ingenieur",1992,Schweinfurt,249
+Bayern,SPD,022,Hagl-Kehl,Rita Andrea,"MdB, Studienrätin",1970,Deggendorf,226
+Bayern,SPD,023,Plobner,Jan Heinz Stefan,Mitglied des Deutschen Bundestages,1992,Roth,245
+Bayern,SPD,024,Schieder,Marianne,"MdB, Juristin",1962,Schwandorf,233
+Bayern,SPD,025,Dr. Rüger,Korbinian Nicholas,Dozent an der Universität,1988,München-Land,220
+Bayern,SPD,026,Stamm-Fibich,Martina,Mitglied des Deutschen Bundestages,1965,Erlangen,241
+Bayern,SPD,027,Eder,Severin Johannes Antonin,Referent Nachhaltigkeit,1992,Rottal-Inn,229
+Bayern,SPD,028,Räth,Katharina,Gewerkschaftssekretärin,1983,Würzburg,250
+Bayern,SPD,029,Eckstein,Jonas Bastian,Bauzeichner,1998,Coburg,237
+Bayern,SPD,030,Dr. Renner,Regina Michaela,wissenschaftl. Mitarbeiterin,1985,Ostallgäu,257
+Bayern,SPD,031,Forster,Gregor Johannes,Studienrat,1981,Weiden,234
+Bayern,SPD,032,Praun,Nadine,Gymnasiallehrerin,1995,Ingolstadt,215
+Bayern,SPD,033,Grämmer,Thomas,Diakon,1981,Nürnberg-Süd,244
+Bayern,SPD,034,Molnar,Reka,duale Studentin,2000,Rosenheim,221
+Bayern,SPD,035,Sat,Ali-Cemil,Student,2000,Kulmbach,239
+Bayern,SPD,036,Sigl-Glöckner,Philippa Maria Magdalena Patricia,Ökonomin,1990,München-Nord,216
+Bayern,SPD,037,Michniok,Manuel Stefan,Gewerkschaftssekretär,1985,Aschaffenburg,246
+Bayern,SPD,038,Lehner,Sarah Carmen,Projektkoordinatorin,1995,,
+Bayern,SPD,039,Mirlach,Daniel,Pflegefachkraft,1997,Ansbach,240
+Bayern,SPD,040,Kliem,Marvin,Angestellter,1997,Straubing,230
+Bayern,SPD,041,Keller,Marcel,Lehrer,1993,Memmingen – Unterallgäu,255
+Bayern,SPD,042,Fernengel,Jürgen,Chemieingenieur,1985,Altötting,211
+Bayern,SPD,043,Rausch,David Christian,Sozialwissenschaftler,1994,München-Ost,217
+Bayern,SPD,044,Büch,Andreas,Gruppenleiter Versandlogistik,1991,Neu-Ulm,254
+Bayern,SPD,045,Dr. Mohr,Marco,Wirtschaftswissenschaftler,1984,Erding – Ebersberg,212
+Bayern,SPD,046,Plappert,Konstantin,Student,2003,Oberallgäu,256
+Bayern,SPD,047,Meikis,Clemens Andreas Johannes,Geschäftsführer,1979,Weilheim,225
+Bayern,SPD,048,Joos,Raffael,Student,1992,Bad Tölz-Wolfratshausen – Miesbach,222
+Bayern,SPD,049,Werner,Stefan,Verwaltungsfachangestellter,1977,,
+Bayern,GRÜNE,001,Schäfer,Jamila Anna,Mitglied des Deutschen Bundestages,1993,München-Süd,218
+Bayern,GRÜNE,002,Dr. Hofreiter,Anton,"MdB, Dipl.-Biologe",1970,München-Land,220
+Bayern,GRÜNE,003,Roth,Claudia Benedikta,Staatsministerin Kultur und Medien,1955,Augsburg-Stadt,251
+Bayern,GRÜNE,004,Müller,Sascha,"MdB, Sportjournalist",1970,Nürnberg-Süd,244
+Bayern,GRÜNE,005,Badum,Lisa Hildegard,Mitglied des Deutschen Bundestages,1983,Bamberg,235
+Bayern,GRÜNE,006,Bär,Karl,"MdB, Agrarökonom",1985,Bad Tölz-Wolfratshausen – Miesbach,222
+Bayern,GRÜNE,007,Winklmann,Tina,Verfahrensmechanikerin,1980,Schwandorf,233
+Bayern,GRÜNE,008,Wagener,Niklas,Mitglied des Deutschen Bundestages,1998,Aschaffenburg,246
+Bayern,GRÜNE,009,Schönberger,Marlene Edeltraud,"MdB, Politikwissenschaften (M. A.)",1990,Rottal-Inn,229
+Bayern,GRÜNE,010,Eckert,Leon,"MdB, Kommunalreferent",1995,Freising,213
+Bayern,GRÜNE,011,Lenhard,Rebecca,selbst. IT-Beraterin,1995,Nürnberg-Nord,243
+Bayern,GRÜNE,012,Wagner,Johannes,Arzt,1991,Coburg,237
+Bayern,GRÜNE,013,Broßart,Victoria,Ingenieurin,1992,Rosenheim,221
+Bayern,GRÜNE,014,Schmidt,Stefan,"MdB, Lehrer",1981,Regensburg,232
+Bayern,GRÜNE,015,Hecht,Jessica Berta,Lehrerin,1972,Würzburg,250
+Bayern,GRÜNE,016,Dr. Pircher,Bianca,Biologin,1994,Roth,245
+Bayern,GRÜNE,017,Wörle,Andrea,Referentin Haushaltspolitik,1985,Oberallgäu,256
+Bayern,GRÜNE,018,Machnik,Petra Verena,freie Journalistin,1979,Starnberg – Landsberg am Lech,223
+Bayern,GRÜNE,019,Jacob,Britta,Dipl.-Kulturwirtin,1980,Fürstenfeldbruck,214
+Bayern,GRÜNE,020,Hermann,Andre Phillipp,Krisenmanager,1981,München-Ost,217
+Bayern,GRÜNE,021,Wißmiller,Maria Ingrid,Umweltberaterin,1987,Ostallgäu,257
+Bayern,GRÜNE,022,Krieger,Maria,Volkswirtin,1985,Landshut,227
+Bayern,GRÜNE,023,Schweiger,Ulrike Barbara,Personalreferentin,1965,Traunstein,224
+Bayern,GRÜNE,024,Artun,Alpay,Softwareentwickler,1987,Neu-Ulm,254
+Bayern,GRÜNE,025,Niedermeier,Feride,Sozialversicherungsfachangestellte,1975,Straubing,230
+Bayern,GRÜNE,026,Amler,Sebastian Hermann,Student,1997,Ansbach,240
+Bayern,GRÜNE,027,Droste,Anneliese,Intensivpflegekraft,1967,Weiden,234
+Bayern,GRÜNE,028,Salimi,Kamran Michael,Krankenpfleger,1969,Fürth,242
+Bayern,GRÜNE,029,Bößert,Inken,Dipl.-Kauffrau,1970,Bayreuth,236
+Bayern,GRÜNE,030,Weis,Peter,Rechtsdozent,1992,Main-Spessart,248
+Bayern,GRÜNE,031,Göppel-Kraft,Sophia Lydia,Energieökonomin,1988,,
+Bayern,GRÜNE,032,Lochmüller,Christoph Johannes,Aufzugbau-Unternehmer,1967,Erding – Ebersberg,212
+Bayern,GRÜNE,033,Probst,Julia Fatima,PR-Referentin,1981,,
+Bayern,GRÜNE,034,Damm,William Sebastian,Dipl.-Informatiker,1979,Deggendorf,226
+Bayern,GRÜNE,035,Anton-Kupfer,Miriam Mechthild,Journalistin,1976,,
+Bayern,GRÜNE,036,Ochs,Thomas Josef,Gitarrenbaumeister,1973,Kulmbach,239
+Bayern,GRÜNE,037,Dr. Sigloch,Helene,IT-Sicherheitsexpertin,1983,,
+Bayern,GRÜNE,038,Schmidt,Helmut Horst-Werner,Gebietsverkaufsleiter,1962,Augsburg-Land,252
+Bayern,GRÜNE,039,Schießer,Lisa Marie,Angestellte im öffentlichen Dienst,1993,,
+Bayern,GRÜNE,040,Guter,Paulus Maximilian,Elektrotechnik-Ingenieur,1994,Erlangen,241
+Bayern,GRÜNE,041,Thaqi,Albina,Studentin,2004,,
+Bayern,GRÜNE,042,Nagel,Merlin Georg Friedrich,Ingenieur,1986,Ingolstadt,215
+Bayern,GRÜNE,043,Siontas,Patrizia Anna,Fremdsprachenkorrespondentin,1973,,
+Bayern,GRÜNE,044,Ruser,Christian Andreas,pädagogischer Mitarbeiter,1980,Bad Kissingen,247
+Bayern,GRÜNE,045,Claus,Vivian-Catherine,Wirtschaftsingenieurin,1996,,
+Bayern,GRÜNE,046,Biela,Peter,Betriebstechniker,1983,Altötting,211
+Bayern,GRÜNE,047,Hartl,Monika Chantal Margarita,Studienrätin Förderschuldienst,1971,,
+Bayern,GRÜNE,048,Gürtler,Peter Gerhard,Geschäftsführer,1966,Amberg,231
+Bayern,GRÜNE,049,Rohdenburg,Stefanie,Apothekerin,1970,,
+Bayern,GRÜNE,050,Lund,Adrian,techn. Redakteur,1993,Donau-Ries,253
+Bayern,GRÜNE,051,Feldmann,Lisa,Kunstlehrerin,1982,,
+Bayern,GRÜNE,052,Müller,Frederic-Alexej,Erzieher Heilpädagogik,1968,Passau,228
+Bayern,GRÜNE,053,Onken,Sarah,Betriebswirtin,1980,,
+Bayern,GRÜNE,054,König,Christian Athanasius,Klima- und Unternehmensberater,1998,Weilheim,225
+Bayern,GRÜNE,055,Mader,Christina,Lehrerin,1983,,
+Bayern,GRÜNE,056,Weidinger,Stefan Rudolf Leo,IT-Manager,1963,Schweinfurt,249
+Bayern,GRÜNE,057,Weigert,Claudia Nicole,Dipl.-Kauffrau,1983,,
+Bayern,GRÜNE,058,Dr. Schmalfuß,Harald Jürgen,Dipl.-Physiker,1949,Hof,238
+Bayern,GRÜNE,059,Stelzl,Nina Desire,wissenschaftl. Mitarbeiterin,1995,,
+Bayern,GRÜNE,060,Linse,Joachim,Softwareentwickler,1986,Memmingen – Unterallgäu,255
+Bayern,GRÜNE,061,Bergmann,Miriam Sophia Zoë,Studentin,2002,,
+Bayern,GRÜNE,062,Ostermeier,Frederik Ferid,Spezialist Digitalisierung Produktion,1990,München-Nord,216
+Bayern,FDP,001,Hagen,Martin Stephan,Geschäftsführer,1981,Erding – Ebersberg,212
+Bayern,FDP,002,Hessel,Katja,"MdB, Rechtsanwältin, Steuerberaterin",1972,Nürnberg-Nord,243
+Bayern,FDP,003,Seehofer,Susanne Karin,Betriebswirtin (M. Sc.),1991,Fürstenfeldbruck,214
+Bayern,FDP,004,Klein,Karsten Franziskus,Mitglied des Deutschen Bundestages,1977,Aschaffenburg,246
+Bayern,FDP,005,Föst,Daniel Wolfgang,Mitglied des Deutschen Bundestages,1976,München-Nord,216
+Bayern,FDP,006,Bauer,Nicole Anna Elisabeth,Mitglied des Deutschen Bundestages,1987,Landshut,227
+Bayern,FDP,007,Gründer,Nils Jan,Mitglied des Deutschen Bundestages,1997,Amberg,231
+Bayern,FDP,008,Funke genannt Kaiser,Maximilian Ludwig,Mitglied des Deutschen Bundestages,1993,Augsburg-Stadt,251
+Bayern,FDP,009,Al-Halak,Muhanad,Mitglied des Deutschen Bundestages,1989,Deggendorf,226
+Bayern,FDP,010,Bubendorfer-Licht,Sandra Maria,"MdB, selbst. Dolmetscherin",1969,Altötting,211
+Bayern,FDP,011,Lechte,Ulrich Werner Maria,"MdB, Betriebswirt (VWA)",1977,Regensburg,232
+Bayern,FDP,012,Hacker,Thomas,"MdB, Dipl.-Kaufmann",1967,Bayreuth,236
+Bayern,FDP,013,Pischel,Lisa-Marie,Studentin,2001,Nürnberg-Süd,244
+Bayern,FDP,014,Friedrich,Paul Noah,Student,2003,Starnberg – Landsberg am Lech,223
+Bayern,FDP,015,Türker,Mahmut,Dipl.-Ingenieur,1967,München-Ost,217
+Bayern,FDP,016,Dr. Köhler,Lukas Otto,Mitglied des Deutschen Bundestages,1986,München-West/Mitte,219
+Bayern,FDP,017,Thomae,Stephan,Rechtsanwalt,1968,Oberallgäu,256
+Bayern,FDP,018,Dr. Ullmann,Andrew John,"MdB, Universitätsprofessor, Internist",1963,Würzburg,250
+Bayern,FDP,019,Schenk Graf von Stauffenberg,Maximilian Karl Theodor Franz Maria,Unternehmer,1970,Bad Kissingen,247
+Bayern,FDP,020,Duin,Albert Walter,Geschäftsführer,1953,Traunstein,224
+Bayern,FDP,021,Lütke,Kristine,"MdB, Pflegeunternehmerin",1982,Roth,245
+Bayern,FDP,022,Körber,Sebastian Michael,Architekt,1980,Bamberg,235
+Bayern,FDP,023,Pößl,Ileana-Valeria,Altenpflegerin,1967,Schwandorf,233
+Bayern,FDP,024,Sandt,Julika Muriel,leitende Angestellte Gesundheitswesen,1971,München-Süd,218
+Bayern,FDP,025,Dr. Klaue,Thomas Jürgen,Dipl.-Ingenieur,1958,München-Land,220
+Bayern,FDP,026,Ernst,Jan Christoph Alfred,Projektassistent,2004,Passau,228
+Bayern,FDP,027,Moga,Marcus,Fahrlehrer,1997,Rosenheim,221
+Bayern,FDP,028,Persson,Leif Erik,Ingenieur,1992,Erlangen,241
+Bayern,FDP,029,Vo,Huu Loi,Pharmaberater,1984,,
+Bayern,FDP,030,Monti,Vittorino,Soldat,1993,Freising,213
+Bayern,FDP,031,Rothlehner,Claus Peter,Geschäftsführer,1981,Rottal-Inn,229
+Bayern,FDP,032,Speer,Jürgen,Landwirt,1980,Weilheim,225
+Bayern,FDP,033,Riekel,Patricia Hedwig Cornelia,Journalistin,1949,,
+Bayern,FDP,034,Herpel,Klaus Eugen,Geschäftsführer,1962,Straubing,230
+Bayern,FDP,035,Ramm,Oliver,Angestellter,1971,Coburg,237
+Bayern,FDP,036,Hecht,Henrik,Systemingenieur,1995,Neu-Ulm,254
+Bayern,FDP,037,Ecker,Timo,Referent Digitalisierung,1995,,
+Bayern,FDP,038,Dr. Geier,Birgit,wissenschaftl. Mitarbeiterin,1967,Augsburg-Land,252
+Bayern,FDP,039,Teichert,Claudia,Kommunikationsdesignerin,1983,,
+Bayern,FDP,040,Kirchgeßner,Noah Winfried,Student,2002,Main-Spessart,248
+Bayern,FDP,041,Kerkhoff,Birgit,Hotelbetriebswirtin,1968,,
+Bayern,FDP,042,Sachs,Tim Michael,Geschäftsführer,1990,Bad Tölz-Wolfratshausen – Miesbach,222
+Bayern,FDP,043,Weigle,Markus Michael,Versicherungsmakler,1988,,
+Bayern,FDP,044,Posch,Hans-Peter,Gastronom,1962,Donau-Ries,253
+Bayern,FDP,045,Mörer,Michael,Geschäftsführer,1965,Schweinfurt,249
+Bayern,FDP,046,Stöcklein,Ralf,Referent,1989,,
+Bayern,FDP,047,Kremer,Franziska,Psychologin,1980,Ansbach,240
+Bayern,FDP,048,Ludwig,Tim Pascal,Zerspanungsmechaniker,1994,,
+Bayern,FDP,049,Heindl,Stefan,Geschäftsführer,1968,Hof,238
+Bayern,FDP,050,Steffen,Daniel,Berufssoldat,1983,Memmingen – Unterallgäu,255
+Bayern,FDP,051,Renner,Nikita Jan,Student,2001,Ingolstadt,215
+Bayern,FDP,052,Schräder,Frank,Verkaufsleiter,1976,,
+Bayern,FDP,053,Hauser,Karl,Unternehmer,1958,,
+Bayern,FDP,054,Egerer,Franz Luitpold,Getränkebetriebswirt,1973,,
+Bayern,FDP,055,Schmidt,Daniel,Unternehmer Metallbranche,1973,,
+Bayern,FDP,056,Henzen,Jörg Klaus,geschäftsführender Gesellschafter,1963,,
+Bayern,FDP,057,Prost,Marcus,Historiker,1973,Ostallgäu,257
+Bayern,FDP,058,Schürdt,Marcus Christoph,Unternehmensberater,1976,,
+Bayern,FDP,059,Dr. Sommerfeld,Frank,Orthopäde,1966,,
+Bayern,FDP,060,Otte,Michael,Vorstand,1968,,
+Bayern,FDP,061,Dr. Klotz,Theodor Alexander,Arzt,1962,Weiden,234
+Bayern,FDP,062,Connelly,Anne Eva,Geschäftsführerin,1964,,
+Bayern,FDP,063,Bayer,Daniel René,Informatiker,1996,Fürth,242
+Bayern,FDP,064,Blechschmidt,Kevin,Softwareentwickler,1996,Kulmbach,239
+Bayern,FDP,065,Schmidt,Regina,Sonderschullehrerin i. R.,1965,,
+Bayern,FDP,066,Nowak,Armin Karl Wilhelm,Immobiliensachverständiger,1960,,
+Bayern,FDP,067,Benninghoven,Heinz,Rentner,1955,,
+Bayern,AfD,001,Protschka,Stephan,Mitglied des Deutschen Bundestages,1977,Rottal-Inn,229
+Bayern,AfD,002,Boehringer,Peter Christian Pascal,Mitglied des Deutschen Bundestages,1969,Amberg,231
+Bayern,AfD,003,Dr. Rothfuß,Rainer,"MdB, Geopolitik-Analyst",1971,Oberallgäu,256
+Bayern,AfD,004,Huy,Rose Gerrit,Mitglied des Deutschen Bundestages,1953,Weilheim,225
+Bayern,AfD,005,Wiehle,Wolfgang,Mitglied des Deutschen Bundestages,1964,München-Süd,218
+Bayern,AfD,006,Schiller,Manfred Leonhard,Kaufmann,1961,Weiden,234
+Bayern,AfD,007,Peterka,Tobias Matthias,Mitglied des Deutschen Bundestages,1982,Bayreuth,236
+Bayern,AfD,008,Otten,Gerold Joachim,Mitglied des Deutschen Bundestages,1955,München-Land,220
+Bayern,AfD,009,Felser,Peter,Mitglied des Deutschen Bundestages,1969,,
+Bayern,AfD,010,Schießl,Carina,med.-techn. Laborassistentin,1990,Regensburg,232
+Bayern,AfD,011,Teich,Tobias Daniel,Referent,1984,München-Ost,217
+Bayern,AfD,012,Mayer,Andreas,Luft- und Raumfahrttechnikingenieur,1995,Donau-Ries,253
+Bayern,AfD,013,Rehm,Lukas,Personalsachbearbeiter,1990,Ingolstadt,215
+Bayern,AfD,014,Scheirich,Raimond Christian,Umweltingenieur,1990,Augsburg-Stadt,251
+Bayern,AfD,015,Schuhmann,Bernd Willi Karl,Gartenbautechniker,1964,Schweinfurt,249
+Bayern,AfD,016,Dr. Hahn,Ingo Jochen,Mitglied des Bayerischen Landtags,1971,Bad Tölz-Wolfratshausen – Miesbach,222
+Bayern,AfD,017,Dr. Birghan,Christoph,Patentanwalt,1970,Traunstein,224
+Bayern,AfD,018,Treuheit,Bastian,Kaufmann im Groß- und Außenhandel,1998,Fürth,242
+Bayern,AfD,019,Mixl,Reinhard Wilhelm,Dipl.-Betriebswirt (FH),1961,Schwandorf,233
+Bayern,AfD,020,Groß,Karl Rudolf Rainer,Rechtsanwalt,1960,,
+Bayern,AfD,021,Dr. Kraft,Rainer Detlef,Mitglied des Deutschen Bundestages,1974,,
+Bayern,AfD,022,Brucker,Erhard Josef,Unternehmer,1972,Passau,228
+Bayern,AfD,023,Dröse,Wolfgang Bernd,Referent,1988,Ostallgäu,257
+Bayern,AfD,024,Gebhardt,Michael Theodor,Einzelhandelskaufmann,1964,Coburg,237
+Bayern,AfD,025,Weiß,Michael Adam,Kaufmann,1969,Bamberg,235
+Bayern,AfD,026,Liebl,Yannic Elias,Elektroniker,2003,Straubing,230
+Bayern,AfD,027,Kofner,Jurij Christopher,Ökonom,1988,,
+Bayern,AfD,028,Görtler,Sebastian Johannes,Mediengestalter,1984,Kulmbach,239
+Bayern,Freie Wähler,001,Aiwanger,Hubert,"MdL, Staatsminister",1971,Rottal-Inn,229
+Bayern,Freie Wähler,002,Baier-Müller,Indra Anja,Landrätin,1971,Oberallgäu,256
+Bayern,Freie Wähler,003,Dreier,Peter,Landrat,1966,Landshut,227
+Bayern,Freie Wähler,004,Grötsch,Hans Martin,Berufssoldat,1979,Amberg,231
+Bayern,Freie Wähler,005,Wörle,Michael,Erster Bürgermeister,1967,Augsburg-Stadt,251
+Bayern,Freie Wähler,006,Hofer,Sepp,Zimmerermeister,1965,Rosenheim,221
+Bayern,Freie Wähler,007,Bergmann,Jochen Sebastian,Polizeibeamter,1989,Kulmbach,239
+Bayern,Freie Wähler,008,Rogner,Axel Maximilian,stellv. Werkleiter,1966,Erlangen,241
+Bayern,Freie Wähler,009,Helmerich,Frank,Gymnasiallehrer,1977,Bad Kissingen,247
+Bayern,Freie Wähler,010,Bender-Schwering,Loraine Sunshine,Studienrätin Förderschuldienst,1988,München-Süd,218
+Bayern,Freie Wähler,011,Edl,Martina Inge,Architektin,1963,Ingolstadt,215
+Bayern,Freie Wähler,012,Neckov,Sabrina Ingrid,Rektorin,1981,Schweinfurt,249
+Bayern,Freie Wähler,013,Estrada,Thomas Michael,Dipl.-Verwaltungswirt (FH) Fachrichtung Polizei,1985,Nürnberg-Süd,244
+Bayern,Freie Wähler,014,Herzog,Jens,Softwareentwickler,1982,Bamberg,235
+Bayern,Freie Wähler,015,Seebauer-Sperl,Regina Christiane,"wissenschaftl. Mitarbeiterin, M.A.",1982,Regensburg,232
+Bayern,Freie Wähler,016,Panzer,Richard Oliver,kaufm. Objektleiter,1966,München-West/Mitte,219
+Bayern,Freie Wähler,017,Schmid,Fabian Georg,Verwaltungsfachangestellter,2002,Schwandorf,233
+Bayern,Freie Wähler,018,Leipold,Felix,Verwaltungswirt,1999,Bad Tölz-Wolfratshausen – Miesbach,222
+Bayern,Freie Wähler,019,Knabner,Susen,Rechtsanwältin,1978,Ostallgäu,257
+Bayern,Freie Wähler,020,Muhr,Helmut Michael,Lieferantenmanager,1987,Straubing,230
+Bayern,Freie Wähler,021,Seitz,Duncan Douglas Eugen,Soldat,1983,Würzburg,250
+Bayern,Freie Wähler,022,Mies,Florian Michael,Leiter Abgeordnetenbüro,1998,Deggendorf,226
+Bayern,Freie Wähler,023,Weinsteiger-Tauer,Birgit,Hauswirtschaftsmeisterin,1981,Freising,213
+Bayern,Freie Wähler,024,Kreuzhuber,Rupert Thomas,Kfz-Meister,1981,Passau,228
+Bayern,Freie Wähler,025,Schicker,Hubert Josef,Landwirt,1978,Weiden,234
+Bayern,Freie Wähler,026,Schmid,Thomas Robert,Fachangestellter Bäderbetriebe,1987,Bayreuth,236
+Bayern,Freie Wähler,027,Krumpholz,Otmar,techn. Angestellter,1978,Augsburg-Land,252
+Bayern,Freie Wähler,028,Bußjäger,Otto,Heizungsbaumeister,1971,München-Land,220
+Bayern,Freie Wähler,029,Joos,Jürgen,"Betriebswirt (VWA), Immobilienmakler",1981,Roth,245
+Bayern,Freie Wähler,030,Baygül,Ahmet,Krankentransportunternehmer,1978,Neu-Ulm,254
+Bayern,Freie Wähler,031,Wagner,Dagmar,Dipl.-Agraringenieurin,1970,Fürstenfeldbruck,214
+Bayern,Freie Wähler,032,Hiesl,Nikolai,Dipl.-Verwaltungswirt (FH),1995,Coburg,237
+Bayern,Freie Wähler,033,Dr. Mahler,Robert Franz,Polizist,1982,Nürnberg-Nord,243
+Bayern,Freie Wähler,034,Hamal,Klaus,selbst. Handwerksmeister Informatik,1965,Altötting,211
+Bayern,Freie Wähler,035,Kroeschell,Michael,Kaminkehrer,1977,Memmingen – Unterallgäu,255
+Bayern,Freie Wähler,036,Hepp,Volker Walfried,Dipl.-Physiker,1974,Main-Spessart,248
+Bayern,Freie Wähler,037,Schinner,Thomas,Elektroingenieur,1970,Hof,238
+Bayern,Freie Wähler,038,Hofmann,Rolf Jürgen,selbst. Ingenieur,1963,Starnberg – Landsberg am Lech,223
+Bayern,Freie Wähler,039,Riehl,Florian,Abteilungsleiter,1986,Donau-Ries,253
+Bayern,Freie Wähler,040,Mooser,Markus Herbert,Handelsfachwirt,1972,Ansbach,240
+Bayern,Freie Wähler,041,Marksteiner,Michael,Fertigungsingenieur,1983,Weilheim,225
+Bayern,Freie Wähler,042,Friedrich,Benno,Dipl.-Ingenieur (FH),1969,Aschaffenburg,246
+Bayern,Freie Wähler,043,Döll,Rolf-Peter Rüdiger,Gas- und Wasserinstallateurmeister,1965,München-Ost,217
+Bayern,Freie Wähler,044,Reiner,Hans Jürgen,Handwerkmeister,1963,Traunstein,224
+Bayern,Freie Wähler,045,Scholz,Andreas Klaus,Automatisierer,1983,Fürth,242
+Bayern,Freie Wähler,046,Steinbacher,Anton,Zahnarzt,1965,Erding – Ebersberg,212
+Bayern,Freie Wähler,047,Springer,Linus,Politikwissenschaftler,1995,München-Nord,216
+Bayern,Freie Wähler,048,Höfler,Lorenz,Waldschutzfachkraft,2002,,
+Bayern,Freie Wähler,049,Möbus,Rainer,Geschäftsführer,1962,,
+Bayern,Freie Wähler,050,Hirschfelder geb. Hofmann,Manuel Paul,Dipl.-Betriebswirt (FH),1971,,
+Bayern,Die Linke,001,Gürpinar,Ates Nils,Mitglied des Deutschen Bundestages,1984,Rosenheim,221
+Bayern,Die Linke,002,Gohlke,Nicole Stephanie,Sozialwissenschaftlerin,1975,München-West/Mitte,219
+Bayern,Die Linke,003,Vollath,Sarah,Sozialarbeiterin,1995,Ingolstadt,215
+Bayern,Die Linke,004,Hoß,Luke Rolf,Student,2001,Passau,228
+Bayern,Die Linke,005,Schötz,Evelyn,Altenpflegerin,1961,Roth,245
+Bayern,Die Linke,006,Valent,Aaron,Auszubildender,1997,Würzburg,250
+Bayern,Die Linke,007,Conrad,Agnes Maria,Referentin Konzernbetriebsrat,1997,Schweinfurt,249
+Bayern,Die Linke,008,Eitel,Lukas Jakob,Student,1998,Erlangen,241
+Bayern,Die Linke,009,Merx,Jennifer,juristische Sachbearbeiterin,1995,Memmingen – Unterallgäu,255
+Bayern,Die Linke,010,Damasceno da Costa e Silva,Janson,Werkstofftechnik (B. Eng.),1990,Hof,238
+Bayern,Die Linke,011,Wanke,Hanna,Soziologin,2001,,
+Bayern,Die Linke,012,Wanner,Sebastian Thomas,Vermittler,2002,Regensburg,232
+Bayern,Die Linke,013,Wiesholler,Elisabeth Pauline Santoschama,Studentin,1997,Augsburg-Stadt,251
+Bayern,Die Linke,014,Spielbauer,Johannes Jürgen,Rechtsanwalt,1993,Straubing,230
+Bayern,Die Linke,015,Buchwald,Mascha,Studentin,1998,Landshut,227
+Bayern,Die Linke,016,Le Claire,Vincent,wissenschaftl. Mitarbeiter,1989,Neu-Ulm,254
+Bayern,Die Linke,017,Gschwendtner,Nadja,Sozialarbeiterin,1991,Ansbach,240
+Bayern,Die Linke,018,Feilzer,Bernhard,Versicherungsberater,1948,Starnberg – Landsberg am Lech,223
+Bayern,Die Linke,019,Weisenberger,Julia,freiberufliche Übersetzerin,1981,Altötting,211
+Bayern,Die Linke,020,Kreuzeder,Rudolf,Pflegefachkraft,1976,Traunstein,224
+Bayern,dieBasis,001,Galić,Peggy Jacqueline,Angestellte im Gesundheitswesen,1975,Rosenheim,221
+Bayern,dieBasis,002,Kämmerer,Anna Elisabeth Ulrike,Biologin,1966,Würzburg,250
+Bayern,dieBasis,003,Graumann,Isabel Desiree Eleonore,Hebamme,1962,,
+Bayern,dieBasis,004,Goßner,Benjamin Sebastian,Gas- und Wasserinstallateur,1986,Donau-Ries,253
+Bayern,dieBasis,005,Dr. Müller,Ralf,Humanbiologe,1963,Neu-Ulm,254
+Bayern,dieBasis,006,Stoiber,Claudio,Ergotherapeut,1958,,
+Bayern,dieBasis,007,Schindler,Reiner,IT-Projektmanager,1965,,
+Bayern,dieBasis,008,Herwegh,Veronika Franziska,Modedesignerin,1974,Traunstein,224
+Bayern,dieBasis,009,Knörzer,Peter Werner,selbständig,1958,Augsburg-Stadt,251
+Bayern,dieBasis,010,Furtner,Rita Maria,Buchhalterin,1964,,
+Bayern,dieBasis,011,Kahnt,Andreas Emil Rudolf,Softwareentwickler,1960,Augsburg-Land,252
+Bayern,dieBasis,012,Hoffmann,Fabian,Zimmerer,1993,,
+Bayern,dieBasis,013,Thamm,Karsten,Softwareentwickler,1969,,
+Bayern,dieBasis,014,Asam,Marco Maximilian Kian,Ton- und Medientechniker,1990,,
+Bayern,dieBasis,015,Osterlänger,Jürgen,Rentner,1958,,
+Bayern,dieBasis,016,Reichelt,Manuela,Bürokauffrau,1962,,
+Bayern,dieBasis,017,Hirsch,Harald Jörg Hubertus,Betriebswirt,1967,,
+Bayern,dieBasis,018,Peter,Norbert Alois Sebastian,Finanzberater,1965,,
+Bayern,dieBasis,019,Peitsmeier,Ulrich,Ingenieur,1968,,
+Bayern,dieBasis,020,Schwandner,Robert Günther,Angestellter im öffentlichen Dienst,1965,,
+Bayern,dieBasis,021,Pilhofer,Sonja Helga,Rentnerin,1963,,
+Bayern,dieBasis,022,Seelos,Christian,Rentner,1956,,
+Bayern,dieBasis,023,Langhorst,Mattis Tomas Karl-Dietrich,Behindertenassistent,1967,,
+Bayern,dieBasis,024,Meyer,Markus,Textilingenieur,1984,,
+Bayern,dieBasis,025,Fenske,Peter,Rentner,1959,,
+Bayern,dieBasis,026,Schandelmaier,Martin,Rentner,1965,,
+Bayern,dieBasis,027,Macher,Andreas,Softwareingenieur,1964,,
+Bayern,dieBasis,028,Jaklin,Hans,techn. Kaufmann,1953,,
+Bayern,Tierschutzpartei,001,Dr. Wittmann,Susanne Christine,Ärztin,1965,,
+Bayern,Tierschutzpartei,002,Schwolow,Stephan,PR-Berater,1961,,
+Bayern,Tierschutzpartei,003,Kreidemeier,Christina Renate,Tierärztin,1998,,
+Bayern,Tierschutzpartei,004,Schönauer,Nathalie Stephanie Erna Helga Angelika Gretl,Bankkauffrau,1994,,
+Bayern,Tierschutzpartei,005,Baur,Susanne,Sozialarbeiterin,1994,Fürstenfeldbruck,214
+Bayern,Tierschutzpartei,006,Weiser,Stephanie Maria Barbara,Marketingmanagerin,1979,Neu-Ulm,254
+Bayern,Tierschutzpartei,007,Hahn,Sabine,Tierärztin,1965,Starnberg – Landsberg am Lech,223
+Bayern,Tierschutzpartei,008,Ruthenberg,Aljoscha Marek,Schüler,2003,,
+Bayern,Tierschutzpartei,009,Meiler,Christoph,Elektriker,1996,Oberallgäu,256
+Bayern,Tierschutzpartei,010,Frey,Marcel Norbert,Verwaltungsmitarbeiter,1989,,
+Bayern,Tierschutzpartei,011,Mändlen,Myriam,Psychologin,1967,,
+Bayern,Tierschutzpartei,012,Reithmayer,Elisabeth,Rentnerin,1954,,
+Bayern,Tierschutzpartei,013,Gimmler,Fabian,Betriebswirt (MBA),1988,München-West/Mitte,219
+Bayern,Tierschutzpartei,014,Zitter,Claudia Christina,Sozialpädagogin,1967,,
+Bayern,Tierschutzpartei,015,Krämer,Michael,Lektoratsmitarbeiter,1959,München-Land,220
+Bayern,Tierschutzpartei,016,Götz-Volkmann,Gertraud Maria Magdalena,Buchhalterin,1959,Landshut,227
+Bayern,Tierschutzpartei,017,Loibl,Alexandra,Industriekauffrau,1966,,
+Bayern,Tierschutzpartei,018,Aigner,Maximilian,Lehrer,1994,,
+Bayern,Tierschutzpartei,019,Schüller,Siegfried,Galerieleiter,1975,,
+Bayern,Tierschutzpartei,020,Lehner,Heidi Franziska,Kinderkrankenschwester,1973,,
+Bayern,Tierschutzpartei,021,Reithmayer,Manfred,Rentner,1954,,
+Bayern,Tierschutzpartei,022,Löbrich-Mannhart,Reinhild,Erzieherin,1962,,
+Bayern,Tierschutzpartei,023,Steyrer,Peter,Dipl.-Betriebswirt (FH),1952,Rosenheim,221
+Bayern,Tierschutzpartei,024,Hübner,Christoph,Wirtschaftsinformatiker,1986,Regensburg,232
+Bayern,Die PARTEI,001,Hinkelbein,Barbara Rebecca Anja,Verwaltungsangestellte,1975,München-Süd,218
+Bayern,Die PARTEI,002,Sandner,Bernd,Kaufmann,1972,,
+Bayern,Die PARTEI,003,Löchel,Jana,Softwareentwicklerin,1992,,
+Bayern,Die PARTEI,004,Rohrer,Jens,Schriftsteller,1975,Ingolstadt,215
+Bayern,Die PARTEI,005,Bauer,Anna Maria Claudia,Mediengestalterin,1981,,
+Bayern,Die PARTEI,006,Burneleit,Marie Christine Friederike,Werbekauffrau,1979,,
+Bayern,Die PARTEI,007,Düwel,Pia Sophie,Softwareentwicklerin,1993,,
+Bayern,Die PARTEI,008,Kronbauer,Roland,Dipl.-Ingenieur,1974,,
+Bayern,Die PARTEI,009,Skerlec,Oliver-Steve,Diakon,1980,,
+Bayern,Die PARTEI,010,Payvar Pour,Yvonne Nicole,Kinderpflegerin,1971,,
+Bayern,Die PARTEI,011,Sturmes,Jerome,Disponent,1986,,
+Bayern,Die PARTEI,012,Drabinski,Philipp Johannes,Dipl.-Politikwissenschaftler,1974,München-West/Mitte,219
+Bayern,Die PARTEI,013,Walter,Thilo,Techniker,1971,,
+Bayern,Die PARTEI,014,Trapp,Samuel,Konditormeister,1988,,
+Bayern,Die PARTEI,015,Mebes,Anja,Buchhalterin,1984,,
+Bayern,Die PARTEI,016,Klecker,Hermann Heinrich,Angestellter,1968,,
+Bayern,Die PARTEI,017,Winkler,Martin,Personalreferent,1992,,
+Bayern,Die PARTEI,018,Beyer,Marius Pascal,Jugendarbeiter,1999,,
+Bayern,Die PARTEI,019,Kind,Jurij Sebastian David,Pflegefachkraft,1990,,
+Bayern,Die PARTEI,020,Nowakowski,Philip Sebastian,Marketingmanager,1996,,
+Bayern,Die PARTEI,021,Glikzon,Andreas,Verwaltungsfachangestellter,2002,,
+Bayern,Die PARTEI,022,Weggenmann,Max Christian,Sachbearbeiter Entsorgung,1990,,
+Bayern,Die PARTEI,023,Foohs,Florian Michael,Software Testingenieur,1986,,
+Bayern,Die PARTEI,024,Frey,Florian Benjamin,kaufm. Angestellter,1998,,
+Bayern,Die PARTEI,025,Knapp,Jörg,Dipl.-Sozialwirt,1966,Nürnberg-Nord,243
+Bayern,Die PARTEI,026,Schmidt,Stefan Markus,Personalentwickler,1979,,
+Bayern,Die PARTEI,027,Bernreuther,Luis,Student,2004,,
+Bayern,Die PARTEI,028,Dietze,Robert Michael,Student,2004,,
+Bayern,Die PARTEI,029,Vogt,Moritz Pius,Trainer,1997,,
+Bayern,Die PARTEI,030,Tirone,Giorgio,Steuerfachwirt,1974,,
+Bayern,Die PARTEI,031,Militzer,Roy,Servicemitarbeiter,1985,,
+Bayern,Die PARTEI,032,Matas,Zeljko,Angestellter,1969,,
+Bayern,Die PARTEI,033,Lutzeier,Michael,Musiker,1966,,
+Bayern,Die PARTEI,034,Menzel,Bernd Michael,Rentner,1965,,
+Bayern,Die PARTEI,035,Groh,Jochen Werner,Projektmanager,1981,,
+Bayern,ÖDP,001,Brendle-Behnisch,Günther Gotthard Karl,"Dipl.-Kaufmann, Pfarrer i. R",1956,,
+Bayern,ÖDP,002,Seitz,Johanna Maria,Referendarin Lehramt Grundschule,2001,Passau,228
+Bayern,ÖDP,003,Wagenhäuser,Esther Karin,Ingenieurin Energietechnik,1988,,
+Bayern,ÖDP,004,Reiter,Wolfgang,Apotheker,1964,Erding – Ebersberg,212
+Bayern,ÖDP,005,Lösel,Lisa,operative Leiterin,1998,Bamberg,235
+Bayern,ÖDP,006,Witt,Susanne Maria,Dipl.-Volkswirt,1969,Amberg,231
+Bayern,ÖDP,007,Natterer-Babych,Franz Josef,"Dipl.-Ingenieur, Oberstudienrat",1975,Oberallgäu,256
+Bayern,ÖDP,008,Antwerpen,Martin Ludwig,Religionslehrer i. K.,1961,Altötting,211
+Bayern,ÖDP,009,Brandenstein,Maria Hedwig,Erziehungswissenschaftlerin (M. A.),1959,Augsburg-Stadt,251
+Bayern,ÖDP,010,Eineichner,Maximilian Olgerts Josef,Metallbaumeister,1963,Rottal-Inn,229
+Bayern,ÖDP,011,Grönninger,Johann Wolfgang,Gärtner,1951,Augsburg-Land,252
+Bayern,ÖDP,012,Heim,Wolf Adrian,Dipl.-Ing. Elektrotechnik,1964,Fürstenfeldbruck,214
+Bayern,ÖDP,013,Hirtreiter,Michael Ludwig,Schreiner,1982,Straubing,230
+Bayern,ÖDP,014,Dr. Huber,Max,Ingenieur Energietechnik,1982,Landshut,227
+Bayern,ÖDP,015,Müller,Thomas Peter Adam,Polizeihauptkommissar a. D.,1963,,
+Bayern,ÖDP,016,Reindl,Rosa Maria,pharmazeutisch-kaufm. Angestellte,1966,,
+Bayern,ÖDP,017,Singer,Franz Johannes Georg,Informatiker,1977,,
+Bayern,ÖDP,018,Stadelmann,Walter,Diakon,1962,Roth,245
+Bayern,ÖDP,019,Dr. Stöhr,Michael Peter,Physiker,1964,,
+Bayern,ÖDP,020,Vath,Klaus Heinz,Dipl.-Ing. Maschinenbau,1969,,
+Bayern,ÖDP,021,Eberhardt,Johannes,Fraktionsassistent,1981,Regensburg,232
+Bayern,ÖDP,022,Sorgatz,Andrea,Verwaltungsangestellte,1971,,
+Bayern,BP,001,Scholz,Marco,Dipl.-Ingenieur,1974,Aschaffenburg,246
+Bayern,BP,002,Geisenfelder,Florian,Bäcker,1991,Landshut,227
+Bayern,BP,003,Steinböck,Anton,Fahrschulleiter,1943,,
+Bayern,BP,004,Wagner,Markus,Lehrer,1980,Starnberg – Landsberg am Lech,223
+Bayern,BP,005,Zinner,Georg,Kriminalhauptkommissar a. D.,1947,,
+Bayern,BP,006,Müller,Alexander,kaufm. Angestellter,1979,,
+Bayern,BP,007,Dotzler,Thomas,Bahnhauptsekretär a. D.,1965,,
+Bayern,BP,008,Dier,Manfred Alois,Polizeibeamter a. D.,1960,,
+Bayern,BP,009,Götz,Thorsten,Rettungssanitäter,1987,Schweinfurt,249
+Bayern,BP,010,Weigl,Anton,Landwirt,1963,,
+Bayern,BP,011,Eberle,Alexander,Referent,1974,,
+Bayern,Volt,001,Lang,Alexandra,Verkehrsingenieurin,1995,München-West/Mitte,219
+Bayern,Volt,002,Penninger,Christian,Leitung Produktentwicklung,1984,Nürnberg-Nord,243
+Bayern,Volt,003,Schwarzmann,Anna Maria Teresa Sophie,Volljuristin,1985,München-Ost,217
+Bayern,Volt,004,Dr. Brünker,Hans-Günter,Schauspieler,1967,,
+Bayern,Volt,005,Jacob,Jana,Ingenieurin,1998,Rosenheim,221
+Bayern,Volt,006,Hermsteiner,Malte,Student,2003,Stade I – Rotenburg II,030
+Bayern,Volt,007,Schnürch,Jennifer,Busfahrerin,1976,,
+Bayern,Volt,008,Stricker,Kai Robin,Angestellter,1992,,
+Bayern,Volt,009,Groß,Astrid Maria Katharina Sofia,Expertin Medien & Bildung,1962,,
+Bayern,Volt,010,Szekely,Adam,Student,2002,,
+Bayern,Volt,011,Radunz,Katharina Maria,Geschäftsleiterin,1986,,
+Bayern,Volt,012,Jahn,Manuel,Prüfer brandschutztechn. Anlagen,1996,Hof,238
+Bayern,Volt,013,Wolter,Carolin Maria Franziska,Werbeberaterin,1993,,
+Bayern,Volt,014,Baumann,Peter,Gestalttherapeut,1968,,
+Bayern,Volt,015,Gardyan,Nay Naiomi,Heilpraktikerin Psychotherapie,1979,,
+Bayern,Volt,016,Scharf,Tim,Angestellter im öffentlichen Dienst,1985,,
+Bayern,Volt,017,Linke,Uschi,Leiterin digitale Transformation,1965,,
+Bayern,Volt,018,Knodel,Kolja Johannes,Student,1996,,
+Bayern,Volt,019,Holzmann,Godela Waltraud,Dipl.-Musikpädagogin,1968,,
+Bayern,Volt,020,Moeser,Matthias Paul,Projektmanager,1988,,
+Bayern,Volt,021,Lange,Linda,Sozialpädagogin,1986,,
+Bayern,Volt,022,Wachsmuth,Oliver,selbst. Berater,1970,,
+Bayern,Volt,023,Sund,Stefanie,Projektmanagerin,1987,,
+Bayern,Volt,024,Schöne,Luis Tristan,Student,1998,,
+Bayern,Volt,025,Steffens,Nicole,Kassiererin,2003,,
+Bayern,Volt,026,von Stosch,Michael,selbst. Metallbaumeister,1989,,
+Bayern,Volt,027,Kuttler,Laura,Juristin,1987,,
+Bayern,Volt,028,Grimm,Samuel Johannes Robert,Student,1998,,
+Bayern,Volt,029,Bachner,Carina Judith,Studentin,1987,,
+Bayern,Volt,030,Nibbe,Joachim Hans Walter,Gastwirt,1960,Weilheim,225
+Bayern,Volt,031,Süssner,Isaura,gepr. Übersetzerin,1998,,
+Bayern,Volt,032,Hummel,Daniel,IT-Berater,1982,,
+Bayern,Volt,033,Reichensdörfer,Madita Valentina Laetitia,"Barkraft, Garderobiere",1998,,
+Bayern,Volt,034,Muschik,Titus Karl Robert,Gesundheits- und Krankenpfleger,1965,Starnberg – Landsberg am Lech,223
+Bayern,Volt,035,Arntz,Sarah Barbara Elodie,Leiterin Finanzen und interne Organisation,1981,,
+Bayern,Volt,036,Schröder,Christoph,Referatsleiter Digitalisierung,1990,Würzburg,250
+Bayern,Volt,037,Raabe,Maria Teresa,Hotelkauffrau,1998,,
+Bayern,Volt,038,Erdmann,Jörn,Kommunikationsmanager,1968,,
+Bayern,PdH,001,Dr. Gürtler,Patrick Simon,Biologe,1979,,
+Bayern,PdH,002,Theimer,Cornelia Marianne,akad. Sprachtherapeutin,1997,,
+Bayern,PdH,003,Cran,Manuel,Psychologe,1987,,
+Bayern,PdH,004,Bär,Alexander Rainer,Softwareentwickler,1994,,
+Bayern,PdH,005,Furtmayr,Samuel Andre,Berater,2001,,
+Bayern,PdH,006,Klughardt,Sascha Udo,Student,1999,,
+Bayern,PdH,007,Schaidt,Sebastian Jochen,Biologielaborant,1996,,
+Bayern,PdH,008,Schimonitschek,Yvonne,Dipl.-Finanzwirt (FH),1997,,
+Bayern,PdH,009,Heywinkel,Franziska,Ergotherapeutin,1991,Rosenheim,221
+Bayern,PdH,010,Ledina,Philip,Unternehmensanalyst,1995,,
+Bayern,PdH,011,Lachenmayer,Raphael Jonas,Qualitätssicherheitsbeauftragter Stromnetzbau,1997,Neu-Ulm,254
+Bayern,PdH,012,Brandstädter,Stefan Andreas,Pflegehilfe Kindernotaufnahme,1993,,
+Bayern,PdH,013,Herter,Thomas,Berufsschullehrer,1986,,
+Bayern,PdH,014,Fromme,Tobias,Biologe,1978,,
+Bayern,PdH,015,Pühler,Stephan Michael,Forschungs- und Entwicklungsmanager,1975,,
+Bayern,PdH,016,Schnurpfeil,Gero,Student,2005,,
+Bayern,PdH,017,Hellmann,Alexander,Student,1997,,
+Bayern,PdH,018,Lehmann,Jesse Joey Anthony,Lehrer,1985,,
+Bayern,PdH,019,Küpers,Tobias,Fachinformatiker,1990,,
+Bayern,PdH,020,Sieger,Oliver,Bauingenieur,1991,,
+Bayern,PdH,021,Stütz,Johannes,Betriebswirt,1988,,
+Bayern,MLPD,001,Ziegler,Patrick,Serviceingenieur,1987,München-Süd,218
+Bayern,MLPD,002,Podufal,Karin Angelika,Ärztin,1967,Nürnberg-Nord,243
+Bayern,MLPD,003,Mischau,Klaus Gerhard,Industriearbeiter,1961,,
+Bayern,MLPD,004,Akkaya,Devrim,Student,1995,,
+Bayern,MLPD,005,Hörner,Manfred Erich Paul,Rechtsanwalt,1951,,
+Bayern,MLPD,006,Gmelch,Therese,Altenpflegerin i. R.,1955,,
+Bayern,MLPD,007,Wirth,Mathias Johann Michael,Auszubildender,1995,,
+Bayern,MLPD,008,Schiel-Zollner,Birgit Gerda,Rentnerin,1952,,
+Bayern,MLPD,009,Naschinski,Alexander,Rentner,1969,,
+Bayern,MLPD,010,Wailersbacher,Artur Ernst,Arbeiter,1963,,
+Bayern,MLPD,011,von Vacano,Antonius Maria Franziskus,Waldarbeiter,1962,,
+Bayern,MLPD,012,Bosch,Yasmin,Softwareentwicklerin,1969,,
+Bayern,MLPD,013,Naumann,Jörg-Uwe,Automobilarbeiter,1954,,
+Bayern,MLPD,014,Rupprecht,Johannes Georg Maria,Rentner,1952,,
+Bayern,MLPD,015,Ziegler,Heinz Kurt,Softwareentwickler,1953,,
+Bayern,BÜNDNIS DEUTSCHLAND,001,Ruder,Birgit,Geschäftsführerin,1960,Roth,245
+Bayern,BÜNDNIS DEUTSCHLAND,002,Dr. Beer,Anton Ludwig,wissenschaftl. Mitarbeiter,1972,Regensburg,232
+Bayern,BÜNDNIS DEUTSCHLAND,003,Gruber,Roland Heinrich,Versicherungsfachmann,1966,,
+Bayern,BÜNDNIS DEUTSCHLAND,004,Hager,Gerhard Rudolf,Elektronikingenieur a. D.,1956,München-Nord,216
+Bayern,BÜNDNIS DEUTSCHLAND,005,Gülmüs,Burhan,Immobilienkaufmann,1968,Aschaffenburg,246
+Bayern,BÜNDNIS DEUTSCHLAND,006,Wolfrum,Gaby Ursula,Arzthelferin,1967,,
+Bayern,BÜNDNIS DEUTSCHLAND,007,Kotzbauer,Johannes Heinz,Lehrer a. D.,1955,Amberg,231
+Bayern,BÜNDNIS DEUTSCHLAND,008,Miller,Robin Christopher,Serviceleiter,1991,Neu-Ulm,254
+Bayern,BÜNDNIS DEUTSCHLAND,009,Kaiser,Michael Werner,IT-Spezialist,1989,Bad Kissingen,247
+Bayern,BÜNDNIS DEUTSCHLAND,010,Hartmann,Martin Josef,Systemelektroniker,1983,,
+Bayern,BÜNDNIS DEUTSCHLAND,011,Bachl,Armin Arnold,Steinmetz- und Steinbildhauermeister,1979,Schwandorf,233
+Bayern,BÜNDNIS DEUTSCHLAND,012,Born,Eva Maria,Heilerziehungspflegerin,1971,Straubing,230
+Bayern,BÜNDNIS DEUTSCHLAND,013,Köhne,Sebastian,Immobilienökonom,1985,München-West/Mitte,219
+Bayern,BÜNDNIS DEUTSCHLAND,014,Bauer,Sergej,Vorarbeiter Produktion,1983,,
+Bayern,BSW,001,Ernst,Klaus Friedrich,Mitglied des Deutschen Bundestages,1954,München-Süd,218
+Bayern,BSW,002,Ketterl,Simone,Pressesprecherin,1988,Passau,228
+Bayern,BSW,003,Ohmayer,Ernst Josef,selbständig,1963,,
+Bayern,BSW,004,Seel,Manfred,Kaufmann,1954,Donau-Ries,253
+Bayern,BSW,005,Freihoffer,Irmgard Astrid,Lehrerin,1961,Regensburg,232
+Bayern,BSW,006,Walther,Rolf Carl Otto,Sachverständiger,1946,,
+Bayern,BSW,007,Hähnlein,René Jens,Angestellter,1971,Coburg,237
+Bayern,BSW,008,Rostek,Patrick,Gewerkschaftssekretär,1992,,
+Bayern,BSW,009,Knoch,Margit Brigitte,Rentnerin,1959,,
+Bayern,BSW,010,Müller,Herbert Martin,Wirtschaftsfachwirt,1950,,
+Bayern,BSW,011,Reinhard,Harald Robert,Geschäftsführer,1966,,
+Bayern,BSW,012,Striesow,Robert,Ergotherapeut (B. Sc.),1987,,
+Bayern,BSW,013,Meichelböck,Paul Werner,Beamter i. R.,1960,,
+Bayern,BSW,014,Scheingraber,Stefan Maximilian Franz,Arzt,1968,,
+Bayern,BSW,015,Salzbrunn,Anton Josef Paul,Rentner,1953,,
+Bayern,BSW,016,Schildbach,Milan,Angestellter,1997,,
+Bayern,BSW,017,Sammann,André,Lehrer,1969,,
+Bayern,BSW,018,Krüger,Stephan,Verkäufer,1962,,
+Bayern,BSW,019,Uebel,Stephan Frank Walter,wissenschaftl. Angestellter,1967,,
+Bayern,BSW,020,Repplinger,Bernadette Elisabeth,Rentnerin,1956,,
+Bayern,BSW,021,Weinzettel,Klaus-Jürgen,Rentner,1956,,
+Bayern,BSW,022,Johann,Peter,Physiker,1952,,
+Bayern,BSW,023,Leonhard,André Bernd,Kaufmann Bürokommunikation,1990,,
+Bayern,BSW,024,Babajev,Tachir,Kaufmann im Groß- und Außenhandel,1980,,
+Bayern,BSW,025,Staudt,Rolf Bernhard,Lehrer i. R.,1954,,

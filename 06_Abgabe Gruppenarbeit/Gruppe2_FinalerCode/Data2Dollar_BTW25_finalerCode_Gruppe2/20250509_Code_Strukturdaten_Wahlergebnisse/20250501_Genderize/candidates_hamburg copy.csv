@@ -1,0 +1,110 @@
+bundesland,partei,listenplatz,nachname,vorname,beruf,geburtsjahr,wahlkreis_name,wahlkreis_nummer
+Hamburg,SPD,001,Schmidt,Wolfgang Walter,"Bundesminister, Jurist",1970,Hamburg-Eimsbüttel,020
+Hamburg,SPD,002,Özoğuz,Saliha Aydan,"MdB, Staatsministerin a. D.",1967,Hamburg-Wandsbek,022
+Hamburg,SPD,003,Hakverdi,Metin,"MdB, Volljurist",1969,Hamburg-Bergedorf – Harburg,023
+Hamburg,SPD,004,Martin,Dorothee Katja Julia,Mitglied des Deutschen Bundestages,1978,Hamburg-Nord,021
+Hamburg,SPD,005,Droßmann,Falko,"MdB, Soldat",1973,Hamburg-Mitte,018
+Hamburg,SPD,006,Haffner,Lena Mailin,Rechtsanwältin,1989,,
+Hamburg,SPD,007,Banerjee,Jens Susmit,Betriebsratsvorsitzender,1977,,
+Hamburg,SPD,008,Sachdeva,Shewta,Schülerin,2006,,
+Hamburg,SPD,009,Litau,Vladislav,Student,1998,,
+Hamburg,SPD,010,Huntemann,Alica,"Tourismuskauffrau, Angestellte",1993,,
+Hamburg,GRÜNE,001,Beck,Katharina Barbara Maria,Unternehmensberaterin Nachhaltigkeit,1982,Hamburg-Nord,021
+Hamburg,GRÜNE,002,Dr. Steffen,Till Benjamin,Rechtsanwalt,1973,Hamburg-Eimsbüttel,020
+Hamburg,GRÜNE,003,Heitmann,Linda,"MdB, Sozialwissenschaftlerin",1982,Hamburg-Altona,019
+Hamburg,GRÜNE,004,Fester,Emilia Johanna,Regieassistentin,1998,Hamburg-Mitte,018
+Hamburg,GRÜNE,005,Brodbeck,Lenka Alžběta,Beraterin Digitalisierung,1982,Hamburg-Bergedorf – Harburg,023
+Hamburg,GRÜNE,006,Sarrazin,Manuel Ferdinand Theodor,Historiker,1982,Hamburg-Wandsbek,022
+Hamburg,GRÜNE,007,Möller-Metzger,Christa,Journalistin,1951,,
+Hamburg,GRÜNE,008,Pscherer,Sarah Leonie,Studentin,1999,,
+Hamburg,GRÜNE,009,Brovtchenko,Ruth,Projektmanagerin,1996,,
+Hamburg,GRÜNE,010,Schultz,Jonas Felix,Student,2006,,
+Hamburg,CDU,001,Dr. Ploß,Christoph Johannes,Historiker,1985,Hamburg-Nord,021
+Hamburg,CDU,002,Hoppermann,Franziska Christina Brigitte,"MdB, Senatsdirektorin",1982,Hamburg-Wandsbek,022
+Hamburg,CDU,003,de Vries,Christoph Bernhard,"MdB, Dipl.-Soziologe",1974,Hamburg-Mitte,018
+Hamburg,CDU,004,Dr. Heintze,Roland,Geschäftsführer,1973,Hamburg-Eimsbüttel,020
+Hamburg,CDU,005,Groß,Clara-Sophie,Juristin,1997,Hamburg-Bergedorf – Harburg,023
+Hamburg,CDU,006,Dr. Steffens,Kaja Christine,Ärztin,1967,Hamburg-Altona,019
+Hamburg,CDU,007,Toprak,Ali Ertan,Unternehmer,1969,,
+Hamburg,CDU,008,Hesse,Klaus-Peter Kurt,Kaufmann,1967,,
+Hamburg,CDU,009,Dieball,Laura Aletta,Angestellte,1994,,
+Hamburg,CDU,010,Dr. Gundelach,Herlind Magdalena,Senatorin a. D.,1949,,
+Hamburg,CDU,011,Möller-Fiedler,Sybille Emma Johanna,Dipl.-Volkswirtin,1960,,
+Hamburg,FDP,001,Schröder,Ria Irmtraut Claudia,Rechtsanwältin,1992,Hamburg-Eimsbüttel,020
+Hamburg,FDP,002,Müller,Bo,Investmentberater,1996,Hamburg-Altona,019
+Hamburg,FDP,003,Bläsing,Robert,Beamter,1982,Hamburg-Nord,021
+Hamburg,FDP,004,Hauptmann,Max,Polizist,1988,Hamburg-Mitte,018
+Hamburg,FDP,005,Gruhn-Bilic,Martina,Referentin,1970,Hamburg-Wandsbek,022
+Hamburg,FDP,006,Dr. Gerlach,Philipp Herbert Friedrich,Unternehmensberater,1973,,
+Hamburg,FDP,007,Zielinski,Mathias,Unternehmer,1975,,
+Hamburg,FDP,008,Ciba,Sylwester,Historiker,1994,Hamburg-Bergedorf – Harburg,023
+Hamburg,FDP,009,Fink,Maurice Julian,Psychologiestudentin,1995,,
+Hamburg,FDP,010,Erdoğan,Ömer Faruk,Taxiunternehmer,1999,,
+Hamburg,Die Linke,001,van Aken,Jan Paul,Biologe,1961,,
+Hamburg,Die Linke,002,Özdemir,Cansu,Mitglied der Hamburgischen Bürgerschaft,1988,,
+Hamburg,Die Linke,003,Tietjen,Insa,Lehrerin,1979,,
+Hamburg,Die Linke,004,Iwan,Thomas,Bauingenieur,1985,Hamburg-Wandsbek,022
+Hamburg,AfD,001,Dr. Baumann,Bernd,Kaufmann,1958,Hamburg-Altona,019
+Hamburg,AfD,002,Dr. Wolf,Alexander Herbert,Rechtsanwalt,1967,Hamburg-Eimsbüttel,020
+Hamburg,AfD,003,Walczak,Krzysztof Rafat,Jurist,1994,,
+Hamburg,AfD,004,Mennerich,Benjamin,Offizier,1981,,
+Hamburg,AfD,005,Heitmann,Peggy Petra,Dipl.-Betriebswirtin,1964,Hamburg-Wandsbek,022
+Hamburg,Tierschutzpartei,001,Tarasov,Kirill,Musikpädagoge,1993,,
+Hamburg,Tierschutzpartei,002,Tietschert,Juliane,"Dipl.-Finanzwirtin, Steuerberaterin",1991,,
+Hamburg,Tierschutzpartei,003,Köll,Andreas Josef Wilhelm,Softwareentwickler,1990,,
+Hamburg,Tierschutzpartei,004,Pfannkuche,Sven,Bürokaufmann,1976,,
+Hamburg,Tierschutzpartei,005,Genski,Tanja Maria,"Theaterpädagogin, Tierschutzlehrerin",1971,,
+Hamburg,Tierschutzpartei,006,Appel,Stephan Johannes Alexander,Gymnasiallehrer,1951,,
+Hamburg,Tierschutzpartei,007,Alba Arteaga,Monika,Versicherungskauffrau,1955,,
+Hamburg,Tierschutzpartei,008,Schwartz,Wilfried Wilhelm,Bankkaufmann i. R.,1950,,
+Hamburg,Tierschutzpartei,009,Becker,Susanne Annegret,Rechtsanwältin,1965,,
+Hamburg,Die PARTEI,001,Jähnke,Philipp,Politikwissenschaftler,1993,,
+Hamburg,Die PARTEI,002,von Beichmann,Marc,Abschnittsleiter im öffentlichen Dienst,1981,,
+Hamburg,Die PARTEI,003,Denker,Katharina Luise Lotti,Verwaltungsangestellte,1985,,
+Hamburg,Die PARTEI,004,Edsen,Samantha,Financial Accountant,1991,,
+Hamburg,Die PARTEI,005,Eickmann,Robin,DevOps Engineer,1996,,
+Hamburg,Die PARTEI,006,Germer,Carsten Wilhelm,"Softwareentwicklung, Verfahrensbetreuung",1970,,
+Hamburg,Die PARTEI,007,Guhl,Carina Larissa,Personalentwicklerin,1987,,
+Hamburg,Die PARTEI,008,Hinz,Steffen,Ingenieur,1989,,
+Hamburg,Die PARTEI,009,Schoenewolf,Martin,Mechaniker,1987,,
+Hamburg,Die PARTEI,010,Tatura,Taro Atanas,Betriebsrat,1992,,
+Hamburg,Die PARTEI,011,Kossin,Jann Michael,Vertrieb,1974,,
+Hamburg,Freie Wähler,001,Lindner,Thomas,"Kundenberater Bank, Sparkasse",1974,Hamburg-Bergedorf – Harburg,023
+Hamburg,Freie Wähler,002,Tobaben,Dominik Heinrich,Informatiker,1994,Hamburg-Nord,021
+Hamburg,Freie Wähler,003,Makar,Nichant,Rechtsanwalt,1993,Hamburg-Mitte,018
+Hamburg,Freie Wähler,004,Kirchhoff,Michael,Bauleiter,1973,Hamburg-Wandsbek,022
+Hamburg,Freie Wähler,005,Diercksen,Egge,Politologe,1973,Hamburg-Altona,019
+Hamburg,Freie Wähler,006,Adler,Sven,Krankenpfleger,1977,,
+Hamburg,Freie Wähler,007,Sannmann,Kai,Gärtnermeister,1968,,
+Hamburg,Freie Wähler,008,Schacker,Jan Timon,Student,2004,Hamburg-Eimsbüttel,020
+Hamburg,Freie Wähler,009,Bühn,Daniel,Student,1997,,
+Hamburg,Freie Wähler,010,Meincke,Daniel,Leitstellendisponent,1991,,
+Hamburg,Freie Wähler,011,Wagner,Hartmut Michael,Instandhaltungsmechaniker,1955,,
+Hamburg,Freie Wähler,012,Pacholke,Knut,Ingenieur Elektrotechnik (Elektronik),1972,,
+Hamburg,Volt,001,Junge,Kira Kristin,Verfahrensingenieurin,1994,,
+Hamburg,Volt,002,Degenhard,Marc Michael,Leiter IT- und Digitalisierungsprojekte,1981,,
+Hamburg,Volt,003,Engelking,Petra,Unternehmerin,1966,Hamburg-Nord,021
+Hamburg,Volt,004,Kristoffersen,Peer Oke,politischer Referent,1997,,
+Hamburg,Volt,005,Schwabe,Vera Hanna Ilse,Steuerassistentin,1996,,
+Hamburg,Volt,006,Wullenweber,Hans-Peter,Rentner,1952,Hamburg-Bergedorf – Harburg,023
+Hamburg,Volt,007,Delong,Friederike,Unternehmende,1981,Hamburg-Mitte,018
+Hamburg,Volt,008,Schmidt,Freerk-Jasper,Gastronom,1992,,
+Hamburg,Volt,009,Petzold,Silvia Susanne,Controllerin,1962,,
+Hamburg,Volt,010,Stein,Marcus,Kriminalassistent,1980,,
+Hamburg,MLPD,001,Bader,Jürgen Albert Richard,Drucker,1960,Hamburg-Bergedorf – Harburg,023
+Hamburg,MLPD,002,Gärtner,Lisa Ursula,Mechatronikerin,1986,Gelsenkirchen,122
+Hamburg,MLPD,003,Griesbaum,Joachim Robert Maria,Schlosser,1955,Hamburg-Mitte,018
+Hamburg,MLPD,004,Kölle,Christian Traugott,Sozialpädagoge,1952,Hamburg-Altona,019
+Hamburg,MLPD,005,Bader,Susanne Doris,Erzieherin,1956,,
+Hamburg,MLPD,006,Nölting,Claus Friedrich Eduard,Gärtner,1961,,
+Hamburg,MLPD,007,Baldes,Franziska,"Sängerin, Rechtsanwaltsgehilfin",1969,,
+Hamburg,MLPD,008,Nianur,Narziss,techn. Angestellte,1964,,
+Hamburg,MLPD,009,Brandt,Irene Gisela Sibylle,Rentnerin,1937,,
+Hamburg,BÜNDNIS DEUTSCHLAND,001,Dietze,Alexander,Dipl.-Kaufmann,1981,,
+Hamburg,BÜNDNIS DEUTSCHLAND,002,Lücke,Kevin Andreas,CTO Barkeeper,1983,,
+Hamburg,BÜNDNIS DEUTSCHLAND,003,Buchholz,Björn,Unternehmensberater,1990,,
+Hamburg,BÜNDNIS DEUTSCHLAND,004,Sternberg,Arne,Auszubildender,2006,,
+Hamburg,BSW,001,Nastic,Zaklin Jadwiga,"MdB, Angehörigenpflegerin",1980,,
+Hamburg,BSW,002,Graf zu Eulenburg,Konstantin Otto,Fotograf,1965,,
+Hamburg,BSW,003,Scheerer,Gottfried Sebastian,Hochschullehrer i. R.,1950,,
+Hamburg,BSW,004,Sepahyar,Malek Mansour,Dipl.-Betriebswirt,1969,,
